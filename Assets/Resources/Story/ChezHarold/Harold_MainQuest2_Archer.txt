@@ -1,0 +1,5 @@
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest2_Archer_1)
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest2_Archer_2)
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest2_Archer_3)
+
+load(ChezHarold/Harold_Default)

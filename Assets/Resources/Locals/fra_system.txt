@@ -1,0 +1,143 @@
+# ------------------------------------------------------------------------
+# -------------------- Title Screen & Settings ---------------------------
+# ------------------------------------------------------------------------
+
+
+title_preMenu = Cliquez pour jouer
+title_newGame = Nouvelle partie
+title_continue = Continuer
+title_quit = Quitter
+title_settings = Paramètres
+settings_audio = Audio
+settings_bgm = BGM
+settings_sfx = SFX
+settings_voice = Voix
+settings_screen = Ecran
+settings_fullscreen = Plein Ecran
+title_enterText = Entrez votre nom...
+title_finishText = Continuer
+title_descName = Entrez votre nom
+end_thanks = Merci d'avoir joué !
+
+
+# ------------------------------------------------------------------------
+# ---------------------- Background --------------------------------------
+# ------------------------------------------------------------------------
+
+Background_Vlatyr_BoyardeeSign = Chez Boyardee
+
+# ------------------------------------------------------------------------
+# ----------------------- Minigames --------------------------------------
+# ------------------------------------------------------------------------
+
+rules_name = Règles
+rules_continue = Continuer
+rules_goal = Objectif
+rules_controls = Contrôles
+
+rules_DK_goal = Survivez 30 secondes. Esquivez dans la direction opposée des dagues.
+rules_DK_controls = Flèches : Esquive dans la direction de la flèche
+
+rules_SR_goal = Echappez à l'ogre en évitant les obstacles.
+rules_SR_controls = Flèches : Déplacement dans la direction de la flèche
+
+rules_PPR_goal = Obtenez au moins 20 points pour gagner. Devinez quels mots Rickey préfère.
+rules_PPR_controls = Cliquez sur un mot pour l'utiliser
+
+rules_CM_goal = Survivez 60 secondes. Esquivez les rochers.
+rules_CM_controls = Flèches : Déplacement dans la direction de la flèche
+
+rules_FM_goal = Trouvez la bonne porte pour retrouver Katsumoto et le dragon.
+rules_FM_controls = Cliquez sur une porte pour la traverser
+
+rules_CF_goal = Charmez le dragon en appuyant sur les touches correspondantes au notes.
+rules_CF_controls = Flèches : Déclencher une note
+
+
+rules_BC_goal = Cuisinez les plats commandés en utilisant les bons ingrédients.
+rules_BC_controls = Clickez sur un ingrédient pour l'utiliser <br>Cliquez sur la cloche pour envoyer la pizza
+
+rules_TA_goal = Trouvez et tirer sur l'arche avant qu'il ne vous tue.
+rules_TA_controls = Utilisez la souris pour vous déplacer<br>Utilisez le clic gauche pour tirer
+
+rules_BBR_goal = Battez Rickey.
+rules_BBA_goal = Battez l'Archer.
+rules_BBR_controls = Attaquez pour infliger des dégats. <br>Parez pour regagner de la vie
+
+rules_PR_goal = Battez Rickey.
+rules_PR_controls = Flêche bas : Bloquer<br>Flêche haute : Attaquer
+
+rules_MM_goal = Trouvez du quartz dans la mine
+rules_MM_controls = Droite / Gauche : Tourner<br>Haut / Bas : Se déplacer
+
+rules_CM_goal = Survivez 60 secondes. Esquivez les rochers.
+rules_CM_controls = Flèches : Déplacement dans la direction de la flèche
+
+game_life = HP : 
+game_player = Joueur :
+
+LFB_Wrong = Faux !
+
+PPR_Parc = Parc
+PPR_Amour = Amour
+PPR_Argent = Argent
+PPR_Arme = Arme
+PPR_Visiteur = Visiteur
+PPR_Impot = Impot
+PPR_Employes = Employés
+PPR_Garde = Garde
+PPR_BoutiqueDeSouvenir = Boutique de Souvenir
+PPR_Chateau = Chateau
+PPR_Amitié = Amitié
+PPR_Rap = Rap
+PPR_Panzer = Panzer
+PPR_Intrus = Intrus
+PPR_DisneyLand = DisneyLand
+PPR_Rickey = Rickey
+PPR_Beaute = Beauté
+PPR_Artifices = Artifices
+PPR_Harold = Harold
+PPR_SeigneurBraise = Seigneur Braise
+
+
+# ------------------------------------------------------------------------
+# ----------------------------- Map --------------------------------------
+# ------------------------------------------------------------------------
+
+ChezHarold = Maison d'Harold
+Intersection = Intersection
+RickeyLand = RickeyLand
+Swamp = Marais
+Swamtyr = Swamtyr
+BraiseFortress = Forteresse Braise
+Mountains = Montagnes
+Mines = Mines
+Vlatyr = Vlatyr
+ChezMarcel = Maison du chasseur
+
+# ------------------------------------------------------------------------
+# -------------------------- Quests --------------------------------------
+# ------------------------------------------------------------------------
+
+mainQuest = Protecteur de Vlatyr
+mainQuest_0 = Rencontrer Boyardee à Vlatyr
+mainQuest_1 = S'occuper de Rickey et de l'Archer
+mainQuest_2 = Aller à la forteresse Braise
+mainQuest_3 = Trouver du quartz dans les mines
+mainQuest_4 = Parler à Harold
+mainQuest_5 = Entrer dans la forteresse
+mainQuest_6 = Parler à Harold
+
+rickeyQuest = Le PDG
+rickeyQuest_0 = Entrer dans Rickeyland
+
+archerQuest = The Archer
+archerQuest_0 = Trouver l'archer à Swamtyr
+archerQuest_1 = Trouver l'archer dans le marais
+archerQuest_2 = Parler au chasseur
+archerQuest_3 = Trouver le chasseur dans le marais
+archerQuest_4 = Confronter l'archer dans le marais
+
+guardQuest = La trace de la secte
+guardQuest_0 = Obtenir la liste d'Harold
+guardQuest_1 = Donner la liste à GARDE

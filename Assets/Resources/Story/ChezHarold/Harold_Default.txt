@@ -1,0 +1,7 @@
+if(mainQuest > 2) ChezHarold/Harold_Guild
+
+choice Choice_Chat
+	Choice_Ideas ChezHarold/Harold_MainQuest_Check
+	Choice_WhyMe ChezHarold/Harold_WhyMe
+	Choice_AboutYou ChezHarold/Harold_You
+	Choice_Nothing ChezHarold/Harold_Exit

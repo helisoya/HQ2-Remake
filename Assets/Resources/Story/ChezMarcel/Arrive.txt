@@ -1,0 +1,9 @@
+playMusic(Exploration_1)
+removeAllCharacters()
+setBackground(MarcelHouse)
+
+if(rain = 1) changeSkybox(NightRain)
+
+if(archerQuest != 3) ChezMarcel/AddMarcel
+
+load(ChezMarcel/Interaction)

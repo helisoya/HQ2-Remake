@@ -1,0 +1,17 @@
+dialog([MC];_;false;ChezHarold_Harold_MainQuest6_NotJoined_1)
+
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest6_NotJoined_2)
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest6_NotJoined_3)
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest6_NotJoined_4)
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest6_NotJoined_5)
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest6_NotJoined_6)
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest6_NotJoined_7)
+
+dialog([MC];_;false;ChezHarold_Harold_MainQuest6_NotJoined_8)
+
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest6_NotJoined_9)
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest6_NotJoined_10)
+
+choice Choice_Generic
+	Choice_Accept ChezHarold/Harold_MainQuest6_LateJoin
+	Choice_Refuse ChezHarold/Harold_MainQuest6_RefuseEnd

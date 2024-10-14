@@ -1,0 +1,8 @@
+playMusic(Exploration_1)
+removeAllCharacters()
+setBackground(VlatyrBoyardeeExterior)
+
+if(rain = 1) changeSkybox(NightRain)
+if(mainQuest > 2 & guardQuest < 100) Vlatyr/AddGUARD
+
+load(Vlatyr/Interaction)

@@ -1,0 +1,6 @@
+dialog(Marcel;Marcel;false;ChezMarcel_Marcel_ArcherQuestDone_1)
+dialog(Marcel;Marcel;false;ChezMarcel_Marcel_ArcherQuestDone_2)
+dialog(Marcel;Marcel;false;ChezMarcel_Marcel_ArcherQuestDone_3)
+dialog(Marcel;Marcel;false;ChezMarcel_Marcel_ArcherQuestDone_4)
+
+load(ChezMarcel/Marcel_Default)

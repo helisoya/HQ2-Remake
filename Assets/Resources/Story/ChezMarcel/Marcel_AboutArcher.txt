@@ -1,0 +1,10 @@
+if(archerQuest = 100) ChezMarcel/Marcel_ArcherQuestDone
+
+dialog(Marcel;Marcel;false;ChezMarcel_Marcel_AboutArcher_1)
+dialog(Marcel;Marcel;false;ChezMarcel_Marcel_AboutArcher_2)
+dialog(Marcel;Marcel;false;ChezMarcel_Marcel_AboutArcher_3)
+dialog(Marcel;Marcel;false;ChezMarcel_Marcel_AboutArcher_4)
+dialog(Marcel;Marcel;false;ChezMarcel_Marcel_AboutArcher_5)
+dialog(Marcel;Marcel;false;ChezMarcel_Marcel_AboutArcher_6)
+
+load(ChezMarcel/Marcel_Default)

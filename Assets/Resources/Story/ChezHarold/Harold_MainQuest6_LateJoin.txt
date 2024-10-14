@@ -1,0 +1,7 @@
+dialog([MC];_;false;ChezHarold_Harold_MainQuest6_NotJoined_Accept_1)
+
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest6_NotJoined_Accept_2)
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest6_NotJoined_Accept_3)
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest6_NotJoined_Accept_4)
+
+load(ChezHarold/Harold_MainQuest6_JoinEnd)

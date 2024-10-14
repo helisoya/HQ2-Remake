@@ -1,0 +1,4 @@
+dialog(Adrian;_;false;Intro_Yes_1)
+dialog(Harold;Harold;false;Intro_Yes_2)
+
+load(Intro/End)

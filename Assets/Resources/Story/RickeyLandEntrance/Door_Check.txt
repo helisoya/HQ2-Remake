@@ -1,0 +1,3 @@
+if(rickeyQuest = 0) RickeyLandEntrance/Door_RickeyQuest0_AskEnter
+
+load(RickeyLandEntrance/Door_No)

@@ -1,0 +1,6 @@
+playMusic(Exploration_Rickey)
+
+setInteractionChapter(Exit;RickeyLandEntrance/Plaza_Enter)
+setInteractionChapter(RickeyLandGuard;RickeyLandEntrance/Drinks_Guard_Check)
+
+interact

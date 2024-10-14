@@ -1,0 +1,145 @@
+# ------------------------------------------------------------------------
+# -------------------- Title Screen & Settings ---------------------------
+# ------------------------------------------------------------------------
+
+
+title_preMenu = Click to play
+title_newGame = New Game
+title_continue = Continue
+title_quit = Quit
+title_settings = Settings
+settings_audio = Audio
+settings_bgm = BGM
+settings_sfx = SFX
+settings_voice = Voice
+settings_screen = Screen
+settings_fullscreen = Fullscreen
+title_enterText = Enter your name...
+title_finishText = Continue
+title_descName = Enter your name
+end_thanks = Thanks for playing !
+
+
+# ------------------------------------------------------------------------
+# ---------------------- Background --------------------------------------
+# ------------------------------------------------------------------------
+
+Background_Vlatyr_BoyardeeSign = Boyardee's
+
+
+# ------------------------------------------------------------------------
+# ----------------------- Minigames --------------------------------------
+# ------------------------------------------------------------------------
+
+rules_name = Rules
+rules_continue = Continue
+rules_goal = Objective
+rules_controls = Controls
+
+rules_DK_goal = Survive for 30 seconds. Dodge in the opposite direction to the daggers.
+rules_DK_controls = Arrow keys : Dodge in the arrow's direction
+
+rules_SR_goal = Escape the ogre by dodging the obstacles. 
+rules_SR_controls = Arrow keys : Move in the arrow's direction
+
+rules_PPR_goal = Score at least 20 points to win. Find out which words Rickey prefers.
+rules_PPR_controls = Click on a word to use it
+
+rules_CM_goal = Survive for 60 seconds. Evade the falling rocks.
+rules_CM_controls = Arrow keys : Move in the arrow's direction
+
+rules_FM_goal = Find the correct door to catch up with Katsumoto and the dragon.
+rules_FM_controls = Click on a door to enter it
+
+rules_CF_goal = Charm the dragon by hitting a note's corresponding key.
+rules_CF_controls = Arrow keys : Trigger a note
+
+
+rules_BC_goal = Cook the ordererd meals by using the correct ingredients.
+rules_BC_controls = Click on an ingredient to use it <br>Click on the bell to send the pizza
+
+rules_TA_goal = Find and shoot the archer before he kills you.
+rules_TA_controls = Use the mouse to move <br>Use left click to shoot
+
+rules_BBR_goal = Defeat Rickey.
+rules_BBA_goal = Defeat the Archer.
+rules_BBR_controls = Attack to deal damage. <br>Guard to gain HP back
+
+rules_PR_goal = Defeat Rickey.
+rules_PR_controls = Down Arrow : Block<br>Up Arrow : Attack
+
+rules_MM_goal = Find quartz in the maze.
+rules_MM_controls = Right / Left : Turn<br>Up / Down : Move
+
+rules_BW_goal = Survive for 60 seconds. Evade the rocks.
+rules_BW_controls = Arrow keys : Move in the arrow's direction
+
+
+game_life = HP : 
+game_player = Player :
+
+LFB_Wrong = Wrong !
+
+PPR_Parc = Park
+PPR_Amour = Love
+PPR_Argent = Money
+PPR_Arme = Weapon
+PPR_Visiteur = Visitor
+PPR_Impot = Taxes
+PPR_Employes = Employees
+PPR_Garde = Guard
+PPR_BoutiqueDeSouvenir = Souvenir Shop
+PPR_Chateau = Castle
+PPR_Amitié = Friendship
+PPR_Rap = Rap
+PPR_Panzer = Panzer
+PPR_Intrus = Intruder
+PPR_DisneyLand = DisneyLand
+PPR_Rickey = Rickey
+PPR_Beaute = Beauty
+PPR_Artifices = Fireworks
+PPR_Harold = Harold
+PPR_SeigneurBraise = Lord Ember
+
+
+# ------------------------------------------------------------------------
+# ----------------------------- Map --------------------------------------
+# ------------------------------------------------------------------------
+
+ChezHarold = Harold's House
+Intersection = Intersection
+RickeyLand = RickeyLand
+Swamp = Swamp
+Swamtyr = Swamtyr
+BraiseFortress = Ember Fortress
+Mountains = Mountains
+Mines = Mines
+Vlatyr = Vlatyr
+ChezMarcel = Hunter's House
+
+# ------------------------------------------------------------------------
+# -------------------------- Quests --------------------------------------
+# ------------------------------------------------------------------------
+
+mainQuest = Protector of Vlatyr
+mainQuest_0 = Meet Boyardee in Vlatyr
+mainQuest_1 = Deal with Rickey and the Archer
+mainQuest_2 = Go to the Braise Fortress
+mainQuest_3 = Find quartz in the mines
+mainQuest_4 = Talk to Harold
+mainQuest_5 = Enter the fortress
+mainQuest_6 = Talk to Harold
+
+rickeyQuest = The CEO
+rickeyQuest_0 = Enter RickeyLand
+
+archerQuest = The Archer
+archerQuest_0 = Find the archer in Swamtyr
+archerQuest_1 = Find the archer in the swamp
+archerQuest_2 = Talk to the hunter
+archerQuest_3 = Find the hunter in the swamp
+archerQuest_4 = Confront the archer in the swamp
+
+guardQuest = The sect's trail
+guardQuest_0 = Get the list from Harold
+guardQuest_1 = Give the list to GUARD

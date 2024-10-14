@@ -1,0 +1,7 @@
+if(mainQuest = 1) ChezHarold/Harold_MainQuest1
+if(mainQuest = 2 & archerQuest = 100) ChezHarold/Harold_MainQuest2_Rickey
+if(mainQuest = 2 & rickeyQuest = 100) ChezHarold/Harold_MainQuest2_Archer
+if(mainQuest = 3) ChezHarold/Harold_MainQuest3
+if(mainQuest = 5) ChezHarold/Harold_MainQuest5
+
+load(ChezHarold/Harold_MainQuest0)

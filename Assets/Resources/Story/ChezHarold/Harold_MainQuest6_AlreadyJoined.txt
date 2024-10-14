@@ -1,0 +1,12 @@
+dialog([MC];_;false;ChezHarold_Harold_MainQuest6_AlreadyJoined_1)
+
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest6_AlreadyJoined_2)
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest6_AlreadyJoined_3)
+
+dialog([MC];_;false;ChezHarold_Harold_MainQuest6_AlreadyJoined_4)
+
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest6_AlreadyJoined_5)
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest6_AlreadyJoined_6)
+dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest6_AlreadyJoined_7)
+
+load(ChezHarold/Harold_MainQuest6_JoinEnd)

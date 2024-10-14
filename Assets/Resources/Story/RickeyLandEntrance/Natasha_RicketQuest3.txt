@@ -1,0 +1,13 @@
+setCharacterAlpha(Natasha;0;true)
+setCharacterPosition(Natasha;Front)
+setCharacterRotation(Natasha;Front)
+setCharacterAlpha(Natasha;1;false)
+
+dialog(???;Natasha;false;RickeyLand_Natasha_RickeyQuest3_1)
+
+setCharacterAlpha(Natasha;0;true)
+setCharacterPosition(Natasha;FrontStatue)
+setCharacterRotation(Natasha;FrontStatue)
+setCharacterAlpha(Natasha;1;false)
+
+load(RickeyLandEntrance/Plaza)

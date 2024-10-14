@@ -1,0 +1,12 @@
+fadeBg(1;true)
+
+removeAllCharacters()
+setBackground(RickeyLandDrinks)
+
+addCharacter(RickeyLandGuard;false)
+setCharacterPosition(RickeyLandGuard;Guard)
+setCharacterRotation(RickeyLandGuard;Guard)
+
+fadeBg(0;false)
+
+load(RickeyLandEntrance/Drinks)

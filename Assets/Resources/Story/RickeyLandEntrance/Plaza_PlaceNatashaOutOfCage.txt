@@ -1,0 +1,6 @@
+setCharacterPosition(Natasha;FrontStatue)
+setCharacterRotation(Natasha;FrontStatue)
+
+fadeBg(0;false)
+
+load(RickeyLandEntrance/Plaza)

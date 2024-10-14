@@ -1,0 +1,12 @@
+dialog(Adrian;_;false;Intro_No_1)
+dialog(Harold;_;false;Intro_No_2)
+
+playSound(Degaine)
+setCharacterBody(Harold;Gun;true)
+
+dialog(Harold;Harold;false;Intro_No_3)
+dialog(narrator;_;false;Intro_No_4)
+
+setCharacterBody(Harold;Normal;false)
+
+load(Intro/End)

@@ -1,0 +1,3 @@
+dialog(narrator;_;false;RickeyLand_Souvenir_TooSoon_1)
+
+load(RickeyLandEntrance/Souvenir)

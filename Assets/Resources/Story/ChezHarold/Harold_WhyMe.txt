@@ -1,0 +1,10 @@
+dialog(Harold;Harold;false;ChezHarold_Harold_WhyMe_1)
+dialog(Harold;Harold;false;ChezHarold_Harold_WhyMe_2)
+dialog(Harold;Harold;false;ChezHarold_Harold_WhyMe_3)
+dialog(Harold;Harold;false;ChezHarold_Harold_WhyMe_4)
+dialog(Harold;Harold;false;ChezHarold_Harold_WhyMe_5)
+dialog(Harold;Harold;false;ChezHarold_Harold_WhyMe_6)
+dialog(Harold;Harold;false;ChezHarold_Harold_WhyMe_7)
+dialog(Harold;Harold;false;ChezHarold_Harold_WhyMe_8)
+
+load(ChezHarold/Harold_Default)

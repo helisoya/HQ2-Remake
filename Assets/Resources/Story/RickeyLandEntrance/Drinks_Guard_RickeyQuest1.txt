@@ -1,0 +1,17 @@
+dialog(narrator;_;false;RickeyLand_Guard_RickeyQuest1_1)
+
+dialog(Security;RickeyLandGuard;false;RickeyLand_Guard_RickeyQuest1_2)
+dialog(Security;RickeyLandGuard;false;RickeyLand_Guard_RickeyQuest1_3)
+dialog(Security;RickeyLandGuard;false;RickeyLand_Guard_RickeyQuest1_4)
+dialog(Security;RickeyLandGuard;false;RickeyLand_Guard_RickeyQuest1_5)
+dialog(Security;RickeyLandGuard;false;RickeyLand_Guard_RickeyQuest1_6)
+
+dialog(Security;_;false;RickeyLand_Guard_RickeyQuest1_7)
+
+dialog(narrator;_;false;RickeyLand_Guard_RickeyQuest1_8)
+dialog(narrator;_;false;RickeyLand_Guard_RickeyQuest1_9)
+dialog(narrator;_;false;RickeyLand_Guard_RickeyQuest1_10)
+
+variable(rickeyQuest;2)
+
+load(RickeyLandEntrance/Drinks)

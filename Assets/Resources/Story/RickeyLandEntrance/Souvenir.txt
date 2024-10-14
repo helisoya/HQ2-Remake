@@ -1,0 +1,6 @@
+playMusic(Exploration_Rickey)
+
+setInteractionChapter(Exit;RickeyLandEntrance/Plaza_Enter)
+setInteractionChapter(Door;RickeyLandEntrance/Souvenir_Door_Check)
+
+interact

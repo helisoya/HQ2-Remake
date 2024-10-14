@@ -1,0 +1,7 @@
+dialog(Harold;Harold;false;ChezHarold_Harold_YouGuild_1)
+dialog(Harold;Harold;false;ChezHarold_Harold_YouGuild_2)
+dialog(Harold;Harold;false;ChezHarold_Harold_YouGuild_3)
+dialog(Harold;Harold;false;ChezHarold_Harold_YouGuild_4)
+dialog(Harold;Harold;false;ChezHarold_Harold_YouGuild_5)
+
+load(ChezHarold/Harold_Guild)

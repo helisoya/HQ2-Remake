@@ -1,0 +1,12 @@
+# Game Items
+# KEY DEFAULT_VALUE
+
+playerName Ramos
+mainQuest 0
+rain 0
+acceptedToJoinHarold 0
+rickeyQuest -1
+archerQuest -1
+mageQuest -1
+guardQuest -1
+discoveredSwamp 0

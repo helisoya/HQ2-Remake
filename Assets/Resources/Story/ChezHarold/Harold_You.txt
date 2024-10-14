@@ -1,0 +1,12 @@
+dialog(Harold;Harold;false;ChezHarold_Harold_You_1)
+dialog(Harold;Harold;false;ChezHarold_Harold_You_2)
+dialog(Harold;Harold;false;ChezHarold_Harold_You_3)
+dialog(Harold;Harold;false;ChezHarold_Harold_You_4)
+dialog(Harold;Harold;false;ChezHarold_Harold_You_5)
+dialog(Harold;Harold;false;ChezHarold_Harold_You_6)
+dialog(Harold;Harold;false;ChezHarold_Harold_You_7)
+dialog(Harold;Harold;false;ChezHarold_Harold_You_8)
+dialog(Harold;Harold;false;ChezHarold_Harold_You_9)
+dialog(Harold;Harold;false;ChezHarold_Harold_You_10)
+
+load(ChezHarold/Harold_Default)
