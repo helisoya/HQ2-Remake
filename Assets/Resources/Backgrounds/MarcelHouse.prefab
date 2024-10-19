@@ -26987,7 +26987,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   backgroundName: MarcelHouse
   markersRoot: {fileID: 8075767996016666909}
-  skyData: {fileID: 11400000, guid: 7fa7e38c302b28d4e96ebac2c2d42b60, type: 2}
+  skyData: {fileID: 11400000, guid: 0101e26efd9a2e34583844a1c674b002, type: 2}
 --- !u!1 &8075767997173214654
 GameObject:
   m_ObjectHideFlags: 0

@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.34236377, g: 0.45600146, b: 0.6150943, a: 1}
-  m_SkyboxMaterial: {fileID: 2100000, guid: 31ca83cd1a674f14ea909d7219bf3b74, type: 2}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 56e634bcd331c0542abdf0f426eb04b5, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -14263,7 +14263,7 @@ Light:
   serializedVersion: 10
   m_Type: 1
   m_Shape: 0
-  m_Color: {r: 0.3433962, g: 0.3433962, b: 0.3433962, a: 1}
+  m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
   m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
@@ -14363,7 +14363,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c331e3a4e76095943aa8b3e1a4d66253, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultSky: {fileID: 11400000, guid: 7fa7e38c302b28d4e96ebac2c2d42b60, type: 2}
+  defaultSky: {fileID: 11400000, guid: 0101e26efd9a2e34583844a1c674b002, type: 2}
   snowEffect: {fileID: 366473340}
   rainEffect: {fileID: 1715276894}
 --- !u!1 &796062075

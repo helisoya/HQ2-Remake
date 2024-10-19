@@ -5353,7 +5353,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   backgroundName: Mountains
   markersRoot: {fileID: 4937282853919463206}
-  skyData: {fileID: 11400000, guid: 7fa7e38c302b28d4e96ebac2c2d42b60, type: 2}
+  skyData: {fileID: 11400000, guid: 0101e26efd9a2e34583844a1c674b002, type: 2}
 --- !u!1 &4937282854788261907
 GameObject:
   m_ObjectHideFlags: 0

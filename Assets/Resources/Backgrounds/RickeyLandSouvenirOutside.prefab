@@ -5501,7 +5501,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   backgroundName: RickeyLandSouvenirOutside
   markersRoot: {fileID: 9067187459553328804}
-  skyData: {fileID: 11400000, guid: 7fa7e38c302b28d4e96ebac2c2d42b60, type: 2}
+  skyData: {fileID: 11400000, guid: 0101e26efd9a2e34583844a1c674b002, type: 2}
 --- !u!1 &9067187459840178440
 GameObject:
   m_ObjectHideFlags: 0

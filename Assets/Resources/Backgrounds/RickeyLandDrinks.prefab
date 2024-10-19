@@ -4375,7 +4375,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   backgroundName: RickeyLandDrinks
   markersRoot: {fileID: 5710729977128096963}
-  skyData: {fileID: 11400000, guid: 7fa7e38c302b28d4e96ebac2c2d42b60, type: 2}
+  skyData: {fileID: 11400000, guid: 0101e26efd9a2e34583844a1c674b002, type: 2}
 --- !u!1 &5710729977948672879
 GameObject:
   m_ObjectHideFlags: 0
