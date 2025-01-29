@@ -75,6 +75,11 @@ rules_BW_goal = Survive for 60 seconds. Evade the rocks.
 rules_BW_controls = Arrow keys : Move in the arrow's direction
 
 
+
+rules_RFM_goal = Survive for 60 seconds. Jump over the logs, and dodge the bullets.
+rules_RFM_controls = Arrow keys : Move in the arrow's direction<br>Space : Jump
+
+
 game_life = HP : 
 game_player = Player :
 

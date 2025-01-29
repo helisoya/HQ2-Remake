@@ -25,6 +25,7 @@ public class MiniGame : MonoBehaviour
     void Awake()
     {
         instance = this;
+        OnAwake();
     }
 
     void Start()
@@ -34,6 +35,23 @@ public class MiniGame : MonoBehaviour
         fade.FadeTo(0);
         gameRoot.SetActive(false);
         rulesRoot.SetActive(true);
+        OnStart();
+    }
+
+    /// <summary>
+    /// Callback on Awake()
+    /// </summary>
+    protected virtual void OnAwake()
+    {
+
+    }
+
+    /// <summary>
+    /// Callback on Start()
+    /// </summary>
+    protected virtual void OnStart()
+    {
+
     }
 
     /// <summary>

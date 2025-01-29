@@ -70,8 +70,12 @@ rules_PR_controls = Flêche bas : Bloquer<br>Flêche haute : Attaquer
 rules_MM_goal = Trouvez du quartz dans la mine
 rules_MM_controls = Droite / Gauche : Tourner<br>Haut / Bas : Se déplacer
 
-rules_CM_goal = Survivez 60 secondes. Esquivez les rochers.
-rules_CM_controls = Flèches : Déplacement dans la direction de la flèche
+
+
+rules_RFM_goal = Survivez 60 secondes. Sautez par dessus les troncs, et evitez les balles.
+rules_RFM_controls = Flèches : Déplacement dans la direction de la flèche<br>Espace : Sauter
+
+
 
 game_life = HP : 
 game_player = Joueur :
