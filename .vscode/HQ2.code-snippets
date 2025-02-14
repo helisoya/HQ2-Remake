@@ -1,0 +1,225 @@
+{
+	// Place your HQ2Remake workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+	// Placeholders with the same ids are connected.
+	// Example:
+	"Change the current music": {
+		"scope": "plaintext",
+		"prefix": "playMusic",
+		"body": [
+			"playMusic(MUSIC)"
+		],
+		"description": "Changes the current music"
+	},
+	"Dialog": {
+		"scope": "plaintext",
+		"prefix": "dialog",
+		"body": [
+			"dialog(SPEAKER_ID;CHARACTER_ID;ADDITIVE;TEXT_ID)"
+		],
+		"description": "Shows a dialog"
+	},
+	"Change the background": {
+		"scope": "plaintext",
+		"prefix": "setBackground",
+		"body": [
+			"setBackground(BACKGROUND;RESETSKYDATA)"
+		],
+		"description": "Changes the background"
+	},
+	"Play a sound": {
+		"scope": "plaintext",
+		"prefix": "playSound",
+		"body": [
+			"playSound(SFX)"
+		],
+		"description": "Plays a sound"
+	},
+	"Remove all characters": {
+		"scope": "plaintext",
+		"prefix": "removeAllCharacters",
+		"body": [
+			"removeAllCharacters()"
+		],
+		"description": "Removes all characters from the scene"
+	},
+	"Add a character": {
+		"scope": "plaintext",
+		"prefix": "addCharacter",
+		"body": [
+			"addCharacter(CHARACTER_ID;STARTHIDDEN)"
+		],
+		"description": "Adds a character"
+	},
+	"Remove a character": {
+		"scope": "plaintext",
+		"prefix": "removeCharacter",
+		"body": [
+			"removeCharacter(CHARACTER_ID)"
+		],
+		"description": "Removes a character"
+	},
+	"Set a character's position": {
+		"scope": "plaintext",
+		"prefix": "setCharacterPosition",
+		"body": [
+			"setCharacterPosition(CHARACTER_ID;MARKER_ID)"
+		],
+		"description": "Sets a character's position"
+	},
+	"Set a character's rotation": {
+		"scope": "plaintext",
+		"prefix": "setCharacterRotation",
+		"body": [
+			"setCharacterRotation(CHARACTER_ID;MARKER_ID)"
+		],
+		"description": "Sets a character's rotation"
+	},
+	"Set a character's mouth": {
+		"scope": "plaintext",
+		"prefix": "setCharacterMouth",
+		"body": [
+			"setCharacterMouth(CHARACTER_ID;MOUTH_ID)"
+		],
+		"description": "Sets a character's mouth"
+	},
+	"Set a character's eye": {
+		"scope": "plaintext",
+		"prefix": "setCharacterEye",
+		"body": [
+			"setCharacterEye(CHARACTER_ID;EYE_ID)"
+		],
+		"description": "Sets a character's eye"
+	},
+	"Set a character's body": {
+		"scope": "plaintext",
+		"prefix": "setCharacterBody",
+		"body": [
+			"setCharacterBody(CHARACTER_ID;BODY_ID;IMMEDIATE)"
+		],
+		"description": "Sets a character's body"
+	},
+	"Set the triggered chapter for an interraction": {
+		"scope": "plaintext",
+		"prefix": "setInteractionChapter",
+		"body": [
+			"setInteractionChapter(INTERRACTION_ID;NEXTCHAPTER)"
+		],
+		"description": "Sets the triggered chapter for an interraction"
+	},
+	"Set the triggered chapter to be hidden": {
+		"scope": "plaintext",
+		"prefix": "setInteractionHidden",
+		"body": [
+			"setInteractionCsetInteractionHiddenhapter(INTERRACTION_ID;HIDDEN)"
+		],
+		"description": "Sets the triggered chapter to be hidden"
+	},
+	"Set a character's alpha": {
+		"scope": "plaintext",
+		"prefix": "setCharacterAlpha",
+		"body": [
+			"setCharacterAlpha(CHARACTER_ID;TARGETALPHA;WAITFOREND)"
+		],
+		"description": "Sets a character's alpha"
+	},
+	"Fade the background": {
+		"scope": "plaintext",
+		"prefix": "fadeBg",
+		"body": [
+			"fadeBg(ALPHATARGET;WAITFOREND)"
+		],
+		"description": "Fade the background"
+	},
+	"Fade the foreground": {
+		"scope": "plaintext",
+		"prefix": "fadeFg",
+		"body": [
+			"fadeFg(ALPHATARGET;WAITFOREND)"
+		],
+		"description": "Fade the foreground"
+	},
+	"Set the camera's position": {
+		"scope": "plaintext",
+		"prefix": "cameraPosition",
+		"body": [
+			"cameraPosition(X;Y;Z;IMMEDIATE;WAITFOREND)"
+		],
+		"description": "Sets the camera's position"
+	},
+	"Set the camera's rotation": {
+		"scope": "plaintext",
+		"prefix": "cameraRotation",
+		"body": [
+			"cameraRotation(X;Y;Z;IMMEDIATE;WAITFOREND)"
+		],
+		"description": "Sets the camera's rotation"
+	},
+	"Load a new chapter file": {
+		"scope": "plaintext",
+		"prefix": "load",
+		"body": [
+			"load(CHAPTER)"
+		],
+		"description": "Loads a new chapter file"
+	},
+	"Go back to the main menu": {
+		"scope": "plaintext",
+		"prefix": "mainMenu",
+		"body": [
+			"mainMenu()"
+		],
+		"description": "Goes back to the main menu"
+	},
+	"Load a new scene": {
+		"scope": "plaintext",
+		"prefix": "loadScene",
+		"body": [
+			"loadScene(SCENE)"
+		],
+		"description": "Loads a new scene"
+	},
+	"Play a voice clip": {
+		"scope": "plaintext",
+		"prefix": "voice",
+		"body": [
+			"voice(VOICE)"
+		],
+		"description": "Plays a voice clip"
+	},
+	"Open the map": {
+		"scope": "plaintext",
+		"prefix": "map",
+		"body": [
+			"map(MAPID;CURRENTPOINT)"
+		],
+		"description": "Opens the map"
+	},
+	"Change a variable": {
+		"scope": "plaintext",
+		"prefix": "variable",
+		"body": [
+			"variable(VARIABLEID;NEWVALUE)"
+		],
+		"description": "Changes a variable"
+	},
+	"Change the skybox": {
+		"scope": "plaintext",
+		"prefix": "changeSkybox",
+		"body": [
+			"changeSkybox(SKYBOX)"
+		],
+		"description": "Changes the skybox"
+	},
+	"Wait": {
+		"scope": "plaintext",
+		"prefix": "wait",
+		"body": [
+			"wait(SECONDS)"
+		],
+		"description": "Waits for a set amount of time"
+	}
+}
