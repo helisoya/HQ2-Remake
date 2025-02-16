@@ -2,8 +2,6 @@ fadeBg(1;true)
 
 setBackground(HaroldSalon)
 
-if(guardQuest = 0) ChezHarold/Salon_GUARDQuest0
-
 addCharacter(Harold;false)
 setCharacterPosition(Harold;Couch)
 setCharacterRotation(Harold;Couch)

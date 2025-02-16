@@ -51,6 +51,8 @@ Choice_AboutArcher = A propos de l'archer
 Choice_WhyMe = Pourquoi moi ?
 Choice_Guild = A propos de la guilde
 Choice_AboutSect = A propos de la secte
+Choice_LastYear = A propos de l'année dernière
+Choice_Grimoire = A propos du grimoire
 
 Choice_Left = Aller à Gauche
 Choice_Right = Aller à Droite
@@ -227,170 +229,32 @@ Intro_149 = Je peux intéragir avec les objets bleus. Pour bouger, je peux inté
 # ------------- Chez Harold -------------------------------
 # ---------------------------------------------------------
 
-ChezHarold_Car_1 = La voiture d'Harold. Elle est fermée, donc je ne peux pas entrer dedans.
+ChezHarold_Car_1 = La voiture d'Harold. Dire que j'ai du retrouver ses clés...
 
-ChezHarold_Harold_WhyMe_1 = Vous êtes le candidat le plus fort que je connaissais !
-ChezHarold_Harold_WhyMe_2 = Quand je décide d'invoquer un héro, je fais quelques recherches avant.
-ChezHarold_Harold_WhyMe_3 = Je crée une liste de candidats potentiels, puis je selectionne le plus adapté pour la mission.
-ChezHarold_Harold_WhyMe_4 = Dans votre cas, il n'y avait que deux candidats.
-ChezHarold_Harold_WhyMe_5 = Je pensais que l'autre candidat refuserai de m'aider, car je l'avais déjà invoqué auparavent.
-ChezHarold_Harold_WhyMe_6 = C'est lui qui avais tué le dragon, vous savez. J'ai pensé qu'il méritait un peu de repos.
-ChezHarold_Harold_WhyMe_7 = Ce qui ne laissa que vous, [MC]. Vous m'avez impressioné avec vos compétences en combat.
-ChezHarold_Harold_WhyMe_8 = Je savais que vous seriez capable de vaincre les cibles de ce soir.
+ChezHarold_Harold_LastTime_1 = Vous êtes venu ici la dernière fois il y a un an.
+ChezHarold_Harold_LastTime_2 = A l'époque, je vous avais demandé de retrouver mes clés de voitures.
+ChezHarold_Harold_LastTime_3 = Une expédition idiote, j'en suis vraiment navré.
+ChezHarold_Harold_LastTime_4 = Peu de temps après votre départ, un nouvel incident est arrivé.
+ChezHarold_Harold_LastTime_5 = Des criminels ont tenté de prendre le contrôle de la forteresse, dont Rickey.
+ChezHarold_Harold_LastTime_6 = Je savais que je ne pouvais pas vous faire revenir, pas aussi tôt en tout cas...
+ChezHarold_Harold_LastTime_7 = Donc j'ai décidé de tout gérer moi-même. Et j'ai réussit !
+ChezHarold_Harold_LastTime_8 = La province est redevenu paisible pendant un an, jusqu'à la semaine dernière.
+ChezHarold_Harold_LastTime_9 = La vielle forteresse a explosée, et Rickey a volé mon grimoire.
+ChezHarold_Harold_LastTime_10 = Je savais que j'avais besoin d'aide. Je vous ais donc invoqué à nouveau.
 
-ChezHarold_Harold_You_1 = Je suis Harold, un ancient danseur à la retraite.
-ChezHarold_Harold_You_2 = A l'époque, je voyagais dans le monde entier. Je dansais pour n'importe qui.
-ChezHarold_Harold_You_3 = Ce n'était pas le meilleur travail, ni même le mieux payé, mais j'aimais voyager.
-ChezHarold_Harold_You_4 = Je suis tombé eventuellement amoureux d'une noble du pays de Lonas. Nous allions nous marrier.
-ChezHarold_Harold_You_5 = Mais à cause d'un incident, j'ai été expulsé du pays. Je suis alors revenu à Vlatyr.
-ChezHarold_Harold_You_6 = Elle me manque toujours... Je pense c'est la même chose pour elle.
-ChezHarold_Harold_You_7 = Enfin... comme j'étais vieux et ennuyé, j'ai décidé d'apprendre la magie.
-ChezHarold_Harold_You_8 = C'est vraiment simple à faire ! Il faut juste trouver un dieu protecteur, et apprendre.
-ChezHarold_Harold_You_9 = J'ai choisi le mien, et j'ai appris à propos de l'invocation de personnes d'autres mondes.
-ChezHarold_Harold_You_10 = Ainsi, en cas de problèmes, je peut utiliser mes pouvoirs pour invoquer un héro d'un autre monde.
-
-ChezHarold_Harold_Guild_1 = J'ai fondé la guilde il y a quelques années. A l'époque, il n'y avait que moi.
-ChezHarold_Harold_Guild_2 = Comme nous sommes des justiciers de l'ombre, nous ne pouvons pas chercher publiquement des membres.
-ChezHarold_Harold_Guild_3 = A cause de ça, la plupart de nos membres ont des liens de famille. Ce n'est pas si mal au fond.
-ChezHarold_Harold_Guild_4 = Notre but, comme je vous l'avais dis plus tôt, est de faire face aux différentes épreuves que le monde propose.
-ChezHarold_Harold_Guild_5 = Pas seulement à Vlatyr, mais aussi dans d'autres régions comme Runan.
-ChezHarold_Harold_Guild_6 = Quand une épreuve arrive, nous sommes prêt.
-
-ChezHarold_Harold_YouGuild_1 = Je suis le fondateur de la guilde.
-ChezHarold_Harold_YouGuild_2 = Pour cette raison, je suis le "chef" la bas. Même si techniquement je ne fais pas grand chose.
-ChezHarold_Harold_YouGuild_3 = Lors d'épreuves difficiles, j'invoque des héros pour nous aider.
-ChezHarold_Harold_YouGuild_4 = Mais en temps normal, je fais de la paperasse.
-ChezHarold_Harold_YouGuild_5 = Vous savez. Qui est dans la guilde. Qui est allé en mission...
-
-ChezHarold_Harold_MainQuest0_1 = Allez à Vlatyr, et parler à Mr.Boyardee.
-ChezHarold_Harold_MainQuest0_2 = C'est un de mes amis. Il possède une boutique en ville.
-ChezHarold_Harold_MainQuest0_3 = Il vous donnera de l'équipement dont vous aurez besoin durant votre mission.
-ChezHarold_Harold_MainQuest0_4 = Vous ne pourrez pas poursuivre sans, donc ne tardez pas.
-ChezHarold_Harold_MainQuest0_5 = J'espère simplement qu'il ne vous embetera pas trop.
-
-ChezHarold_Harold_MainQuest1_1 = Vous pouvez maintenant vous occupez de vos cibles.
-ChezHarold_Harold_MainQuest1_2 = Rickey est pour le moment en train de se préparer dans son parc, RickeyLand.
-ChezHarold_Harold_MainQuest1_3 = Attention, j'ai entendu dire qu'il avait engagé des gardes récemment. Il est aussi très volatile.
-ChezHarold_Harold_MainQuest1_4 = L'archer, quand à lui, devrait être à Swamtyr, un petit village à coté du marais.
-ChezHarold_Harold_MainQuest1_5 = Faites attention, j'ai entendu dire qu'il avait aidé à tuer une dangereuse bête vivant dans le marais.
-
-ChezHarold_Harold_MainQuest2_Rickey_1 = Rickey est allé à la forteresse ?!
-ChezHarold_Harold_MainQuest2_Rickey_2 = Poursuivez-le ! Mais faites attention.
-ChezHarold_Harold_MainQuest2_Rickey_3 = Son tank est bien plus puissant que vous le l'imaginez...
-
-ChezHarold_Harold_MainQuest2_Archer_1 = Donc l'archer est allé à la forteresse...
-ChezHarold_Harold_MainQuest2_Archer_2 = Suivez-le. Mais faites attention aux artefactes qu'il aura volé.
-ChezHarold_Harold_MainQuest2_Archer_3 = J'ai entendu dire que certains d'entre eux rendent leur utilisateur invincible...
-
-ChezHarold_Harold_MainQuest3_1 = Vous devez aller à la mine.
-ChezHarold_Harold_MainQuest3_2 = Vous y trouverez le quartz dont nous avons besoin.
-
-ChezHarold_Harold_MainQuest4_1 = [MC] ! Avez-vous trouvé le quartz dont j'ai besoin ?
-ChezHarold_Harold_MainQuest4_2 = Oui. Le voici.
-ChezHarold_Harold_MainQuest4_3 = Je donne à Harold le quartz.
-ChezHarold_Harold_MainQuest4_4 = Merci, [MC]. Attendez ici, je vais finir la potion dans quelques minutes.
-ChezHarold_Harold_MainQuest4_5 = Harold quitte la pièce. Je suppose que ses outils ne sont pas ici.
-ChezHarold_Harold_MainQuest4_6 = Après quelques minutes, il revient avec une potion étrange dans sa main.
-ChezHarold_Harold_MainQuest4_7 = Voila ! J'ai réussit à concocter la potion.
-ChezHarold_Harold_MainQuest4_8 = Si vous la buvez, vous pourrez traverser la barrière de la forteresse.
-ChezHarold_Harold_MainQuest4_9 = Soyez cependant prudent. Les effets ne durent que quelques minutes.
-ChezHarold_Harold_MainQuest4_10 = Ce qui veut dire que je serai coincé dans la forteresse tant que le sorcier sera là.
-ChezHarold_Harold_MainQuest4_11 = Oui. Mais j'ai foi en vous. Vous allez l'arrêter, non ?
-ChezHarold_Harold_MainQuest4_12 = Bien sur.
-ChezHarold_Harold_MainQuest4_13 = Une fois dans la forteresse, votre premier objectif sera de localiser l'orbe du chaos.
-ChezHarold_Harold_MainQuest4_14 = Je pense qu'elle est cachée dans la salle du trône.
-ChezHarold_Harold_MainQuest4_15 = Vous devez la trouver avant le sorcier, ou la région sera en grave danger.
-ChezHarold_Harold_MainQuest4_16 = N'ais crainte. Il ne posera pas un doigt sur l'orbe.
-ChezHarold_Harold_MainQuest4_17 = Bien, merci.
-ChezHarold_Harold_MainQuest4_18 = Bonne chance, [MC].
-
-ChezHarold_Harold_MainQuest5_1 = Vous devez aller à la forteresse et vaincre le sorcier.
-ChezHarold_Harold_MainQuest5_2 = Nous ne pouvons pas le laisser trouver l'orbe du chaos, [MC] !
-
-ChezHarold_Harold_MainQuest6_1 = [MC] ! Avez-vous réussit ? Le sorcier a-t-il été vaincu ?
-ChezHarold_Harold_MainQuest6_2 = Oui. Il ne va plus menacer la région maintenant.
-ChezHarold_Harold_MainQuest6_3 = Bien, bien. Et l'orbe ? L'avez-vous sécurisée ?
-ChezHarold_Harold_MainQuest6_4 = Elle a disparu quand le sorcier a tenté de l'utiliser.
-ChezHarold_Harold_MainQuest6_5 = Je ne sais pas ou elle se trouve maintenant.
-ChezHarold_Harold_MainQuest6_6 = Ah, je savais que ça pouvais arriver...
-ChezHarold_Harold_MainQuest6_7 = J'ai entendu dire que l'orbe du chaos pouvais disparaitre quand mal utilisée. 
-ChezHarold_Harold_MainQuest6_8 = Je suppose que notre ami n'a pas su s'en servir correctement.
-ChezHarold_Harold_MainQuest6_9 = Ce qui est une bonne nouvelle. Personne ne pourra utiliser l'orbe maintenant.
-ChezHarold_Harold_MainQuest6_10 = Mais je suis un peut triste, je voulais l'examiner un peu. Ce n'est cependant pas grâve.
-ChezHarold_Harold_MainQuest6_11 = La paix est plus importante que ma curiosité, pas vrai ?
-ChezHarold_Harold_MainQuest6_12 = Bien sur.
-
-ChezHarold_Harold_MainQuest6_NotJoined_1 = Vous pouvez me renvoyer dans mon monde maintenant ?
-ChezHarold_Harold_MainQuest6_NotJoined_2 = Ah, Je... Je suppose que je devrais le faire.
-ChezHarold_Harold_MainQuest6_NotJoined_3 = [MC], je suis vraiment désolé. J'aurais dû tout vous dire depuis le début.
-ChezHarold_Harold_MainQuest6_NotJoined_4 = Etes-vous sur de vouloir repartir ?
-ChezHarold_Harold_MainQuest6_NotJoined_5 = Je peux vous aider. La guilde peut vous aider.
-ChezHarold_Harold_MainQuest6_NotJoined_6 = Vous avez montré de grandes capacités durant cet épreuve.
-ChezHarold_Harold_MainQuest6_NotJoined_7 = Nous aurions besoin de personnes avec vos talents. Nous pourions donner sens à votre vie.
-ChezHarold_Harold_MainQuest6_NotJoined_8 = ...
-ChezHarold_Harold_MainQuest6_NotJoined_9 = S'il vous plait. Au moins réfléchissez-y. Je ne veux que vous aider.
-ChezHarold_Harold_MainQuest6_NotJoined_10 = Allez-vous nous rejoindre ?
-
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_1 = Non. Je suis désolé, mais non.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_2 = Comme je l'ai dit avant, je vais regretter de quitter mon monde.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_3 = Je vois. Je respecte votre décision.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_4 = Je vais donc vous renvoyer dans votre monde.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_5 = Tenez, buvez cette potion. Elle vous renvera dans votre monde.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_6 = Harold me donne une potion. Enfin...
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_7 = Je la bois, je tombe dans l'inconscience immédiatement.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_8 = Quand je me réveille, je suis de retour dans mon monde.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_9 = Quel désastre... Je devrais sortir marcher un peu.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_10 = Je me lève, et me dirige vers l'entrée de ma maison.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_11 = Tout à l'air en ordre.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_12 = Une fois sorti, je regare le ciel.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_13 = ....... 
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_14 = Etrange... J'ai l'impression... D'avoir déjà été ici ?
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_15 = C'est ma maison ? Je... Je pense.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_16 = Je... Je... Oui. C'est ma maison. Je suis juste fatigué.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_17 = Tout va bien. Rien n'a changé.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_18 = Je vais maintenant aller travailler.....
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_19 = Ils ont besoin de moi. Ils ont besoin de mes capacités.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_20 = Allons-y.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_21 = ........
+ChezHarold_Harold_Grimoire_1 = Mon grimoire est remplis de secrets magiques.
+ChezHarold_Harold_Grimoire_2 = Avec lui, un individu peut facilement invoquer n'importe quoi dans ce monde.
+ChezHarold_Harold_Grimoire_3 = Donc vous vous douter ce que pourrait faire un PDG fou avec un tel grimoire.
+ChezHarold_Harold_Grimoire_4 = Il pourrait invoquer des horreurs, et conquérir le monde à tout moment.
+ChezHarold_Harold_Grimoire_5 = C'est une bonne chose que je me souviens de l'incantation pour vous invoquer. Sinon, j'aurais eu des problèmes.
 
 
-ChezHarold_Harold_MainQuest6_NotJoined_Accept_1 = D'accord, d'accord. Je vais rejoindre votre guilde.
-ChezHarold_Harold_MainQuest6_NotJoined_Accept_2 = Merci, [MC] !
-ChezHarold_Harold_MainQuest6_NotJoined_Accept_3 = Vous ne le regretterez pas. Nous avons besoin de gens comme vous.
-ChezHarold_Harold_MainQuest6_NotJoined_Accept_4 = Maintenant, reposez vous. Vous en avez bien besoin.
-
-
-ChezHarold_Harold_MainQuest6_AlreadyJoined_1 = Et quoi maintenant ?
-ChezHarold_Harold_MainQuest6_AlreadyJoined_2 = Et bien, vous avez eu un avant gout des épreuves que la guilde doit affronter.
-ChezHarold_Harold_MainQuest6_AlreadyJoined_3 = Je suis sur que ce sera pas le dernier. De nouvelles épreuves arriveront bientôt.
-ChezHarold_Harold_MainQuest6_AlreadyJoined_4 = Je serai prêt à leur faire face.
-ChezHarold_Harold_MainQuest6_AlreadyJoined_5 = J'en sur sur. Merci de nous avoir rejoint par ailleurs.
-ChezHarold_Harold_MainQuest6_AlreadyJoined_6 = Je savais que je pouvais vous faire confiance. Vous êtes vraiment intéressant.
-ChezHarold_Harold_MainQuest6_AlreadyJoined_7 = Reposez-vous, [MC]. Vous en avez bien besoin.
-
-ChezHarold_Harold_MainQuest6_AlreadyJoined_8 = Je vais vous introduire aux membres de la guilde plus tard.
-ChezHarold_Harold_MainQuest6_AlreadyJoined_9 = Très bien...
-ChezHarold_Harold_MainQuest6_AlreadyJoined_10 = Ainsi, ma petite aventure prit fin.
-ChezHarold_Harold_MainQuest6_AlreadyJoined_11 = Harold m'a introduit à sa guilde. Ils sont plutôt étrange, je dois dire.
-ChezHarold_Harold_MainQuest6_AlreadyJoined_12 = Mais une fois qu'ils ont commencé à me donner des quêtes et des épreuves à surmonter. Je me suis senti chez moi.
-ChezHarold_Harold_MainQuest6_AlreadyJoined_13 = Je ne sais pas ce que le futur promet. Mais je serais pret à me battre.
-
-
-ChezHarold_Harold_MainQuest6_End_1 = Fin.
-ChezHarold_Harold_MainQuest6_End_2 = Merci d'avoir joué !
+ChezHarold_Harold_MainQuest0_1 = Vous devez entrer dans RickeyLand, [MC].
+ChezHarold_Harold_MainQuest0_2 = Finir les 4 attractions principales est la seule manière d'obtenir mon grimoire.
 
 
 ChezHarold_Harold_Default = [MC] ! Avez-vous besoin d'aide ?
 
-ChezHarold_GUARDQuest0_1 = Oh ? Harold n'est pas là ?
-ChezHarold_GUARDQuest0_2 = Je voulais lui demander à propos de la liste de GARDE.
-ChezHarold_GUARDQuest0_3 = Tant pis... Peut être que je peux la trouver sans lui.
-ChezHarold_GUARDQuest0_4 = Je commence à chercher pour voir si je la trouve.
-ChezHarold_GUARDQuest0_5 = Après avoir cherché un peu, je la trouve en sandwich entre deux livres.
-ChezHarold_GUARDQuest0_6 = La voila. La liste des membres de la secte...
-ChezHarold_GUARDQuest0_7 = Il n'y a pas beaucoup de noms dessus, étrange...
-ChezHarold_GUARDQuest0_8 = Son nom est "Chapitre de Kalia". Je me demande ce que cela veut dire.
-ChezHarold_GUARDQuest0_9 = Je devrais la donner à GARDE.
 
 
 # ---------------------------------------------------------

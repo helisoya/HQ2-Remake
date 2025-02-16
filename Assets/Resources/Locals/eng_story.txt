@@ -50,6 +50,8 @@ Choice_AboutArcher = About the Archer
 Choice_WhyMe = Why me ?
 Choice_Guild = About the guild
 Choice_AboutSect = About the sect
+Choice_LastYear = About last year
+Choice_Grimoire = About the grimoire
 
 Choice_Left = Go left
 Choice_Right = Go right
@@ -224,171 +226,33 @@ Intro_149 = You can interract with glowing blue objects. To move, interract with
 # ------------- Chez Harold -------------------------------
 # ---------------------------------------------------------
 
-ChezHarold_Car_1 = Harold's car. This thing's old...
+ChezHarold_Car_1 = Harold's car. To think I had to find his keys...
 
-ChezHarold_Harold_WhyMe_1 = You are the strongest candidate I knew of !
-ChezHarold_Harold_WhyMe_2 = Whenever I decide to summon a hero, I do research.
-ChezHarold_Harold_WhyMe_3 = I make a list of potential candidates, then find the perfect one for the job.
-ChezHarold_Harold_WhyMe_4 = In your case, there were only two candidates.
-ChezHarold_Harold_WhyMe_5 = I believed the other candidate would refuse to help me, since I summoned him before.
-ChezHarold_Harold_WhyMe_6 = He was the one who killed the dragon, you see. I thought he deserved to rest a little.
-ChezHarold_Harold_WhyMe_7 = Which only left you, [MC]. You honestly impressed me with your combat skills.
-ChezHarold_Harold_WhyMe_8 = I knew your were more than capable of defeating tonight's targets.    
+ChezHarold_Harold_LastTime_1 = You last came here a year ago.
+ChezHarold_Harold_LastTime_2 = At the time, I needed you to get my car keys back.
+ChezHarold_Harold_LastTime_3 = Such a foolish errand, I'm truly sorry about that.
+ChezHarold_Harold_LastTime_4 = Not long after your departure, another incident happened.
+ChezHarold_Harold_LastTime_5 = Some people tried to take control of the dragon's fortress, including Rickey.
+ChezHarold_Harold_LastTime_6 = I knew I couldn't call you back, not so soon anyway...
+ChezHarold_Harold_LastTime_7 = So I decided to handle things myself. And it worked !
+ChezHarold_Harold_LastTime_8 = The province was safe for a year, until last week...
+ChezHarold_Harold_LastTime_9 = The old fortress exploded without warning, and Rickey stole my grimoire.
+ChezHarold_Harold_LastTime_10 = I knew I needed help for this one, so I summoned you back.
 
-ChezHarold_Harold_You_1 = I'm Harold, an old dancer now enjoying my retirement.
-ChezHarold_Harold_You_2 = I used to travel the world, and dance for whoever wanted to.
-ChezHarold_Harold_You_3 = It wasn't the greatest job, nor the highest pay, but I loved to travel.
-ChezHarold_Harold_You_4 = I eventually fell in love with a noble lady from the country of Lonas. We were ready to get married.
-ChezHarold_Harold_You_5 = But due to an incident, I was kicked out of the country. So I came back to my native Vlatyr.
-ChezHarold_Harold_You_6 = I still miss her to this day... I bet she does too.
-ChezHarold_Harold_You_7 = But anyway, since I was bored and old, I decided to learn magic.
-ChezHarold_Harold_You_8 = It's really easy to do ! You just need to find a protector god, and learn.
-ChezHarold_Harold_You_9 = I picked mine, and learned all about summoning people from other worlds.
-ChezHarold_Harold_You_10 = That way, if things were to ever go bad, I could use my powers to summon a hero from another world.
-
-ChezHarold_Harold_Guild_1 = I founded the guild a few years ago. Back then, it was just me.
-ChezHarold_Harold_Guild_2 = Since we are secretive vigilantes of some sort, we could just ask for members in the open.
-ChezHarold_Harold_Guild_3 = Because of that, most of our members have links with each other. It's not a bad thing.
-ChezHarold_Harold_Guild_4 = Our goal, like I told you before, is to face the various ordeal the world has to offer.
-ChezHarold_Harold_Guild_5 = Not just in Vlatyr, also in other regions like Runan.
-ChezHarold_Harold_Guild_6 = Whenever an ordeal appears, we are ready.
-
-ChezHarold_Harold_YouGuild_1 = I am the founder of the guild.
-ChezHarold_Harold_YouGuild_2 = For this reason, I'm the "leader" around there. Even though I don't do much.
-ChezHarold_Harold_YouGuild_3 = When we face difficult ordeals, I summon heros to help us.
-ChezHarold_Harold_YouGuild_4 = But in normal times, I mostly do paperworks.
-ChezHarold_Harold_YouGuild_5 = You know, the usual. Who's in the guild. Who went on a mission... 
+ChezHarold_Harold_Grimoire_1 = My grimoire is full of magical secrets.
+ChezHarold_Harold_Grimoire_2 = With it, one could easily summon anything into this world.
+ChezHarold_Harold_Grimoire_3 = So you can guess what a mad CEO with a lust for power could do with this grimoire.
+ChezHarold_Harold_Grimoire_4 = He could summon horrors far beyond our imagination, and conquer the world.
+ChezHarold_Harold_Grimoire_5 = It's a good thing I remembered the incantation to summon you, or else I would have been in trouble.
 
 
-ChezHarold_Harold_MainQuest0_1 = Head to Vlatyr, and meet Mr.Boyardee.
-ChezHarold_Harold_MainQuest0_2 = He's a friend of mine, and he owns a shop in the city.
-ChezHarold_Harold_MainQuest0_3 = He'll give you equipments that you'll need during your mission.
-ChezHarold_Harold_MainQuest0_4 = You won't be able to proceed without them, so get them posthaste.
-ChezHarold_Harold_MainQuest0_5 = I just hope he won't bother you too much...
-
-ChezHarold_Harold_MainQuest1_1 = You can now proceed to deal with our targets.
-ChezHarold_Harold_MainQuest1_2 = Rickey is currently preparing in his park, RickeyLand.
-ChezHarold_Harold_MainQuest1_3 = Beware, I heard he hired security recently. He is also trigger happy.
-ChezHarold_Harold_MainQuest1_4 = The archer should be in Swamtyr, a small village near the swamp.
-ChezHarold_Harold_MainQuest1_5 = Be careful, I heard he helped kill a dangerous beast living in the forest.
-
-ChezHarold_Harold_MainQuest2_Rickey_1 = Rickey went to the fortress ?!
-ChezHarold_Harold_MainQuest2_Rickey_2 = Go after him ! But be careful.
-ChezHarold_Harold_MainQuest2_Rickey_3 = His tank is more powerful than you can imagine...
-
-ChezHarold_Harold_MainQuest2_Archer_1 = So the Archer went to the fortress...
-ChezHarold_Harold_MainQuest2_Archer_2 = Follow suite. But beware of the artefacts he may steal.
-ChezHarold_Harold_MainQuest2_Archer_3 = I heard some of them can make their user invincible...
-
-ChezHarold_Harold_MainQuest3_1 = You should head to the mines.
-ChezHarold_Harold_MainQuest3_2 = You'll find the quartz we need there.
-
-ChezHarold_Harold_MainQuest4_1 = [MC] ! Did you find the quartz I require ?
-ChezHarold_Harold_MainQuest4_2 = Yes. Here it is.
-ChezHarold_Harold_MainQuest4_3 = I give Harold the quartz.
-ChezHarold_Harold_MainQuest4_4 = Thank you, [MC]. Wait here, I'll finish the potion in a few minutes.
-ChezHarold_Harold_MainQuest4_5 = Harold leaves the room. I suppose his brewing tools aren't here.
-ChezHarold_Harold_MainQuest4_6 = After a few minutes, he comes back with a strange potion in hand.
-ChezHarold_Harold_MainQuest4_7 = There ! I managed to brew the potion.
-ChezHarold_Harold_MainQuest4_8 = If you drink it, you'll be able to go through the fortress's barrier.
-ChezHarold_Harold_MainQuest4_9 = Be careful though. The effect will last only a few minutes.
-ChezHarold_Harold_MainQuest4_10 = Which means I'll be stuck in the fortress until I defeat the wizard.
-ChezHarold_Harold_MainQuest4_11 = Yes. But I have faith in you. You'll stop him, right ?
-ChezHarold_Harold_MainQuest4_12 = Of course.
-ChezHarold_Harold_MainQuest4_13 = When you manage to enter the fortress, your first order of business will be to locate the chaos orb.
-ChezHarold_Harold_MainQuest4_14 = I believe it is hidden in the throne room.
-ChezHarold_Harold_MainQuest4_15 = You must find it before the wizard, or the region will be in grave danger.
-ChezHarold_Harold_MainQuest4_16 = Don't worry. He won't lay a finger on it.
-ChezHarold_Harold_MainQuest4_17 = Right, thank you.
-ChezHarold_Harold_MainQuest4_18 = Good luck, [MC].
-
-ChezHarold_Harold_MainQuest5_1 = You need to head to the fortress and defeat the wizard.
-ChezHarold_Harold_MainQuest5_2 = We can't let him find the chaos orb, [MC] !
-
-ChezHarold_Harold_MainQuest6_1 = [MC] ! Did you succeed ? Was the wizard defeated ?
-ChezHarold_Harold_MainQuest6_2 = Yes. He is not going to threaten the world anymore.
-ChezHarold_Harold_MainQuest6_3 = Good, good. And what of the orb ? Did you secure it ?
-ChezHarold_Harold_MainQuest6_4 = The orb disapeared when the wizard tried to use it.
-ChezHarold_Harold_MainQuest6_5 = I don't know where it is now.
-ChezHarold_Harold_MainQuest6_6 = Ah, I had a feeling this could happen...
-ChezHarold_Harold_MainQuest6_7 = I heard the chaos orb can disapear when used improperly.
-ChezHarold_Harold_MainQuest6_8 = I suppose our friend didn't really know how to use it.
-ChezHarold_Harold_MainQuest6_9 = Which is good in our case. This means no one will be able to use the orb now.
-ChezHarold_Harold_MainQuest6_10 = I'm a little bit sad, since I wanted to examine it. But it's alright.
-ChezHarold_Harold_MainQuest6_11 = Peace is more important than my curiosity, right ?
-ChezHarold_Harold_MainQuest6_12 = Of course.
-
-ChezHarold_Harold_MainQuest6_NotJoined_1 = Can you send me back to my world now ?
-ChezHarold_Harold_MainQuest6_NotJoined_2 = Right, I... I guess I should.
-ChezHarold_Harold_MainQuest6_NotJoined_3 = [MC], I'm truly sorry. I shouldn't have held informations back from you.
-ChezHarold_Harold_MainQuest6_NotJoined_4 = Are you really sure you want to go back ?
-ChezHarold_Harold_MainQuest6_NotJoined_5 = I can help you. The guild can help you.
-ChezHarold_Harold_MainQuest6_NotJoined_6 = You showed me great capabilities during this ordeal.
-ChezHarold_Harold_MainQuest6_NotJoined_7 = We could give sense to your life. You could use your skills for peace.
-ChezHarold_Harold_MainQuest6_NotJoined_8 = ...
-ChezHarold_Harold_MainQuest6_NotJoined_9 = Please. At least reconsider. I'm only trying to help.
-ChezHarold_Harold_MainQuest6_NotJoined_10 = Will you join us ?
-
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_1 = No. I'm sorry, but no.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_2 = Like I said before, I'll regret leaving my world behind.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_3 = I see. I respect your decision.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_4 = I'll send you back to your world then.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_5 = Here, drink this potion. It will send you back.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_6 = Harold gives me a potion. Finally...
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_7 = I drink it, I fall unconscious immediatly.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_8 = When I wake up I'm home, back in my world.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_9 = What a disaster... I should go outside for a walk.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_10 = I get up, and head for my house's entrance.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_11 = Everything seems to be in order.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_12 = Once outside, I look at the sky.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_13 = ....... 
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_14 = Weird... I feel... I've already been here ?
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_15 = Is this my house ? I... I think so.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_16 = I... I... Yes. This is my house. I'm just tired.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_17 = Everything is in order. Nothing changed.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_18 = I'll go to work now.....
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_19 = They need me there. They need my skills.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_20 = Let's go.
-ChezHarold_Harold_MainQuest6_NotJoined_Refuse_21 = ........
-
-
-ChezHarold_Harold_MainQuest6_NotJoined_Accept_1 = Alright, alright. I'll join your guild.
-ChezHarold_Harold_MainQuest6_NotJoined_Accept_2 = Thank you, [MC] !
-ChezHarold_Harold_MainQuest6_NotJoined_Accept_3 = You won't regret this. We could really use someone like you.
-ChezHarold_Harold_MainQuest6_NotJoined_Accept_4 = Now get some rest, you deserve it.
-
-
-ChezHarold_Harold_MainQuest6_AlreadyJoined_1 = So, what now ?
-ChezHarold_Harold_MainQuest6_AlreadyJoined_2 = Well, you pretty much saw what kind of ordeals our guild face.
-ChezHarold_Harold_MainQuest6_AlreadyJoined_3 = I'm sure this won't be the end of it, however. New ordeals are sure to come soon.
-ChezHarold_Harold_MainQuest6_AlreadyJoined_4 = I'll be ready to face them.
-ChezHarold_Harold_MainQuest6_AlreadyJoined_5 = I'm sure you will. Thank you for joining us, by the way.
-ChezHarold_Harold_MainQuest6_AlreadyJoined_6 = I knew I could count on you. You are truly promising.
-ChezHarold_Harold_MainQuest6_AlreadyJoined_7 = Get some rest, [MC]. You deserve it.
-ChezHarold_Harold_MainQuest6_AlreadyJoined_8 = I'll introduce you to the guild's members later.
-ChezHarold_Harold_MainQuest6_AlreadyJoined_9 = Alright...
-ChezHarold_Harold_MainQuest6_AlreadyJoined_10 = Thus, my little adventure came to an end.
-ChezHarold_Harold_MainQuest6_AlreadyJoined_11 = Harold introduced me to his guild. A strange bunch, I must say.
-ChezHarold_Harold_MainQuest6_AlreadyJoined_12 = But once they started giving me quests, and ordeals to fight. I never felt better.
-ChezHarold_Harold_MainQuest6_AlreadyJoined_13 = I don't care what the future may hold. I'll be ready to fight.
-
-
-ChezHarold_Harold_MainQuest6_End_1 = The End.
-ChezHarold_Harold_MainQuest6_End_2 = Thanks for playing !
+ChezHarold_Harold_MainQuest0_1 = You need to enter RickeyLand, [MC].
+ChezHarold_Harold_MainQuest0_2 = Beating the parc's 4 main attractions is the only way to get my grimoire back.
 
 
 ChezHarold_Harold_Default = [MC] ! Do you need help with anything ?
 
 
-ChezHarold_GUARDQuest0_1 = Uh ? Harold isn't here ?
-ChezHarold_GUARDQuest0_2 = I wanted to ask him about GUARD's list...
-ChezHarold_GUARDQuest0_3 = Oh well... Maybe I can find it without him.
-ChezHarold_GUARDQuest0_4 = I start looking around to see if I can find it.
-ChezHarold_GUARDQuest0_5 = After looking for a bit, I manage to find it sandwiched between two books.
-ChezHarold_GUARDQuest0_6 = There it is. The list of the sect's members...
-ChezHarold_GUARDQuest0_7 = There aren't many names on it though.
-ChezHarold_GUARDQuest0_8 = The list's title is "Kalia's Chapter". I wonder what it means.
-ChezHarold_GUARDQuest0_9 = I should give this to GUARD.
 
 
 

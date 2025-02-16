@@ -2,7 +2,7 @@ playMusic(Exploration_1)
 removeAllCharacters()
 setBackground(HaroldExterior)
 
-if(rain = 1) changeSkybox(NightRain)
+if(rain = 1) changeSkybox(Rain)
 
 setInteractionChapter(Door;ChezHarold/Salon_Enter)
 setInteractionChapter(Car;ChezHarold/Car)

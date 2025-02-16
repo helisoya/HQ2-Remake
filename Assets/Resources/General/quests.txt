@@ -1,5 +1,7 @@
 mainQuest
-archerQuest
-rickeyQuest
-mageQuest
+hauntedHouseQuest
+waldoQuizQuest
+horseRaceQuest
+shootSalesmanQuest
+shopQuest
 guardQuest

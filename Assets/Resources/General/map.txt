@@ -9,11 +9,11 @@
 
 [Vlatyr]
 ChezHarold ChezHarold/Arrive ALWAYS
-Vlatyr Vlatyr/Arrive ALWAYS
-RickeyLand RickeyLandEntrance/Arrive mainQuest 1
-Swamtyr Swamtyr/Arrive mainQuest 1
+Vlatyr Vlatyr/Arrive mainQuest 1
+RickeyLand RickeyLandEntrance/Arrive ALWAYS
+Swamtyr Swamtyr/Arrive HIDDEN
 ChezMarcel ChezMarcel/Arrive mainQuest 1
-Swamp Swamp/Arrive archerQuest 1
-BraiseFortress BraiseFortress/Arrive mainQuest 2
-Mines Mines/Arrive mainQuest 3
-Mountains Mountains/Arrive mainQuest 3
+Swamp Swamp/Arrive HIDDEN
+BraiseFortress BraiseFortress/Arrive HIDDEN
+Mines Mines/Arrive HIDDEN
+Mountains Mountains/Arrive HIDDEN

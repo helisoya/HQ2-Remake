@@ -123,25 +123,11 @@ ChezMarcel = Maison du chasseur
 # -------------------------- Quests --------------------------------------
 # ------------------------------------------------------------------------
 
-mainQuest = Protecteur de Vlatyr
-mainQuest_0 = Rencontrer Boyardee à Vlatyr
-mainQuest_1 = S'occuper de Rickey et de l'Archer
-mainQuest_2 = Aller à la forteresse Braise
-mainQuest_3 = Trouver du quartz dans les mines
-mainQuest_4 = Parler à Harold
-mainQuest_5 = Entrer dans la forteresse
-mainQuest_6 = Parler à Harold
-
-rickeyQuest = Le PDG
-rickeyQuest_0 = Entrer dans Rickeyland
-
-archerQuest = The Archer
-archerQuest_0 = Trouver l'archer à Swamtyr
-archerQuest_1 = Trouver l'archer dans le marais
-archerQuest_2 = Parler au chasseur
-archerQuest_3 = Trouver le chasseur dans le marais
-archerQuest_4 = Confronter l'archer dans le marais
-
-guardQuest = La trace de la secte
-guardQuest_0 = Obtenir la liste d'Harold
-guardQuest_1 = Donner la liste à GARDE
+mainQuest = Le grimoire et le PDG
+mainQuest_0 = Entrer à RickeyLand
+mainQuest_1 = Trouver un pass
+mainQuest_2 = Entrer à RickeyLand
+mainQuest_3 = Finir les 4 attractions
+mainQuest_4 = Entrer dans le palace de Rickey
+mainQuest_5 = Reprendre le grimoire à Rickey
+mainQuest_6 = Retourner voir Harold

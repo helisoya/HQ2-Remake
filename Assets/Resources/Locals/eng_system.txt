@@ -126,25 +126,11 @@ ChezMarcel = Hunter's House
 # -------------------------- Quests --------------------------------------
 # ------------------------------------------------------------------------
 
-mainQuest = Protector of Vlatyr
-mainQuest_0 = Meet Boyardee in Vlatyr
-mainQuest_1 = Deal with Rickey and the Archer
-mainQuest_2 = Go to the Braise Fortress
-mainQuest_3 = Find quartz in the mines
-mainQuest_4 = Talk to Harold
-mainQuest_5 = Enter the fortress
-mainQuest_6 = Talk to Harold
-
-rickeyQuest = The CEO
-rickeyQuest_0 = Enter RickeyLand
-
-archerQuest = The Archer
-archerQuest_0 = Find the archer in Swamtyr
-archerQuest_1 = Find the archer in the swamp
-archerQuest_2 = Talk to the hunter
-archerQuest_3 = Find the hunter in the swamp
-archerQuest_4 = Confront the archer in the swamp
-
-guardQuest = The sect's trail
-guardQuest_0 = Get the list from Harold
-guardQuest_1 = Give the list to GUARD
+mainQuest = The grimoire and the CEO
+mainQuest_0 = Enter RickeyLand
+mainQuest_1 = Find a pass
+mainQuest_2 = Enter RickeyLand
+mainQuest_3 = Beat the 4 attractions
+mainQuest_4 = Enter Rickey's palace
+mainQuest_5 = Get the grimoire from Rickey
+mainQuest_6 = Return to Harold

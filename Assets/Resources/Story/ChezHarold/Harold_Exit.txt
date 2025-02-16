@@ -6,4 +6,6 @@ setCharacterRotation(Harold;Couch)
 
 setCharacterAlpha(Harold;1;false)
 
+playMusic(Exploration_1)
+
 load(ChezHarold/Salon)
