@@ -11,9 +11,9 @@
 ChezHarold ChezHarold/Arrive ALWAYS
 Vlatyr Vlatyr/Arrive mainQuest 1
 RickeyLand RickeyLandEntrance/Arrive ALWAYS
-Swamtyr Swamtyr/Arrive HIDDEN
+Swamtyr HIDDEN
 ChezMarcel ChezMarcel/Arrive mainQuest 1
-Swamp Swamp/Arrive HIDDEN
-BraiseFortress BraiseFortress/Arrive HIDDEN
-Mines Mines/Arrive HIDDEN
-Mountains Mountains/Arrive HIDDEN
+Swamp HIDDEN
+BraiseFortress HIDDEN
+Mines HIDDEN
+Mountains HIDDEN

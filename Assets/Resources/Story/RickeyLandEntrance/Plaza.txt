@@ -1,9 +1,0 @@
-playMusic(Exploration_Rickey)
-
-setInteractionChapter(Cage;RickeyLandEntrance/Plaza_Cage_Check)
-setInteractionChapter(Natasha;RickeyLandEntrance/Plaza_Natasha_Check)
-setInteractionChapter(Left;RickeyLandEntrance/Drinks_Enter)
-setInteractionChapter(Right;RickeyLandEntrance/Souvenir_Enter)
-setInteractionHidden(Exit;true)
-
-interact

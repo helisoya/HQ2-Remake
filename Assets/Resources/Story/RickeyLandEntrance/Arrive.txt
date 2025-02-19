@@ -2,8 +2,6 @@ playMusic(Exploration_1)
 removeAllCharacters()
 setBackground(RickeyLandEntrance)
 
-if(rain = 1) changeSkybox(NightRain)
-
-if(archerQuest = 100 & mainQuest = 1) RickeyLandEntrance/RickeyGoesToFortress
+if(rain = 1) changeSkybox(Rain)
 
 load(RickeyLandEntrance/Interaction)

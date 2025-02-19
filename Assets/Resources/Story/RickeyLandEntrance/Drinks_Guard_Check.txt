@@ -1,4 +1,0 @@
-if(rickeyQuest = 0)  RickeyLandEntrance/Drinks_Guard_TooSoon
-if(rickeyQuest = 1) RickeyLandEntrance/Drinks_Guard_RickeyQuest1
-
-load(RickeyLandEntrance/Drinks_Guard_Default)

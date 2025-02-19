@@ -1,3 +1,7 @@
-if(rickeyQuest = 0) RickeyLandEntrance/Door_RickeyQuest0_AskEnter
+if(mainQuest = 0) RickeyLandEntrance/Door_MainQuest0
+if(mainQuest = 1) RickeyLandEntrance/Door_MainQuest1
+if(mainQuest = 2) RickeyLandEntrance/Door_MainQuest2
 
 load(RickeyLandEntrance/Door_No)
+
+# Can't enter for now

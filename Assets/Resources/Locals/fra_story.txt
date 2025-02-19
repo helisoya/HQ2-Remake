@@ -477,182 +477,20 @@ Intersection_Intro_4 = Je dois choisir le chemin à prendre. Mais lequel est le 
 # --------------- Rickeyland ------------------------------
 # ---------------------------------------------------------
 
-RickeyLandEntrance_RickeyGoesToFortress_1 = Quand j'arrive au parc, je suis acceuilli par un tank. tank.
-RickeyLandEntrance_RickeyGoesToFortress_2 = Pardon ?!
-RickeyLandEntrance_RickeyGoesToFortress_3 = Ah Ah ! Il est temps d'y aller !
-RickeyLandEntrance_RickeyGoesToFortress_4 = La forteresse et son or seront bientôt à moi !
-RickeyLandEntrance_RickeyGoesToFortress_5 = Vous là bas ! Dégagez du chemin !
-RickeyLandEntrance_RickeyGoesToFortress_6 = Le tank commence à avancer dans ma direction.
-RickeyLandEntrance_RickeyGoesToFortress_7 = Je me décale, et le regarde disparaitre à l'horizon.
-RickeyLandEntrance_RickeyGoesToFortress_8 = Bon sang ! J'arrive trop tard...
-RickeyLandEntrance_RickeyGoesToFortress_9 = Il se dirige vers la forteresse. Je doit le rattraper.
-
 RickeyLandEntrance_Door_No_1 = Je n'ai pas besoin d'entrer dans le parc.
 
-RickeyLandEntrance_Door_Enter_1 = Bien sur, la porte est fermée à clé.
-RickeyLandEntrance_Door_Enter_2 = ... Je peux utiliser l'équipement que Boyardee m'a donné pour escalader le mur.
-RickeyLandEntrance_Door_Enter_3 = Cependant, si je le fais, je ne pourrais sortir qu'une fois Rickey vaincu.
-RickeyLandEntrance_Door_Enter_4 = Donc, que faire ?
+RickeyLandEntrance_MainQuest0_1 = Eh, attendez !
+RickeyLandEntrance_MainQuest0_2 = Un garde de sécurité m'empeche d'entrer dans le parc.
+RickeyLandEntrance_MainQuest0_3 = Vous devez me montrer votre invitation avant d'entrer.
+RickeyLandEntrance_MainQuest0_4 = Mon invitation ?
+RickeyLandEntrance_MainQuest0_5 = Oui, vous devriez l'avoir reçu dans votre boite aux lettres.
+RickeyLandEntrance_MainQuest0_6 = Enfin, sauf si vous vous appellez Harold. Le PDG déteste Harold.
+RickeyLandEntrance_MainQuest0_7 = Oh... Je vois. Je crois l'avoir oublié chez moi.
+RickeyLandEntrance_MainQuest0_8 = Je vais aller la chercher, monsieur.
+RickeyLandEntrance_MainQuest0_9 = Super... J'ai besoin d'une invitation pour entrer dans RickeyLand. Et je suppose qu'Harold n'en a pas reçu.
+RickeyLandEntrance_MainQuest0_10 = Je vais peut être devoir explorer un peu, voir si quelqu'un pourrait me préter la sienne.
 
-RickeyLand_RickeyQuest0_1 = Je commence à escalader le mur du parc.
-RickeyLand_RickeyQuest0_2 = C'est compliqué, mais je fini par y arriver.
-RickeyLand_RickeyQuest0_3 = Une fois a l'intérieur, je commence à errer sans but dans le parc.
-RickeyLand_RickeyQuest0_4 = Ou est Rickey ? Dans un endroit important, je suppose ?
-RickeyLand_RickeyQuest0_5 = J'arrive à une sorte de palce. Une statue représentant, je suppose, Rickey est au milieu.
-RickeyLand_RickeyQuest0_6 = Il y a une cage à coté d'elle. Quelqu'un est à l'intérieur.
-RickeyLand_RickeyQuest0_7 = Oh ? Eh ! Par ici !
-
-RickeyLand_RickeyQuest0_8 = Qui êtes-vous ? Que faîtes-vous ici ?
-RickeyLand_RickeyQuest0_9 = Comme vous pouvez le voir, le parc est fermée jusqu'à 9h.
-RickeyLand_RickeyQuest0_10 = Qui je suis n'est pas important. Je dois voir le PDG, Rickey.
-RickeyLand_RickeyQuest0_11 = Quoi ? Vous voulez voir le PDG ?
-RickeyLand_RickeyQuest0_12 = Si je peux me permettre, ce n'est pas le moment. Il est irrité en ce moment.
-RickeyLand_RickeyQuest0_13 = Et vous ne voulez pas qu'il soit comme ça, croyez-moi.
-RickeyLand_RickeyQuest0_14 = Vous pouvez voir le résulat. Il m'a enfermé jusqu'au levé du jour.
-RickeyLand_RickeyQuest0_15 = Je n'arrive toujours pas à y croire. Tout ce que j'ai fait était...
-RickeyLand_RickeyQuest0_16 = Ou est-t-il ?
-RickeyLand_RickeyQuest0_17 = Eh ? Je viens de vous le dire, vous ne devriez pas le rencontrer pour le moment.
-RickeyLand_RickeyQuest0_18 = Pas tant qu'il prépare son expédition.
-RickeyLand_RickeyQuest0_19 = Ecoutes. Je dois l'arrêter avant qu'il ne lance son expédition. Si il le fait, ça sera un désastre.
-RickeyLand_RickeyQuest0_20 = Je sais, je sais, mais...
-RickeyLand_RickeyQuest0_21 = Il est vrai que c'est une très mauvaise idée, du début à la fin.
-RickeyLand_RickeyQuest0_22 = Je veux dire... prendre le contrôle d'une forteresse, et utiliser son or pour repayer des detes...
-RickeyLand_RickeyQuest0_23 = C'est de la folie. Les banques ne le laisseront pas.
-RickeyLand_RickeyQuest0_24 = Il est endété ?
-RickeyLand_RickeyQuest0_25 = Par Kalibu, vous ne savez pas ?
-RickeyLand_RickeyQuest0_26 = RickeyLand, bien que relativement populaire, est massivement endeté.
-RickeyLand_RickeyQuest0_27 = Le PDG n'arrête pas de faire des dépenses, inutiles la plupart du temps.
-RickeyLand_RickeyQuest0_28 = Par exemple, hier, il a achêté 5 tanks avec l'argent du parc. Nous n'avons aucune utilité pour eux.
-RickeyLand_RickeyQuest0_29 = Nous sommes dans le rouge depuis des mois, et à empire de jour en jour.
-RickeyLand_RickeyQuest0_30 = Quand je lui ai dit, il a répondu "Va en chercher à la banque".
-RickeyLand_RickeyQuest0_31 = Au début, on pouvais faire des prêts. On venais juste de commencer.
-RickeyLand_RickeyQuest0_32 = Mais maintenant, plus personne ne veux nous parler, et les banques veulent leurs argent.
-RickeyLand_RickeyQuest0_33 = J'ai essayer d'expliquer au PDG que nous devons changer de stratégie, ou peine de devoir fermer le parc.
-RickeyLand_RickeyQuest0_34 = Mais il a commencé à travailler sur ce plan fou, impliquant de voler l'argent de la forteresse. 
-RickeyLand_RickeyQuest0_35 = Je lui ai dis que c'était de la folie, mais il s'est énervé et m'a jeté ici...
-RickeyLand_RickeyQuest0_36 = Je peux l'arrêter. Dis moi simplement ou il est.
-RickeyLand_RickeyQuest0_37 = Je... très bien. Mais d'abord, sortez moi d'ici.
-RickeyLand_RickeyQuest0_38 = Non...
-RickeyLand_RickeyQuest0_39 = Je pense que l'un des gardes de sécurité a la clé de cette cage.
-RickeyLand_RickeyQuest0_40 = Trouvez les, et revenez ici.
-RickeyLand_RickeyQuest0_41 = Une fois sortie, je vous explique ou trouver le PDG.
-RickeyLand_RickeyQuest0_42 = D'accord, d'accord. Je vais trouver ces clés.
-RickeyLand_RickeyQuest0_43 = Je perd mon temps avec ça, mais je n'ai pas le choix.
-
-RickeyLand_Natasha_RickeyQuest1_1 = L'un des gardes doit avoir la clé de cette cage en sa possession.
-RickeyLand_Natasha_RickeyQuest1_2 = Trouvez la, et laissez moi sortir d'ici. Je vous aiderai à trouver le PDG.
-
-RickeyLand_Guard_Default_1 = ....Zzzz...
-RickeyLand_Guard_TooSoon_1 = Mauvaise idée...
-
-RickeyLand_Guard_RickeyQuest1_1 = Un garde de sécurité ? Il a peut être la clé de la cage. 
-RickeyLand_Guard_RickeyQuest1_2 = Je n'arrive pas à croire qu'ils me font garder cette allée.
-RickeyLand_Guard_RickeyQuest1_3 = Serieux ! Il n'y a rien à voler ici à part du soda. Et on le fait déjà !
-RickeyLand_Guard_RickeyQuest1_4 = Je devrais être en train de surveiller la fille. J'ai la clé de sa cage en plus...
-RickeyLand_Guard_RickeyQuest1_5 = Tant pis... Il est temps d'utiliser ma technique secrète, je suppose.
-RickeyLand_Guard_RickeyQuest1_6 = Petite sieste ultra rapide !
-RickeyLand_Guard_RickeyQuest1_7 = Zzzzzz.......
-RickeyLand_Guard_RickeyQuest1_8 = ... Volons juste sa clé.
-RickeyLand_Guard_RickeyQuest1_9 = Je m'approche du garde, et vole silencieusement sa clé.
-RickeyLand_Guard_RickeyQuest1_10 = Bien. Je devrais retourner à la place centrale.
-
-RickeyLand_RickeyQuest2_1 = Vous êtes de retour ! Avez-vous trouvé la clé ?
-RickeyLand_RickeyQuest2_2 = Oui. Un des gardes l'avait, comme tu l'avais dis.
-RickeyLand_RickeyQuest2_3 = Super ! Laissez-moi sortir, s'il vous plait.
-RickeyLand_RickeyQuest2_4 = Je vous dirais ensuite ou trouver le PDG.
-RickeyLand_RickeyQuest2_5 = Super... Je ne vais pas pouvoir lui faire du chantage maintenant...
-RickeyLand_RickeyQuest2_6 = J'ouvre la cage. Elle en sort immédiatement.
-RickeyLand_RickeyQuest2_7 = Enfin libre !
-RickeyLand_RickeyQuest2_8 = Je suis si heureuse ! Je n'arrivais pas à respirer à l'intérieur...
-RickeyLand_RickeyQuest2_9 = Dis-moi ou trouver Rickey maintenant.
-RickeyLand_RickeyQuest2_10 = Ah, oui. Mes excuses...
-RickeyLand_RickeyQuest2_11 = Il est en ce moment dans le château que vous pouvez voir derrière moi.
-RickeyLand_RickeyQuest2_12 = Il est probablement en train de vérifier ses équipements avant de partir.
-RickeyLand_RickeyQuest2_13 = Très bien, je n'ai plus qu'à y aller et de m'occuper de lui.
-RickeyLand_RickeyQuest2_14 = Attendez ! Vous ne pouvez pas entrer comme ça.
-RickeyLand_RickeyQuest2_15 = Vous avez besoin d'un pass pour entrer dans le château, et je n'ai pas le mien sur moi.
-RickeyLand_RickeyQuest2_16 = Vous pouvez en trouver un dans la boutique de souvenir, à votre droite.
-RickeyLand_RickeyQuest2_17 = Une fois trouvé, revenez me voir. Je vous amenerai au PDG.
-RickeyLand_RickeyQuest2_18 = Très bien, très bien...
-RickeyLand_RickeyQuest2_19 = Je n'aime pas être dirigé comme ça, mais je n'ai pas le choix...
-
-RickeyLand_Natasha_RickeyQuest3_1 = Vous pouvez trouver un pass dans la boutique de souvenir à votre droite.
-
-RickeyLand_Cage_None_1 = Il n'y a rien à l'intérieur de cette cage.
-
-RickeyLand_Souvenir_Done_1 = Je n'ai plus besoin d'entrer dans la boutique.
-RickeyLand_Souvenir_TooSoon_1 = Je n'ai pas besoin d'entrer dans la boutique.
-
-RickeyLand_RickeyQuest3_1 = C'est donc la boutique dont la fille a parlé.
-RickeyLand_RickeyQuest3_2 = Je devrais pouvoir trouver le pass ici.
-RickeyLand_RickeyQuest3_3 = J'entre dans la boutique. Elle est remplie de produits dérivés Rickey.
-RickeyLand_RickeyQuest3_4 = Quelle horreure... Trouvons le pass et sortons d'ici.
-RickeyLand_RickeyQuest3_5 = Je le trouve après quelques minutes. Il est en vente pour 10 galuses, mais je le vole.
-RickeyLand_RickeyQuest3_6 = Bien. Il est temps de retourner à la place.
-
-RickeyLand_RickeyQuest4_1 = Ah. Avez-vous trouvé le pass ?
-RickeyLand_RickeyQuest4_2 = Oui. On peut y aller maintenant ?
-RickeyLand_RickeyQuest4_3 = Bien sur, suivez-moi.
-RickeyLand_RickeyQuest4_4 = Je suis la fille jusqu'au château, à l'autre bout du parc.
-RickeyLand_RickeyQuest4_5 = Le chateau est juste devant moi. Il est plutôt grand.
-RickeyLand_RickeyQuest4_6 = Donc Rickey se cache à l'intérieur ?
-RickeyLand_RickeyQuest4_7 = Oui. Il devrait être dans la tour principale. C'est ses quartiers privés.
-RickeyLand_RickeyQuest4_8 = Hein ? Que ce passe-t-il ?
-RickeyLand_RickeyQuest4_9 = La porte s'ouvre soudainement. Un étrange personnage sort du chateau.
-RickeyLand_RickeyQuest4_10 = Ah Ah ! Il est temps d'aller au hangar à panzer !
-RickeyLand_RickeyQuest4_11 = La fortresse sera à moi ! Je vais devenir riche !
-RickeyLand_RickeyQuest4_12 = Le... Le PDG ?!
-RickeyLand_RickeyQuest4_13 = Quoi ? Qui est là ? Natasha ?!
-RickeyLand_RickeyQuest4_14 = Que fais-ici ?! Je t'avais pourtant enfermé dans une cage tout à l'heure.
-RickeyLand_RickeyQuest4_15 = Bon sang ! Ces gardes sont aussi utiles qu'ils en ont l'air !
-RickeyLand_RickeyQuest4_16 = Je savais que j'aurais du investir dans plus de panzers à la place...
-RickeyLand_RickeyQuest4_17 = Monsieur le PDG... S'il vous plait, réfléchissez !
-RickeyLand_RickeyQuest4_18 = Rien de bon ne sortira de cette expédition.
-RickeyLand_RickeyQuest4_19 = Pour le futur de RickeyLand, vous devriez ne pas la lancer.
-RickeyLand_RickeyQuest4_20 = S'il vous plait ! Nous trouverons un autre moyen de repayer nos dêtes, j'en suis sur !
-RickeyLand_RickeyQuest4_21 = Silence !
-RickeyLand_RickeyQuest4_22 = Monsieur le PDG ?
-RickeyLand_RickeyQuest4_23 = Secrétaire inutile, tu es viré !
-RickeyLand_RickeyQuest4_24 = J'ai toujours raison ! L'économie ne me comprend pas !
-RickeyLand_RickeyQuest4_25 = Ils pensent pouvoir m'arrêter avec, comment ils appellent ça, des dêtes ?!
-RickeyLand_RickeyQuest4_26 = Non ! Je suis le meilleur PDG du continent ! Je ne peux pas avoir tord !
-RickeyLand_RickeyQuest4_27 = Ils veulent de l'argent ? Très bien ! Je vais aller en chercher à la forteresse !
-RickeyLand_RickeyQuest4_28 = Et en retour, je vais en prendre le contrôle !
-RickeyLand_RickeyQuest4_29 = Une grande forteresse, juste pour moi ! La forteresse Rickey !
-RickeyLand_RickeyQuest4_30 = Monsieur le PDG ! S'il vous plait ! Calmez-vous...
-RickeyLand_RickeyQuest4_31 = Silence !
-RickeyLand_RickeyQuest4_32 = J'en ai assez de toi ! Tu me dis toujours ce que je dois faire !
-RickeyLand_RickeyQuest4_33 = Tu es viré, viré, viré !
-RickeyLand_RickeyQuest4_34 = Meurt !
-RickeyLand_RickeyQuest4_35 = Rickey saute et pousse violament Natasha.
-RickeyLand_RickeyQuest4_36 = Ah !
-RickeyLand_RickeyQuest4_37 = Elle tombe du pont, et atteri dans l'eau en contrebas.
-RickeyLand_RickeyQuest4_38 = Ah Ah ! Que cela te serve de leçon !
-RickeyLand_RickeyQuest4_39 = Je n'ai pas besoin de secrétaire ! Je suis tout ce dont j'ai besoin !
-RickeyLand_RickeyQuest4_40 = Moi, mes panzers et mon équipe de sécurité ! La trinité parfaite !
-RickeyLand_RickeyQuest4_41 = Et toi ! Qui es-tu ? Pourquoi venir ici ?
-RickeyLand_RickeyQuest4_42 = Je sais ! Tu es venu voler mon panzer rare ! Mon magnifique panzer !
-RickeyLand_RickeyQuest4_43 = ... Il est fou.
-RickeyLand_RickeyQuest4_44 = Je suis venu vous empecher d'attaquer la forteresse. Je dois préserver la paix.
-RickeyLand_RickeyQuest4_45 = La paix ?! Et mon argent ? L'or de la forteresse est à moi ! Je l'ai dis, donc c'est forcément vrai ! 
-RickeyLand_RickeyQuest4_46 = Grr... Tu m'agaces ! Quel est ton nom, brigand ?
-RickeyLand_RickeyQuest4_47 = Hein ? Oh, euh... Harold ?
-RickeyLand_RickeyQuest4_48 = Harold ?! Quel nom ridicule ! Parfait pour un paysan comme toi !
-RickeyLand_RickeyQuest4_49 = Je vais te faire mordre la poussière, Harold ! Regarde ça !
-RickeyLand_RickeyQuest4_50 = Rickey me saute dessus. Je me prépare.
-
-RickeyLand_RickeyQuest4_51 = Argh ! Impossible !
-RickeyLand_RickeyQuest4_52 = Comment ais-je pu perdre ?! Tu as forcément triché !
-RickeyLand_RickeyQuest4_53 = N'attaque pas la forteresse, ou je vais te faire encore plus mal.
-RickeyLand_RickeyQuest4_54 = Tu... Tu... RAAAAAAAA !
-RickeyLand_RickeyQuest4_55 = Je me souviendrai de ton nom, Harold ! Souviens-toi de ça !
-RickeyLand_RickeyQuest4_56 = Un jour, tu regretera d'avoir croisé mon chemin !
-RickeyLand_RickeyQuest4_57 = Rickey prend la fuite et entre dans son château.
-RickeyLand_RickeyQuest4_58 = Bien... Je suppose que c'est suffisant.
-RickeyLand_RickeyQuest4_59 = Il est temps de retourner à l'entrée.
-RickeyLand_RickeyQuest4_60 = J'espère juste ne pas arriver trop tard pour m'occuper de l'archer.
-RickeyLand_RickeyQuest4_61 = Je commence à marcher.
-RickeyLand_RickeyQuest4_62 = Après quelques minutes, je suis de retour à l'entrée. Il pleut...
+RickeyLandEntrance_MainQuest1_1 = Eh ! Pas d'invitation, pas d'entrée !
 
 
 # ---------------------------------------------------------

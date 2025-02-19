@@ -1,5 +1,0 @@
-if(rickeyQuest = 0) RickeyLandEntrance/Natasha_RicketQuest0
-if(rickeyQuest = 1) RickeyLandEntrance/Natasha_RicketQuest1
-if(rickeyQuest = 2) RickeyLandEntrance/Natasha_RicketQuest2
-
-load(RickeyLandEntrance/Cage_Empty)

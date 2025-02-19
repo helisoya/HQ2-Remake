@@ -1,3 +1,0 @@
-dialog(narrator;_;false;RickeyLand_Cage_None_1)
-
-load(RickeyLandEntrance/Plaza)

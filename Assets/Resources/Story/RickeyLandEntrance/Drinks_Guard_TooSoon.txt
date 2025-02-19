@@ -1,3 +1,0 @@
-dialog(Security;_;false;RickeyLand_Guard_TooSoon_1)
-
-load(RickeyLandEntrance/Drinks)
