@@ -53,6 +53,8 @@ Choice_Guild = A propos de la guilde
 Choice_AboutSect = A propos de la secte
 Choice_LastYear = A propos de l'année dernière
 Choice_Grimoire = A propos du grimoire
+Choice_AboutLastNight = A propos de la nuit dernière
+Choice_AboutRickeyLand = A propos de RickeyLand
 
 Choice_Left = Aller à Gauche
 Choice_Right = Aller à Droite
@@ -252,6 +254,10 @@ ChezHarold_Harold_Grimoire_5 = C'est une bonne chose que je me souviens de l'inc
 ChezHarold_Harold_MainQuest0_1 = Vous devez entrer dans RickeyLand, [MC].
 ChezHarold_Harold_MainQuest0_2 = Finir les 4 attractions principales est la seule manière d'obtenir mon grimoire.
 
+ChezHarold_Harold_MainQuest1_1 = Vous avez besoin d'une invitation pour rentrer dans le parc ?
+ChezHarold_Harold_MainQuest1_2 = Et bien... Je n'en ai pas reçu alors. Rickey doit me détester.
+ChezHarold_Harold_MainQuest1_3 = Vous allez devoir improviser. Peut être que quelqu'un peut vous donner son invitation.
+
 
 ChezHarold_Harold_Default = [MC] ! Avez-vous besoin d'aide ?
 
@@ -261,157 +267,7 @@ ChezHarold_Harold_Default = [MC] ! Avez-vous besoin d'aide ?
 # ------------------- Vlatyr ------------------------------
 # ---------------------------------------------------------
 
-Vlatyr_ChezBoyardee_Done_1 = Je n'ai pas besoin d'y retourner.
-
-Vlatyr_ChezBoyardee_MainQuest0_1 = J'entre dans la boutique de Boyardee. C'est un étrange restaurant.
-Vlatyr_ChezBoyardee_MainQuest0_2 = Harold m'a dit qu'il avait de l'équipement pour moi. J'espère qu'il a raison.
-Vlatyr_ChezBoyardee_MainQuest0_3 = Parce que je ne vais surtout pas manger ici. L'odeur est infame...
-Vlatyr_ChezBoyardee_MainQuest0_4 = Peut-être que c'est pourquoi il n'y a pas beaucoup de gens ici. Comment ce restaurant est toujours ouvert ?
-Vlatyr_ChezBoyardee_MainQuest0_5 = Oh, bien le bonjour !
-Vlatyr_ChezBoyardee_MainQuest0_6 = Un homme étrange s'approche de moi. Il porte l'habit d'un chef. Est-ce le propriétaire ?
-Vlatyr_ChezBoyardee_MainQuest0_7 = Vous venez manger seul ? Pas de problèmes !
-Vlatyr_ChezBoyardee_MainQuest0_8 = Qu'allez vous prendre ? J'ai des pâtes et des salades. Le special d'aujourd'hui est le plat de pâtes chocolat-citron.
-Vlatyr_ChezBoyardee_MainQuest0_9 = Quoi ? Non, je ne mange pas ça.
-Vlatyr_ChezBoyardee_MainQuest0_10 = Non, non. Harold m'a envoyé ici. Il m'a dit que vous aviez de l'équipement pour moi.
-Vlatyr_ChezBoyardee_MainQuest0_11 = Oh, oui ! C'est vrai.
-Vlatyr_ChezBoyardee_MainQuest0_12 = Harold m'a appelé ce matin et m'a dit d'aller achêter de l'équipement pour une mission.
-Vlatyr_ChezBoyardee_MainQuest0_13 = Je n'ai pas achêter grand chose, une corde, un crochet, des trucs du genre.
-Vlatyr_ChezBoyardee_MainQuest0_14 = Suffisament pour escalader un mur au moins.
-Vlatyr_ChezBoyardee_MainQuest0_15 = Harold m'a aussi dit d'achêter une arme, au cas ou. Mais je n'ai pas pu en trouver une. 
-Vlatyr_ChezBoyardee_MainQuest0_16 = Apparement, des gardes de RickeyLand sont venu dans la matinée. Ils ont tout achêté.
-Vlatyr_ChezBoyardee_MainQuest0_17 = Ca peut être un problème. RickeyLand sera bien gardé.
-Vlatyr_ChezBoyardee_MainQuest0_18 = Bien, merci dans tout les cas. Je suis sur que j'aurais besoin de ces outils pour ma mission.
-Vlatyr_ChezBoyardee_MainQuest0_19 = Oui, euh... en fait... Je peux vous demander une faveur ?
-Vlatyr_ChezBoyardee_MainQuest0_20 = Oh non....
-Vlatyr_ChezBoyardee_MainQuest0_21 = J'attend beaucoup de clients dans quelques instants, et je manque de main d'oeuvre.
-Vlatyr_ChezBoyardee_MainQuest0_22 = Vous avez l'air débrouillard. Vous pourriez m'aider à les servir ?
-Vlatyr_ChezBoyardee_MainQuest0_23 = Bon sang ! Je savais que ça finirai comme ça.
-Vlatyr_ChezBoyardee_MainQuest0_24 = Ecoutez. Ce n'est pas que je ne veux pas, mais je dois vraiment me dépecher.
-Vlatyr_ChezBoyardee_MainQuest0_25 = Harold m'a confié une mission urgente. Chaque minute compte.
-Vlatyr_ChezBoyardee_MainQuest0_26 = Je ne me dépeche pas, nous pourriez tous être en danger.
-Vlatyr_ChezBoyardee_MainQuest0_27 = Mais mes clients sont une affaire urgente, eux aussi ! J'ai besoin de votre aide.
-Vlatyr_ChezBoyardee_MainQuest0_28 = ... Vous ne me laissez pas le choix ! Je n'avais pas envie de faire ça...
-Vlatyr_ChezBoyardee_MainQuest0_29 = Je prend l'équipement en otage !
-Vlatyr_ChezBoyardee_MainQuest0_30 = Vous ne l'aurez pas tant que vous ne m'aurez pas aidé avec les clients.
-Vlatyr_ChezBoyardee_MainQuest0_31 = Il est serieux ? Je n'ai pas le temps pour ça.
-Vlatyr_ChezBoyardee_MainQuest0_32 = Mais... Je n'ai pas le choix, pas vrai ?
-Vlatyr_ChezBoyardee_MainQuest0_33 = Je peut essayer de prendre l'équipement de force, mais Harold serait furieux.
-Vlatyr_ChezBoyardee_MainQuest0_34 = Très bien, je vais vous aider.
-Vlatyr_ChezBoyardee_MainQuest0_35 = Splendide ! Je suis heureux d'avoir pu trouver un arrangement avec vous.
-Vlatyr_ChezBoyardee_MainQuest0_36 = Et juste à temps ! Il semblerait que les clients commencent à arriver.
-Vlatyr_ChezBoyardee_MainQuest0_37 = Allez en cuisine, je vais vous dire quoi faire.
-Vlatyr_ChezBoyardee_MainQuest0_38 = Je vois, d'accord.
-Vlatyr_ChezBoyardee_MainQuest0_39 = Je m'approche de la porte de la cuisine, à l'arrière du restaurant.
-Vlatyr_ChezBoyardee_MainQuest0_40 = Je n'ai pas le temps pour ça, mais bon...
-Vlatyr_ChezBoyardee_MainQuest0_41 = J'entre à l'intérieur, et me prépare pour cuisiner.
-
-Vlatyr_ChezBoyardee_MainQuest0_42 = J'ai fini de cuisiner. Enfin...
-Vlatyr_ChezBoyardee_MainQuest0_43 = Je sort de la cuisine. Boyardee devrai me donner l'équipement maintenant.
-Vlatyr_ChezBoyardee_MainQuest0_44 = Ah, vous voila.
-Vlatyr_ChezBoyardee_MainQuest0_45 = On dirait que mes clients sont très impressionés avec votre cuisine. Bravo.
-Vlatyr_ChezBoyardee_MainQuest0_46 = Grâce à vous, je n'aurais pas de problèmes à la conférence.
-Vlatyr_ChezBoyardee_MainQuest0_47 = Hein ? Quelle conférence ?
-Vlatyr_ChezBoyardee_MainQuest0_48 = Et bien... Les clients font partis de ma famille. Ils sont venu dire bonjour en quelque sorte.
-Vlatyr_ChezBoyardee_MainQuest0_49 = La dernière fois qu'ils sont venu, j'avais raté mes pizzas. Le chocolat était trop chaud.
-Vlatyr_ChezBoyardee_MainQuest0_50 = A la conférence familiale, j'avais été ridiculisé pour ça.
-Vlatyr_ChezBoyardee_MainQuest0_51 = Donc grâce à moi, ce chef raté ne se fera pas moqué la prochaine fois...
-Vlatyr_ChezBoyardee_MainQuest0_52 = Je suis impressioné qu'il ai réussit à rester ouvert autant de temps. Les ingredients qu'il utilise sont... originaux.
-Vlatyr_ChezBoyardee_MainQuest0_53 = Je peux avoir l'équipement maintenant ?
-Vlatyr_ChezBoyardee_MainQuest0_55 = Oh, oui ! Voila.
-Vlatyr_ChezBoyardee_MainQuest0_56 = Il me donne enfin l'équipement dont j'avais besoin.
-Vlatyr_ChezBoyardee_MainQuest0_57 = J'espère que vous arriverez à réussir dans votre mission, peut importe son but.
-Vlatyr_ChezBoyardee_MainQuest0_58 = Oui, oui.
-Vlatyr_ChezBoyardee_MainQuest0_59 = J'ai déjà assez perdu de temps ici. Je dois me dépecher.
-Vlatyr_ChezBoyardee_MainQuest0_60 = Je commence à sortir du restaurant.
-Vlatyr_ChezBoyardee_MainQuest0_61 = En chemin, je regarde les clients qui avaient commandés les pizzas.
-Vlatyr_ChezBoyardee_MainQuest0_62 = Ils sont étranges... Ils portent de robes. Des religieux ?
-Vlatyr_ChezBoyardee_MainQuest0_63 = Peu importe, je n'ai pas le temps pour ça.
-Vlatyr_ChezBoyardee_MainQuest0_64 = Je sort du restaurant. Heureusement, il fait encore nuit.
-Vlatyr_ChezBoyardee_MainQuest0_65 = Il est temps d-
-Vlatyr_ChezBoyardee_MainQuest0_66 = Hey, gaillard.
-Vlatyr_ChezBoyardee_MainQuest0_67 = Une sorte de chasseur s'approche de moi. Quoi encore ?       
-Vlatyr_ChezBoyardee_MainQuest0_68 = Je cherche une galinette cendrée. Tu en as vu une ?
-Vlatyr_ChezBoyardee_MainQuest0_69 = Une quoi ?
-Vlatyr_ChezBoyardee_MainQuest0_70 = Un oiseau ! Un petit poulet ! Un petit poulet qui vole !
-Vlatyr_ChezBoyardee_MainQuest0_71 = Je suis en train d'en chasser. Mais je n'arrive pas à en trouver.
-Vlatyr_ChezBoyardee_MainQuest0_72 = Je ne pense pas que vous trouverez un tel oiseau dans une ville.
-Vlatyr_ChezBoyardee_MainQuest0_73 = Hmm.... Tu penses ?
-Vlatyr_ChezBoyardee_MainQuest0_74 = J'avais demandé au bon vieux Harold. "Il y en a plein en Vlatyr", qu'il m'a dit.
-Vlatyr_ChezBoyardee_MainQuest0_75 = Il a du mal me comprendre.
-Vlatyr_ChezBoyardee_MainQuest0_76 = Ou alors tu n'as rien compris. Vlatyr est aussi une région...
-Vlatyr_ChezBoyardee_MainQuest0_77 = Bon sang. Je vais juste rentrer à la maison. Peut être que je vais pouvoir en trouver une la bas.
-Vlatyr_ChezBoyardee_MainQuest0_78 = Si tu trouves une galinette cendrée, ou n'importe quel oiseau, viens me voir.
-Vlatyr_ChezBoyardee_MainQuest0_79 = Je t'aiderai à la chasser. Je suis un chasseur expert.
-Vlatyr_ChezBoyardee_MainQuest0_80 = Le chasseur s'en va. Quelle étrange rencontre.
-Vlatyr_ChezBoyardee_MainQuest0_81 = Il est temps d'attaquer les cibles.
-Vlatyr_ChezBoyardee_MainQuest0_82 = Rickey se cache à RickeyLand, son parc d'attractions.
-Vlatyr_ChezBoyardee_MainQuest0_83 = L'archer est pour le moment dans le village de Swamtyr.
-Vlatyr_ChezBoyardee_MainQuest0_84 = Je dois faire attention. J'ai déjà trop perdu de temps. Je ne risque d'avoir le temps d'en attaquer qu'un seul.
-
-
-Vlatyr_GUARD_QuestStart_1 = Eh, vous !
-Vlatyr_GUARD_QuestStart_2 = J'ai besoin d'aide. Vous pouvez m'aider ?
-Vlatyr_GUARD_QuestStart_3 = Ca dépend. Tu payes combien ?
-Vlatyr_GUARD_QuestStart_4 = Grr... Je savais que ça finirai comme ça...
-Vlatyr_GUARD_QuestStart_5 = Je propose 100 galuses ? C'est une offre généreuse.
-Vlatyr_GUARD_QuestStart_6 = Très bien. Donc, tu as besoin de quoi ?
-Vlatyr_GUARD_QuestStart_7 = Super ! En fait, j'ai besoin que vous voliez un document pour moi.
-Vlatyr_GUARD_QuestStart_8 = Un document ? Quel genre de document ?
-Vlatyr_GUARD_QuestStart_9 = C'est une liste de noms. Rien de bien dangereux.
-Vlatyr_GUARD_QuestStart_10 = Un vieillard du nom de Harold est en sa possession. Je vais vous montrer ou il habite sur la carte.
-Vlatyr_GUARD_QuestStart_11 = Harold ? Ce Harold ?
-Vlatyr_GUARD_QuestStart_12 = Un vieillard ? POurquoi ?
-Vlatyr_GUARD_QuestStart_13 = Et bien, je ne peut pas trop en parler. C'est un secret.
-Vlatyr_GUARD_QuestStart_14 = Mais je peut au moins vous dire que je suis sur la trâce d'une secte.
-Vlatyr_GUARD_QuestStart_15 = Ce sont des gens dangereux qui doivent être arrêtés.
-Vlatyr_GUARD_QuestStart_16 = J'ai juré de le faire. Alors me voila à Vlatyr pour trouver des indices.
-Vlatyr_GUARD_QuestStart_17 = En faisant ça, j'ai entendu des conversations suspectes au sujet de ce Harold.
-Vlatyr_GUARD_QuestStart_18 = Apparement, il possède une liste de certains membres de la secte.
-Vlatyr_GUARD_QuestStart_19 = Je ne sais pas cependant s'il travaille avec ou contre eux.
-Vlatyr_GUARD_QuestStart_20 = Donc tu veux que je vole sa liste ?
-Vlatyr_GUARD_QuestStart_21 = Oui. Je l'aurai bien fait, mais la secte connais mon visage.
-Vlatyr_GUARD_QuestStart_22 = Ce n'est pas sage pour moi de sortir de ma cachette.
-Vlatyr_GUARD_QuestStart_23 = Très bien. Je vais aller voir.
-Vlatyr_GUARD_QuestStart_24 = Merci beaucoup !
-Vlatyr_GUARD_QuestStart_25 = Oh, et je suis GARDE ! Ravie de vous rencontrer. 
-Vlatyr_GUARD_QuestStart_26 = De même... Je suis [MC]. Je serais bientôt de retour.
-Vlatyr_GUARD_QuestStart_27 = Il est temps de rendre visite au vieux.
-Vlatyr_GUARD_QuestStart_28 = En prenant en compte sa guilde, il est probable qu'il tienne des comptes sur cette secte.
-Vlatyr_GUARD_QuestStart_29 = Peut être qu'il me la donnera si je lui demande.
-
-Vlatyr_GUARD_AboutYou_1 = Je suis un ancien garde du corps si vous pouvez le croire.
-Vlatyr_GUARD_AboutYou_2 = Il y a encore quelques mois, je protégais un homme politique local.
-Vlatyr_GUARD_AboutYou_3 = Pour faire simple, il a été assassiné.
-Vlatyr_GUARD_AboutYou_4 = Comme il était sur la trace d'une secte, je pense qu'ils sont responsables de l'assassinat.
-Vlatyr_GUARD_AboutYou_5 = J'ai depuis juré de traquer et de démanteler cette secte.
-Vlatyr_GUARD_AboutYou_6 = C'était difficile au début, je n'avais aucune piste.
-Vlatyr_GUARD_AboutYou_7 = Mais tout à changé quand j'ai entendu parlé de ce "Harold".
-Vlatyr_GUARD_AboutYou_8 = J'espère que cette piste portera ses fruits.
-
-Vlatyr_GUARD_AboutSect_1 = La secte est mystérieuse, vous savez.
-Vlatyr_GUARD_AboutSect_2 = La seule chose qui est connu a propos d'elle, c'est qu'elle utilise l'art de l'invocation.
-Vlatyr_GUARD_AboutSect_3 = C'est une forme de magie qui permet d'invoquer différentes choses. Par exemple, des armes ou des personnes.
-Vlatyr_GUARD_AboutSect_4 = Ses membres sont gardés secret. Il est quasiment impossible de savoir qui en est un, encore moins de le capturer.
-Vlatyr_GUARD_AboutSect_5 = A chaque fois que j'ai cru en trouver un, il est mort soudainement ou il a simplement disparu.
-Vlatyr_GUARD_AboutSect_6 = Ce Harold doit être fort si il a réussit à tenir une liste des membres de la secte.
-
-Vlatyr_GUARD_QuestEnd_1 = Ah, vous êtes de retour ! Vous avez eu de la chance ?
-Vlatyr_GUARD_QuestEnd_2 = Oui, j'ai trouvé la liste. C'était comme tu l'avais dis.
-Vlatyr_GUARD_QuestEnd_3 = Super ! Vous avez fait du bon travail.
-Vlatyr_GUARD_QuestEnd_4 = Laissez-moi la voir, s'il vous plait.
-Vlatyr_GUARD_QuestEnd_5 = Je lui donne la liste.
-Vlatyr_GUARD_QuestEnd_6 = ... Je vois... Kalia...
-Vlatyr_GUARD_QuestEnd_7 = Bon boulot, c'est une piste incroyable !
-Vlatyr_GUARD_QuestEnd_8 = Cette liste contient les noms des membres de la secte vivant dans la ville de Kalia.
-Vlatyr_GUARD_QuestEnd_9 = Si j'y vais, je vais pouvoir au moins démanteler le chapitre local de la secte.
-Vlatyr_GUARD_QuestEnd_10 = Je ne peux vraiment pas vous remercier assez pour votre travail.
-Vlatyr_GUARD_QuestEnd_11 = Voila. Ceci est votre paye, comme promis.
-Vlatyr_GUARD_QuestEnd_12 = Un plaisir de travailler avec vous.
-Vlatyr_GUARD_QuestEnd_13 = Oui. Je devrais y aller. Kalia m'attend.
-Vlatyr_GUARD_QuestEnd_14 = Qui sait, nous nous recroiseront peut être un jour, [MC].
-Vlatyr_GUARD_QuestEnd_15 = En attendant, adieux.
-Vlatyr_GUARD_QuestEnd_16 = GARDE commence à partir. Il disparait dans une allée.
-Vlatyr_GUARD_QuestEnd_17 = Et bien. Au moins j'ai fait une bonne action, pour changer un peu...
+Vlatyr_ChezBoyardee_Done_1 = C'est fermée.
 
 
 # ---------------------------------------------------------
@@ -425,42 +281,22 @@ ChezMarcel_Marcel_AboutYou_2 = J'aime chasser les galinettes et boire des bieres
 ChezMarcel_Marcel_AboutYou_3 = Tu connais le bon vieux Harold ? Je bois avec lui de temps en temps.
 ChezMarcel_Marcel_AboutYou_4 = Même si, il ne chasse pas. Il dit qu'il n'aime pas les armes. Je me demande pourquoi...
 
-ChezMarcel_Marcel_AboutRickey_1 = Rickey ? C'est quoi, un oiseau ?
-ChezMarcel_Marcel_AboutRickey_2 = Je suis désolé, je ne m'intéresse qu'aux animaux. Je suis un chasseur, tu sais.
-ChezMarcel_Marcel_AboutRickey_3 = Mais Harold devrait être capable de t'aider avec ces trucs compliqués.
+ChezMarcel_Marcel_LastNight_1 = On s'est vu la nuit dernière ?
+ChezMarcel_Marcel_LastNight_2 = C'est bizarre, j'ai chassé une galinette cendrée toute la nuit.
+ChezMarcel_Marcel_LastNight_3 = Elle courait vite maintenant que j'y pense.
+ChezMarcel_Marcel_LastNight_4 = Et elle criait en français. Quel oiseau étrange.
 
-ChezMarcel_Marcel_AboutArcher_1 = Oh, lui ? Je ne l'aime pas...
-ChezMarcel_Marcel_AboutArcher_2 = Il est venu il y a plusieurs mois de cela. J'en ai déjà marre.
-ChezMarcel_Marcel_AboutArcher_3 = Il ne peut pas s'empecher de se vanter d'avoir tuer un ogre.
-ChezMarcel_Marcel_AboutArcher_4 = Je le dit ! Chasser des ogres, c'est de la triche. Les galinettes sont supérieures.
-ChezMarcel_Marcel_AboutArcher_5 = Et je ne le vois pas chasser des galinettes. Ah ça non !
-ChezMarcel_Marcel_AboutArcher_6 = Il passe ses journées à Swamtyr, à se vanter de ses exploits. C'est ringard...
-
-ChezMarcel_Marcel_ArcherQuestDone_1 = On a montré à ce naze ce que la chasse veut vraiment dire.
-ChezMarcel_Marcel_ArcherQuestDone_2 = Bon débaras, aussi... Il était pénible.
-ChezMarcel_Marcel_ArcherQuestDone_3 = Quand même. Je n'arrive pas à croire qu'il voulait tuer toutes les galinettes de Vlatyr.
-ChezMarcel_Marcel_ArcherQuestDone_4 = Je suis le seul à pouvoir faire ça !
-
-ChezMarcel_Marcel_ArcherQuest2_1 = Maintenant, pour le convaincre de m'aider à vaincre l'archer...
-ChezMarcel_Marcel_ArcherQuest2_2 = Eh, gaillard. Tu as trouvé une galinette cendrée ?
-ChezMarcel_Marcel_ArcherQuest2_3 = Oh, je sais. Il va surement m'aider si je lui dis ça.
-ChezMarcel_Marcel_ArcherQuest2_4 = Non, mais j'ai une mauvaise nouvelle. C'est l'archer...
-ChezMarcel_Marcel_ArcherQuest2_5 = Lui ?! Ne me dit pas qu'il a encore tué un ogre...
-ChezMarcel_Marcel_ArcherQuest2_6 = Par pitié, je ne vais jamais en entendre la fin.
-ChezMarcel_Marcel_ArcherQuest2_7 = Non, non. J'ai des nouvelles bien plus troublantes.
-ChezMarcel_Marcel_ArcherQuest2_8 = Il semblerait qu'il ai décidé de tuer toutes les galinettes de la région.
-ChezMarcel_Marcel_ArcherQuest2_9 = Quoi ?!
-ChezMarcel_Marcel_ArcherQuest2_10 = Si il réussit, vous pouvez imaginer à quel point il va s'en vanter.
-ChezMarcel_Marcel_ArcherQuest2_11 = Inacceptable ! Ce sera la fin de la chasse à Vlatyr !
-ChezMarcel_Marcel_ArcherQuest2_12 = Je ne vais plus pouvoir chasser de galinettes cendrée !
-ChezMarcel_Marcel_ArcherQuest2_13 = Je ne peux pas le laisser faire ça ! Ou est ce monstre ?
-ChezMarcel_Marcel_ArcherQuest2_14 = Parfait.
-ChezMarcel_Marcel_ArcherQuest2_15 = Il est dans le marais. Il est probablement déjà en train de tuer la faune locale.
-ChezMarcel_Marcel_ArcherQuest2_16 = Je vais le tuer ! Il n'aura pas mes galinettes !
-ChezMarcel_Marcel_ArcherQuest2_17 = Le chasseur court en direction du marais. Parfait.
-ChezMarcel_Marcel_ArcherQuest2_18 = Maintenant, il va m'aider à m'occuper de l'archer.
-ChezMarcel_Marcel_ArcherQuest2_19 = Ce sale forban ne pourra pas m'échapper maintenant.
-ChezMarcel_Marcel_ArcherQuest2_20 = Il est temps d'aller au marais. Je ne veux pas qu'il se perde.
+ChezMarcel_Marcel_MainQuest1_1 = RickeyLand ? C'est quoi, un oiseau ?
+ChezMarcel_Marcel_MainQuest1_2 = Non, c'est un parc d'attraction situé à quelques minutes d'ici.
+ChezMarcel_Marcel_MainQuest1_3 = Ils ont envoyé une invitation il y a environ une semaine.
+ChezMarcel_Marcel_MainQuest1_4 = ? ..... Attendez....
+ChezMarcel_Marcel_MainQuest1_5 = Le chasseur cherche dans ses poches, et sort un papier.
+ChezMarcel_Marcel_MainQuest1_6 = Je me souviens maintenant ! J'ai reçu ça il y a une semaine, comme vous l'avez dit.
+ChezMarcel_Marcel_MainQuest1_7 = J'ai cru que c'était une carte montrant ou niche les galinettes cendrées.
+ChezMarcel_Marcel_MainQuest1_8 = Mais je n'ai pas réussit à trouver ou je me situait sur la carte, donc j'ai abandonné.
+ChezMarcel_Marcel_MainQuest1_9 = Puis-je vous l'emprunter ? J'en ai besoin pour quelque chose.
+ChezMarcel_Marcel_MainQuest1_10 = Allez-y. Je n'en ai pas d'utilité dans tout les cas.
+ChezMarcel_Marcel_MainQuest1_11 = Super. Je peux maintenant accéder à RickeyLand.
 
 
 # ---------------------------------------------------------

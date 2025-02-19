@@ -52,6 +52,8 @@ Choice_Guild = About the guild
 Choice_AboutSect = About the sect
 Choice_LastYear = About last year
 Choice_Grimoire = About the grimoire
+Choice_AboutLastNight = About last night
+Choice_AboutRickeyLand = About RickeyLand
 
 Choice_Left = Go left
 Choice_Right = Go right
@@ -249,6 +251,9 @@ ChezHarold_Harold_Grimoire_5 = It's a good thing I remembered the incantation to
 ChezHarold_Harold_MainQuest0_1 = You need to enter RickeyLand, [MC].
 ChezHarold_Harold_MainQuest0_2 = Beating the parc's 4 main attractions is the only way to get my grimoire back.
 
+ChezHarold_Harold_MainQuest1_1 = You need an invite to enter the park ?
+ChezHarold_Harold_MainQuest1_2 = Well... I didn't get one then. Rickey must really hate me.
+ChezHarold_Harold_MainQuest1_3 = You'll have to improvise. Maybe someone can give you his invite.
 
 ChezHarold_Harold_Default = [MC] ! Do you need help with anything ?
 
@@ -262,159 +267,7 @@ ChezHarold_Harold_Default = [MC] ! Do you need help with anything ?
 # ------------------- Vlatyr ------------------------------
 # ---------------------------------------------------------
 
-Vlatyr_ChezBoyardee_Done_1 = I don't need to go back in there.
-
-Vlatyr_ChezBoyardee_MainQuest0_1 = I enter Boyardee's place. It's a wierd restaurant.
-Vlatyr_ChezBoyardee_MainQuest0_2 = Harold told me he had equipments for me. I hope he was right.
-Vlatyr_ChezBoyardee_MainQuest0_3 = Because I sure as hell won't be eating here. The odor is fool...
-Vlatyr_ChezBoyardee_MainQuest0_4 = Maybe that's why there aren't anyone here. How did the owner stay in business ?
-Vlatyr_ChezBoyardee_MainQuest0_5 = Oh, hello there !
-Vlatyr_ChezBoyardee_MainQuest0_6 = A strange man approaches me. He's wearing a chef outfit, is he the owner ?
-Vlatyr_ChezBoyardee_MainQuest0_7 = Coming to eat alone ? No problems !
-Vlatyr_ChezBoyardee_MainQuest0_8 = What will it be ? We have many types of pastas and salads. Today's special is the chocolate cinnamon pasta.  
-Vlatyr_ChezBoyardee_MainQuest0_9 = What the hell ? No, I'm not eating that.
-Vlatyr_ChezBoyardee_MainQuest0_10 = No, no. I'm here on behalf of Harold. He told me you had equipments for me.
-Vlatyr_ChezBoyardee_MainQuest0_11 = Oh, right ! It's true.
-Vlatyr_ChezBoyardee_MainQuest0_12 = Harold called me this morning and told me to get equipments for a mission.
-Vlatyr_ChezBoyardee_MainQuest0_13 = I don't have much, a rope, a hook, stuff like that.
-Vlatyr_ChezBoyardee_MainQuest0_14 = Enough to scale a wall at least.
-Vlatyr_ChezBoyardee_MainQuest0_15 = Harold also told me to buy a gun, for safety. But I couldn't find one.
-Vlatyr_ChezBoyardee_MainQuest0_16 = Apparently, a bunch of security guards from RickeyLand came in the morning. They bought everything.
-Vlatyr_ChezBoyardee_MainQuest0_17 = This might be a problem. RickeyLand will be heavily guarded.
-Vlatyr_ChezBoyardee_MainQuest0_18 = Well, thanks anyway. I'm sure I will need these tools for my mission.
-Vlatyr_ChezBoyardee_MainQuest0_19 = Yes, Uhm... actually... Could I ask a favor ?
-Vlatyr_ChezBoyardee_MainQuest0_20 = Oh no....
-Vlatyr_ChezBoyardee_MainQuest0_21 = I'm expecting a lot of clients in a moment, and I'm a little short-handed.
-Vlatyr_ChezBoyardee_MainQuest0_22 = You seem dependable. Would you mind helping me serve them ?
-Vlatyr_ChezBoyardee_MainQuest0_23 = Damnit ! I knew it would end up like that...
-Vlatyr_ChezBoyardee_MainQuest0_24 = Look, it's not that I don't want to, but I really need to hurry.
-Vlatyr_ChezBoyardee_MainQuest0_25 = Harold sent me on an urgent mission, every minutes count.
-Vlatyr_ChezBoyardee_MainQuest0_26 = If I don't hurry, we could all be in trouble.
-Vlatyr_ChezBoyardee_MainQuest0_27 = But my clients are an urgent matter too ! I need your help.
-Vlatyr_ChezBoyardee_MainQuest0_28 = ... You leave me no choice ! I didn't want to do this...
-Vlatyr_ChezBoyardee_MainQuest0_29 = I'm taking the equipments hostage !
-Vlatyr_ChezBoyardee_MainQuest0_30 = You won't get them until you help me with the clients.
-Vlatyr_ChezBoyardee_MainQuest0_31 = Is he serious ? I don't have time for this.
-Vlatyr_ChezBoyardee_MainQuest0_32 = But... I don't have a choice, do I ?
-Vlatyr_ChezBoyardee_MainQuest0_33 = I could take them by force, but Harold would be furious.
-Vlatyr_ChezBoyardee_MainQuest0_34 = Alright, I'll help you.
-Vlatyr_ChezBoyardee_MainQuest0_35 = Splendid ! I'm happy we came to an arrangement.
-Vlatyr_ChezBoyardee_MainQuest0_36 = And just in time ! It seems our clients are arriving.
-Vlatyr_ChezBoyardee_MainQuest0_37 = Go into the kitchen, I'll tell you what to do.
-Vlatyr_ChezBoyardee_MainQuest0_38 = Okay, okay.
-Vlatyr_ChezBoyardee_MainQuest0_39 = I move towards the kitchen's door, at the back of the restaurant.
-Vlatyr_ChezBoyardee_MainQuest0_40 = I don't have time for this, but here we go.
-Vlatyr_ChezBoyardee_MainQuest0_41 = I enter the kitchen, and prepares myself for cooking.
-
-Vlatyr_ChezBoyardee_MainQuest0_42 = I'm done with cooking. Finally...
-Vlatyr_ChezBoyardee_MainQuest0_43 = I exit the kitchen. Boyardee has to give me the equipments now.
-Vlatyr_ChezBoyardee_MainQuest0_44 = Ah, there you are. 
-Vlatyr_ChezBoyardee_MainQuest0_45 = It seems my clients are very impressed with your cooking. Good job.
-Vlatyr_ChezBoyardee_MainQuest0_46 = Now, I won't get into troubles again at the conference.
-Vlatyr_ChezBoyardee_MainQuest0_47 = Uh ? What conference ?
-Vlatyr_ChezBoyardee_MainQuest0_48 = Well... The clients are relatives of mine. They came to say "hi" essentially.
-Vlatyr_ChezBoyardee_MainQuest0_49 = However, last time they came, I failed my cooking. The chocolate was too hot.
-Vlatyr_ChezBoyardee_MainQuest0_50 = At the next familial conference, I was ridiculed for this...
-Vlatyr_ChezBoyardee_MainQuest0_51 = So thanks to me, this failed cook will not be ridiculed next time...
-Vlatyr_ChezBoyardee_MainQuest0_52 = I'm impressed he managed to stay open for so long. The ingredients he uses are... original.
-Vlatyr_ChezBoyardee_MainQuest0_53 = Can I have the equipments now ?
-Vlatyr_ChezBoyardee_MainQuest0_55 = Oh, right ! Here.
-Vlatyr_ChezBoyardee_MainQuest0_56 = He finally hands me the equipments I was searching for.
-Vlatyr_ChezBoyardee_MainQuest0_57 = I trust you'll be able to succeed in your mission, whatever it is.
-Vlatyr_ChezBoyardee_MainQuest0_58 = Yeah, yeah.
-Vlatyr_ChezBoyardee_MainQuest0_59 = I already wasted too much time here. I have to hurry.
-Vlatyr_ChezBoyardee_MainQuest0_60 = I start exiting the restaurant.
-Vlatyr_ChezBoyardee_MainQuest0_61 = While doing so, I gaze upon the clients that ordered the pizzas.
-Vlatyr_ChezBoyardee_MainQuest0_62 = They are a strange bunch... They are wearing robes, are they religious people ?
-Vlatyr_ChezBoyardee_MainQuest0_63 = Whatever, I don't have time for this.
-Vlatyr_ChezBoyardee_MainQuest0_64 = I exit the restaurant. Thankfully, it's still nightime.
-Vlatyr_ChezBoyardee_MainQuest0_65 = Time to-
-Vlatyr_ChezBoyardee_MainQuest0_66 = Hey, lad.
-Vlatyr_ChezBoyardee_MainQuest0_67 = Some sort of hunter approaches me. What now ?            
-Vlatyr_ChezBoyardee_MainQuest0_68 = I'm searching for an Ash Grouse, did you see one ?
-Vlatyr_ChezBoyardee_MainQuest0_69 = A what ?
-Vlatyr_ChezBoyardee_MainQuest0_70 = A bird ! A little chicken ! A chicken that actually fly !
-Vlatyr_ChezBoyardee_MainQuest0_71 = I'm hunting it right now. But I can't find one...
-Vlatyr_ChezBoyardee_MainQuest0_72 = I don't think you'll be able to find such a bird in a city.
-Vlatyr_ChezBoyardee_MainQuest0_73 = Hmm.... You think so ?
-Vlatyr_ChezBoyardee_MainQuest0_74 = I asked Ol' Harold. "There are many Grouses in Vlatyr", he told me.
-Vlatyr_ChezBoyardee_MainQuest0_75 = Maybe he misunderstood me.
-Vlatyr_ChezBoyardee_MainQuest0_76 = Or maybe you misunderstood him. Vlatyr is also a region...
-Vlatyr_ChezBoyardee_MainQuest0_77 = Shoot. I'll just go back home. Maybe I can spot one there.
-Vlatyr_ChezBoyardee_MainQuest0_78 = If you find a Ash Grouse, or any type of bird, come see me.
-Vlatyr_ChezBoyardee_MainQuest0_79 = I'll help you hunt it. I'm an expert sharpshooter.
-Vlatyr_ChezBoyardee_MainQuest0_80 = The hunter walks away. What a strange encounter.
-Vlatyr_ChezBoyardee_MainQuest0_81 = Time to attack our targets.
-Vlatyr_ChezBoyardee_MainQuest0_82 = Rickey is hiding in RickeyLand, his amusement park.
-Vlatyr_ChezBoyardee_MainQuest0_83 = The archer is currently staying in the small village of Swamtyr.
-Vlatyr_ChezBoyardee_MainQuest0_84 = I have to be careful, I wasted too much time here. I may very well only be able to attack one of them.
-
-
-Vlatyr_GUARD_QuestStart_1 = Hey, you !
-Vlatyr_GUARD_QuestStart_2 = I require assistance. Could you help me for a bit ?
-Vlatyr_GUARD_QuestStart_3 = Depends... How much can you pay ?
-Vlatyr_GUARD_QuestStart_4 = Grr... I knew it would end up like that...
-Vlatyr_GUARD_QuestStart_5 = How about 100 galuses ? It's a generous offer.
-Vlatyr_GUARD_QuestStart_6 = Deal. So, what do you need ?
-Vlatyr_GUARD_QuestStart_7 = Great ! Actually, I want you to steal a document for me.
-Vlatyr_GUARD_QuestStart_8 = A document ? What kind of document ?
-Vlatyr_GUARD_QuestStart_9 = It's a list of names. Nothing too dangerous.
-Vlatyr_GUARD_QuestStart_10 = An old man named Harold is in possession of this list. I'll show you were he lives on the map.
-Vlatyr_GUARD_QuestStart_11 = Harold ? He means this Harold ?
-Vlatyr_GUARD_QuestStart_12 = An old man ? Why ?
-Vlatyr_GUARD_QuestStart_13 = Well, I can't tell much. It's a secret.
-Vlatyr_GUARD_QuestStart_14 = But I can at least tell you that I'm currently on the trail of a sect.
-Vlatyr_GUARD_QuestStart_15 = They are dangerous people that needs to be stoped.
-Vlatyr_GUARD_QuestStart_16 = I vowed to do so. So here I am, searching for clues in Vlatyr.
-Vlatyr_GUARD_QuestStart_17 = While doing so, I overheard suspicious talks about this Harold.
-Vlatyr_GUARD_QuestStart_18 = Apparently, he owns a list of some of the sect's members.
-Vlatyr_GUARD_QuestStart_19 = I don't know if he's working with or against them, though.
-Vlatyr_GUARD_QuestStart_20 = So you want me to steal his list ?
-Vlatyr_GUARD_QuestStart_21 = Right. I would have done it myself, but the sect know my face.
-Vlatyr_GUARD_QuestStart_22 = It wouldn't be wise for me to go out in the open. 
-Vlatyr_GUARD_QuestStart_23 = Alright, alright. I'll go check it out.
-Vlatyr_GUARD_QuestStart_24 = Thanks a lot !
-Vlatyr_GUARD_QuestStart_25 = Oh, and I'm GUARD ! Pleased to meet you. 
-Vlatyr_GUARD_QuestStart_26 = Likewise... I'm [MC]. I'll be back soon.
-Vlatyr_GUARD_QuestStart_27 = Time to head to Harold's house.
-Vlatyr_GUARD_QuestStart_28 = Considering his alliegence to his guild, he may very well be keeping tabs on this sect.
-Vlatyr_GUARD_QuestStart_29 = Maybe he'll just give the list to me if I talk to him.
-
-Vlatyr_GUARD = Don't forget to find Harold, [MC].
-
-Vlatyr_GUARD_AboutYou_1 = I'm an ex-bodyguard if you can believe that.
-Vlatyr_GUARD_AboutYou_2 = I used to protect a local politician a few months ago.
-Vlatyr_GUARD_AboutYou_3 = Long story short, he was assassinated.
-Vlatyr_GUARD_AboutYou_4 = Since he was on the trail of a sect, I belive they ordered the assassination.
-Vlatyr_GUARD_AboutYou_5 = I since vowed to track down and dismantle that sect.
-Vlatyr_GUARD_AboutYou_6 = It was quite hard at first, since I didn't have any lead at all.
-Vlatyr_GUARD_AboutYou_7 = But everything changed when I heard about this "Harold".
-Vlatyr_GUARD_AboutYou_8 = I hope this lead will bear fruits...
-
-Vlatyr_GUARD_AboutSect_1 = The sect is mysterious, you know.
-Vlatyr_GUARD_AboutSect_2 = The only thing that is known about them is that they practice summoning.
-Vlatyr_GUARD_AboutSect_3 = It's a form of magic that allows you to summon various things. Such as weapons and people.
-Vlatyr_GUARD_AboutSect_4 = It's members are kept secret. It's next to impossible to know who's a member, yet alone to capture one.
-Vlatyr_GUARD_AboutSect_5 = Every time I thought I got one, they either died suddenly, or disapear.
-Vlatyr_GUARD_AboutSect_6 = This Harold guy must be something if he managed to keep a list of the sect's members.
-
-Vlatyr_GUARD_QuestEnd_1 = Ah, you came back ! Did you have any luck ?
-Vlatyr_GUARD_QuestEnd_2 = Yes, I found a list. Just like you told me I would.
-Vlatyr_GUARD_QuestEnd_3 = Great ! You did a fine job.
-Vlatyr_GUARD_QuestEnd_4 = Let me see it, please.
-Vlatyr_GUARD_QuestEnd_5 = I hand him the list.
-Vlatyr_GUARD_QuestEnd_6 = ... I see... Kalia...
-Vlatyr_GUARD_QuestEnd_7 = Good job, this is a huge lead !
-Vlatyr_GUARD_QuestEnd_8 = This list contains the name of the sect's members in the city of Kalia.
-Vlatyr_GUARD_QuestEnd_9 = If I head there, I should be able to at least dismantle the city's chapter.
-Vlatyr_GUARD_QuestEnd_10 = I really can't thank you enough for what you did.
-Vlatyr_GUARD_QuestEnd_11 = Here. This is your pay, as promised.
-Vlatyr_GUARD_QuestEnd_12 = Pleasure doing business with you.
-Vlatyr_GUARD_QuestEnd_13 = Right. I should go now. Kalia awaits me.
-Vlatyr_GUARD_QuestEnd_14 = Who knows, maybe we'll meet again, [MC].
-Vlatyr_GUARD_QuestEnd_15 = Until then, farewell.
-Vlatyr_GUARD_QuestEnd_16 = GUARD start moving away. He disapear in a nearby alley.
-Vlatyr_GUARD_QuestEnd_17 = Oh well. At least I did something good for a change...
+Vlatyr_ChezBoyardee_Done_1 = It's locked.
 
 
 # ---------------------------------------------------------
@@ -426,44 +279,24 @@ ChezMarcel_Marcel_Default_1 = Hey, lad. Found any Ash Grouses ?
 ChezMarcel_Marcel_AboutYou_1 = I'm just a local hunter. Nothing more.
 ChezMarcel_Marcel_AboutYou_2 = I like to hunt grouses, and drink beers with my friends.
 ChezMarcel_Marcel_AboutYou_3 = Do you know ol' Harold ? I drink with him sometimes.
-ChezMarcel_Marcel_AboutYou_4 = Although he doesn't hunt. He says he doesn't like guns. I wonder why...
+ChezMarcel_Marcel_AboutYou_4 = Although, he doesn't hunt. He says he doesn't like guns. I wonder why...
 
-ChezMarcel_Marcel_AboutRickey_1 = Rickey ? What's that, a bird ?
-ChezMarcel_Marcel_AboutRickey_2 = I'm sorry, I only take interest in wild animals. I'm a hunter, you see.
-ChezMarcel_Marcel_AboutRickey_3 = Ol' Harold might be able to help you with this nerd stuff.
+ChezMarcel_Marcel_LastNight_1 = We met each other last night ?
+ChezMarcel_Marcel_LastNight_2 = That's weird, I was chasing an Ash Grouse all night.
+ChezMarcel_Marcel_LastNight_3 = It was running quite fast now that I think about it.
+ChezMarcel_Marcel_LastNight_4 = It could even scream in english. What an unusual bird.
 
-ChezMarcel_Marcel_AboutArcher_1 = Oh, him ? I hate his guts...
-ChezMarcel_Marcel_AboutArcher_2 = 'Came here a few months ago, I'm already fed up.
-ChezMarcel_Marcel_AboutArcher_3 = He can't stop bragging about that ogre he killed.
-ChezMarcel_Marcel_AboutArcher_4 = Let me tell you, hunting Ogre is cheating. Grouses are superior.
-ChezMarcel_Marcel_AboutArcher_5 = And I don't see him hunting grouses, no.
-ChezMarcel_Marcel_AboutArcher_6 = He spends his days in Swamtyr, bragging about his tale. What a loser...   
-
-ChezMarcel_Marcel_ArcherQuestDone_1 = We showed this wanker what hunting really means.
-ChezMarcel_Marcel_ArcherQuestDone_2 = Good ridance too... He was annoying.
-ChezMarcel_Marcel_ArcherQuestDone_3 = Still. I can't believe he was going to kill all of Vlatyr's grouses.
-ChezMarcel_Marcel_ArcherQuestDone_4 = I'm the only one authorised to do that !
-
-ChezMarcel_Marcel_ArcherQuest2_1 = Now to convince him to help me deal with the archer...
-ChezMarcel_Marcel_ArcherQuest2_2 = Hey, lad. Have you found a Ash Grouse ?
-ChezMarcel_Marcel_ArcherQuest2_3 = Oh, I know. He'll surely agree to help if I say that.
-ChezMarcel_Marcel_ArcherQuest2_4 = No, but I have bad news. It's about the archer.
-ChezMarcel_Marcel_ArcherQuest2_5 = Him ?! Don't tell me he killed yet another ogre...
-ChezMarcel_Marcel_ArcherQuest2_6 = Please, I'll never hear the end of it.
-ChezMarcel_Marcel_ArcherQuest2_7 = No, no. I have troubling news however.
-ChezMarcel_Marcel_ArcherQuest2_8 = It seems he decided to kill all the grouses in the region.
-ChezMarcel_Marcel_ArcherQuest2_9 = What ?!
-ChezMarcel_Marcel_ArcherQuest2_10 = If he succeeds, you can imagine how much he will brag.
-ChezMarcel_Marcel_ArcherQuest2_11 = Unacceptable ! It'll be the end of hunting in Vlatyr !
-ChezMarcel_Marcel_ArcherQuest2_12 = I won't be able to hunt Ash Grouses anymore ! 
-ChezMarcel_Marcel_ArcherQuest2_13 = I can't let this happen ! Where is this monster currently ?
-ChezMarcel_Marcel_ArcherQuest2_14 = Perfect.
-ChezMarcel_Marcel_ArcherQuest2_15 = He's in the swamp, probably killing the wildlife as we speak.
-ChezMarcel_Marcel_ArcherQuest2_16 = I'll kill him ! He can't have my grouses !
-ChezMarcel_Marcel_ArcherQuest2_17 = The hunter runs in the direction of the swamp. Perfect.
-ChezMarcel_Marcel_ArcherQuest2_18 = Now he'll help me deal with the archer.
-ChezMarcel_Marcel_ArcherQuest2_19 = The sneaky bastard won't be able to hide from me now. 
-ChezMarcel_Marcel_ArcherQuest2_20 = Time to head to the swamp. We don't want him to get lost.
+ChezMarcel_Marcel_MainQuest1_1 = RickeyLand ? What's that, a bird ?
+ChezMarcel_Marcel_MainQuest1_2 = No, it's an amusement park a few minutes away.
+ChezMarcel_Marcel_MainQuest1_3 = They sent you an invite about a week ago.
+ChezMarcel_Marcel_MainQuest1_4 = ? ..... Wait....
+ChezMarcel_Marcel_MainQuest1_5 = The hunter search in his pockets, he takes out a piece of paper.
+ChezMarcel_Marcel_MainQuest1_6 = I remember now ! I received this a week ago, like you said.
+ChezMarcel_Marcel_MainQuest1_7 = I thought it was a map depicting where Ash Grouses were nesting.
+ChezMarcel_Marcel_MainQuest1_8 = But I couldn't figure out where I was on the map, so I gave up.
+ChezMarcel_Marcel_MainQuest1_9 = May I borrow it from you ? I need it for something.
+ChezMarcel_Marcel_MainQuest1_10 = Be my guest. I don't have any use for it anyway.
+ChezMarcel_Marcel_MainQuest1_11 = Great. I can now enter RickeyLand.
 
 
 # ---------------------------------------------------------

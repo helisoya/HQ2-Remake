@@ -1,3 +1,0 @@
-if(mainQuest > 0) Vlatyr/ChezBoyardee_Done
-
-load(Vlatyr/ChezBoyardee_MainQuest0)
