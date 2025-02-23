@@ -10,7 +10,6 @@ public class DialogSystem : MonoBehaviour
     [SerializeField] private ELEMENTS elements;
 
     private string currentSpeakerID;
-    private string currentSpeechID;
 
     public bool isSpeaking { get { return speaking != null; } }
     [HideInInspector] public bool isWaitingForUserInput = false;
@@ -19,10 +18,14 @@ public class DialogSystem : MonoBehaviour
     private Coroutine speaking = null;
     public TextArchitect textArchitect { get; private set; }
 
+    public List<string> currentTextsIds { get; private set; }
+
 
     void Awake()
     {
         instance = this;
+
+        currentTextsIds = new List<string>();
     }
 
     /// <summary>
@@ -35,7 +38,9 @@ public class DialogSystem : MonoBehaviour
         if (additive)
         {
             speechText.text = targetSpeech;
+
         }
+
         speaking = StartCoroutine(Speaking(speech, additive, characterID, speaker));
     }
 
@@ -60,7 +65,7 @@ public class DialogSystem : MonoBehaviour
         if (speechText == null) return;
         string speaker = new string(currentSpeakerID);
         TagManager.Inject(ref speaker);
-        string speech = Locals.GetLocal(currentSpeechID);
+        string speech = DetermineGlobalSpeechText();
         TagManager.Inject(ref speech, false);
 
         speechText.text = speech;
@@ -73,8 +78,13 @@ public class DialogSystem : MonoBehaviour
         speechPanel.SetActive(true);
 
         currentSpeakerID = new string(speaker);
-        currentSpeechID = new string(speech);
         TagManager.Inject(ref speaker);
+
+        if (!additive)
+        {
+            currentTextsIds.Clear();
+        }
+        currentTextsIds.Add(speech);
 
         speech = Locals.GetLocal(speech);
         TagManager.Inject(ref speech, false);
@@ -118,6 +128,19 @@ public class DialogSystem : MonoBehaviour
         StopSpeaking();
     }
 
+    string DetermineGlobalSpeechText()
+    {
+        string globalText = "";
+
+        foreach (string id in currentTextsIds)
+        {
+            globalText += Locals.GetLocal(id);
+        }
+
+        return globalText;
+
+    }
+
     string DetermineSpeaker(string s)
     {
         string retVal = speakerNameText.text;
@@ -144,9 +167,9 @@ public class DialogSystem : MonoBehaviour
         }
     }
 
-    public void Open(string speakerName = "", string speech = "")
+    public void Open(string speakerName = "", List<string> speech = null)
     {
-        if (speakerName == "" && speech == "")
+        if (speakerName == "" && (speech == null || speech.Count == 0))
         {
             OpenAllRequirementsForDialogueSystemVisibility(false);
             return;
@@ -157,8 +180,12 @@ public class DialogSystem : MonoBehaviour
 
         speakerNamePane.SetActive(speakerName != "" && speakerName != "narrator");
 
-        speechText.text = speech;
-        speechText.maxVisibleCharacters = speech.Length;
+        currentTextsIds = speech;
+        string textToDisplay = DetermineGlobalSpeechText();
+        TagManager.Inject(ref textToDisplay, false);
+
+        speechText.text = textToDisplay;
+        speechText.maxVisibleCharacters = textToDisplay.Length;
     }
 
     public bool isClosed

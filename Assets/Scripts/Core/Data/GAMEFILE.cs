@@ -9,7 +9,7 @@ public class GAMEFILE
     public string chapterName;
     public int chapterProgress = 0;
 
-    public string currentTextSystemDisplayText = "";
+    public List<string> currentTextsIds;
     public string currentTextSystemSpeakerDisplayText = "";
 
     public List<CHARACTERDATA> characterInScene = null;

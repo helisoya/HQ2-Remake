@@ -88,7 +88,7 @@ public class NovelController : MonoBehaviour
         else
         {
             DialogSystem.instance.Open(activeGameFile.currentTextSystemSpeakerDisplayText,
-                activeGameFile.currentTextSystemDisplayText);
+                activeGameFile.currentTextsIds);
         }
 
         LoadChapterFile(activeGameFile.chapterName, activeGameFile.chapterProgress);
@@ -100,7 +100,7 @@ public class NovelController : MonoBehaviour
 
         activeGameFile.chapterName = activeChapterFile;
         activeGameFile.chapterProgress = chapterProgress;
-        activeGameFile.currentTextSystemDisplayText = DialogSystem.instance.speechText.text;
+        activeGameFile.currentTextsIds = DialogSystem.instance.currentTextsIds;
         activeGameFile.currentTextSystemSpeakerDisplayText = DialogSystem.instance.speakerNameText.text;
 
         activeGameFile.characterInScene = CharacterManager.instance.SaveCharacters();
