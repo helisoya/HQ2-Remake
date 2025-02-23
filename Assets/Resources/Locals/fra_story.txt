@@ -261,8 +261,6 @@ ChezHarold_Harold_MainQuest1_3 = Vous allez devoir improviser. Peut être que qu
 
 ChezHarold_Harold_Default = [MC] ! Avez-vous besoin d'aide ?
 
-
-
 # ---------------------------------------------------------
 # ------------------- Vlatyr ------------------------------
 # ---------------------------------------------------------
@@ -328,6 +326,22 @@ RickeyLandEntrance_MainQuest0_10 = Je vais peut être devoir explorer un peu, vo
 
 RickeyLandEntrance_MainQuest1_1 = Eh ! Pas d'invitation, pas d'entrée !
 
+RickeyLandEntrance_MainQuest2_1 = Eh, attendez !
+RickeyLandEntrance_MainQuest2_2 = Le garde m'empeche à nouveau d'entrer.
+RickeyLandEntrance_MainQuest2_3 = Pourquoi avoir besoin d'autant de sécurité de toute façon ?
+RickeyLandEntrance_MainQuest2_4 = J'ai réussit à retrouver mon inviation. La voila.
+RickeyLandEntrance_MainQuest2_5 = ...
+RickeyLandEntrance_MainQuest2_6 = C'est bon. Bienvenue à RickeyLand.
+RickeyLandEntrance_MainQuest2_7 = Merci, monsieur.
+RickeyLandEntrance_MainQuest2_8 = Enfin.... Entrons.
+RickeyLandEntrance_MainQuest2_9 = J'entre dans le parc. J'espère que ça ne prendra pas trop de temps.
+RickeyLandEntrance_MainQuest2_10 = Donc voici RickeyLand. Je dois dire, je n'ai pas vraiment fait attention au décor la dernière fois.
+RickeyLandEntrance_MainQuest2_11 = Ce parc est gigantesque. Je dois essayer de ne pas me perdre.
+RickeyLandEntrance_MainQuest2_12 = Un stand m'intrigue. Il offre des cartes du parc.
+RickeyLandEntrance_MainQuest2_13 = Parfait. Avec cette carte, je vais pouvoir me retrouver dans le parc.
+RickeyLandEntrance_MainQuest2_14 = Ma première tache est de finir les quatres attractions de RickeyLand.
+RickeyLandEntrance_MainQuest2_15 = Après ça, je dois obtenir le grimoire d'Harold avant que quelqu'un d'autre l'obtienne. Ou pire, que Rickey découvre son secret.
+RickeyLandEntrance_MainQuest2_16 = Je peux sortir de RickeyLand en intéragissant avec la porte d'entrée.
 
 # ---------------------------------------------------------
 # ------------------- Marais ------------------------------

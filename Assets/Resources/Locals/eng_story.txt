@@ -257,12 +257,6 @@ ChezHarold_Harold_MainQuest1_3 = You'll have to improvise. Maybe someone can giv
 
 ChezHarold_Harold_Default = [MC] ! Do you need help with anything ?
 
-
-
-
-
-
-
 # ---------------------------------------------------------
 # ------------------- Vlatyr ------------------------------
 # ---------------------------------------------------------
@@ -329,6 +323,22 @@ RickeyLandEntrance_MainQuest0_10 = I might have to explore, and see if anyone ha
 
 RickeyLandEntrance_MainQuest1_1 = Hey ! No invite, no entry !
 
+RickeyLandEntrance_MainQuest2_1 = Wait, hold on !
+RickeyLandEntrance_MainQuest2_2 = The guard appears again, blocking me from entering.
+RickeyLandEntrance_MainQuest2_3 = What's up with security here anyway ?
+RickeyLandEntrance_MainQuest2_4 = I managed to find my invite, sir. Here you go.
+RickeyLandEntrance_MainQuest2_5 = ...
+RickeyLandEntrance_MainQuest2_6 = Alright, you're set. Welcome to RickeyLand.
+RickeyLandEntrance_MainQuest2_7 = Thank you, sir.
+RickeyLandEntrance_MainQuest2_8 = Finally.... Let's get in.
+RickeyLandEntrance_MainQuest2_9 = I enter the park, I hope it won't take long.
+RickeyLandEntrance_MainQuest2_10 = So this is it, RickeyLand. I must say, I didn't really pay attention to my surroundings last time.
+RickeyLandEntrance_MainQuest2_11 = This park seems huge. I shouldn't get lost.
+RickeyLandEntrance_MainQuest2_12 = A stand catch my eye. It's offering maps of the park.
+RickeyLandEntrance_MainQuest2_13 = Perfect. With this, I'll be able to find my way around.
+RickeyLandEntrance_MainQuest2_14 = My first order of business is to finish the 4 attractions of RickeyLand.
+RickeyLandEntrance_MainQuest2_15 = After that, I'll have to get Harold's book before someone else grabs it, or before Rickey figures out its secrets.
+RickeyLandEntrance_MainQuest2_16 = I can exit RickeyLand by interracting with the gate at the entrance.
 
 
 # ---------------------------------------------------------

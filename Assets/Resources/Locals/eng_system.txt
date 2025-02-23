@@ -122,6 +122,15 @@ Mines = Mines
 Vlatyr = Vlatyr
 ChezMarcel = Hunter's House
 
+Gate = Entrance
+Plaza = Plaza
+Quiz = Waldo's Quiz
+Horse = The Horse Race
+HauntedHouse = The Haunted House
+Palace = Rickey's Palace
+Salesman = Shoot the Salesman
+SouvenirShop = The souvenir shop
+
 # ------------------------------------------------------------------------
 # -------------------------- Quests --------------------------------------
 # ------------------------------------------------------------------------
@@ -134,3 +143,20 @@ mainQuest_3 = Beat the 4 attractions
 mainQuest_4 = Enter Rickey's palace
 mainQuest_5 = Get the grimoire from Rickey
 mainQuest_6 = Return to Harold
+
+hauntedHouseQuest = The Haunted House
+hauntedHouseQuest_0 = Complete the "Haunted House" attraction
+
+waldoQuizQuest = The Quiz
+waldoQuizQuest_0 = Complete "Waldo's quiz"
+
+horseRaceQuest = The Race
+horseRaceQuest_0 = Complete "The horse race"
+
+shootSalesmanQuest = The Questionable One
+shootSalesmanQuest_0 = Complete the "Shoot the salesman" attraction
+
+shopQuest = The Souvenir Shop
+shopQuest_0 = Investigate the souvenir shop
+
+guardQuest = An old friend returns
