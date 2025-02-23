@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using System;
+using UnityEngine.Rendering;
 
 /// <summary>
 /// Class responsible for constructing and showing text
@@ -72,6 +74,8 @@ public class TextArchitect
 
 		int cpf = charactersPerFrame;
 
+		List<char> punctuation = new List<char>(new char[] { '.', ',', ';', '!', '?' });
+
 		while (vis < max)
 		{
 			//allow skipping by increasing the characters per frame and the speed of occurance.
@@ -87,6 +91,11 @@ public class TextArchitect
 				vis++;
 				tmpro.maxVisibleCharacters = vis;
 				runsThisFrame++;
+			}
+
+			if (!skip)
+			{
+				speed = punctuation.Contains(inf.characterInfo[vis - 1].character) ? 25 : 5;
 			}
 
 			//wait for the next available revelation time.
