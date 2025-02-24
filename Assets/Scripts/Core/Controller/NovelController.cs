@@ -325,7 +325,7 @@ public class NovelController : MonoBehaviour
         }
     }
 
-    IEnumerator HandlingLine(string line)
+    public IEnumerator HandlingLine(string line, bool isQuickCommand = false)
     {
         if (string.IsNullOrEmpty(line) || line.StartsWith('#')) yield break;
 
@@ -339,6 +339,7 @@ public class NovelController : MonoBehaviour
         switch (data[0])
         {
             case "dialog":
+                if (isQuickCommand) break;
                 next = false;
 
                 // Speaker - CharacterModel - additive - dialog
@@ -552,10 +553,12 @@ public class NovelController : MonoBehaviour
                 break;
 
             case "load":
+                if (isQuickCommand) break;
                 LoadChapterFile(parameters[0]);
                 break;
 
             case "mainMenu":
+                if (isQuickCommand) break;
                 VNGUI.instance.FadeFgTo(1);
                 yield return new WaitForEndOfFrame();
                 while (VNGUI.instance.fadingFg)
@@ -567,6 +570,7 @@ public class NovelController : MonoBehaviour
                 break;
 
             case "loadScene":
+                if (isQuickCommand) break;
                 VNGUI.instance.FadeFgTo(1);
                 yield return new WaitForEndOfFrame();
                 while (VNGUI.instance.fadingFg)
@@ -586,6 +590,7 @@ public class NovelController : MonoBehaviour
                 break;
 
             case "map":
+                if (isQuickCommand) break;
                 Map.instance.OpenMap(parameters[0], parameters[1]);
                 break;
 

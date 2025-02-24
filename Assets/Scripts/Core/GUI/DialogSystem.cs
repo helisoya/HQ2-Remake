@@ -122,19 +122,21 @@ public class DialogSystem : MonoBehaviour
             yield return new WaitForEndOfFrame();
         }
 
-
-
-
         StopSpeaking();
     }
 
     string DetermineGlobalSpeechText()
     {
         string globalText = "";
+        string[] split;
 
         foreach (string id in currentTextsIds)
         {
-            globalText += Locals.GetLocal(id);
+            split = Locals.GetLocal(id).Split(new char[] { '[', ']' });
+            for (int i = 0; i < split.Length; i += 2)
+            {
+                globalText += split[i];
+            }
         }
 
         return globalText;

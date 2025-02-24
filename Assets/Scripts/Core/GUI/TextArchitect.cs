@@ -56,6 +56,8 @@ public class TextArchitect
 	IEnumerator Construction()
 	{
 		int runsThisFrame = 0;
+		List<Segment> segments = new List<Segment>();
+		Segment currentSegment;
 
 		tmpro.text = "";
 		tmpro.text += preText;
@@ -64,43 +66,65 @@ public class TextArchitect
 		TMP_TextInfo inf = tmpro.textInfo;
 		int vis = inf.characterCount;
 
-		tmpro.text += targetText;
+		string[] split = targetText.Split(new char[] { '[', ']' });
+		for (int i = 0; i < split.Length; i += 2)
+		{
+			currentSegment = new Segment
+			{
+				line = split[i],
+				actions = i < split.Length - 1 ? split[i + 1].Split(',') : null
+			};
+			segments.Add(currentSegment);
+		}
 
-		tmpro.ForceMeshUpdate(false);
-		inf = tmpro.textInfo;
-		int max = inf.characterCount;
-
-		tmpro.maxVisibleCharacters = vis;
-
+		int max;
 		int cpf = charactersPerFrame;
 
 		List<char> punctuation = new List<char>(new char[] { '.', ',', ';', '!', '?' });
 
-		while (vis < max)
+		foreach (Segment segment in segments)
 		{
-			//allow skipping by increasing the characters per frame and the speed of occurance.
-			if (skip)
+
+			tmpro.text += segment.line;
+
+			tmpro.ForceMeshUpdate(false);
+			inf = tmpro.textInfo;
+			max = inf.characterCount;
+
+			while (vis < max)
 			{
-				speed = 1;
-				charactersPerFrame = charactersPerFrame < 5 ? 5 : charactersPerFrame + 3;
+				//allow skipping by increasing the characters per frame and the speed of occurance.
+				if (skip)
+				{
+					speed = 1;
+					charactersPerFrame = charactersPerFrame < 5 ? 5 : charactersPerFrame + 3;
+				}
+
+				//reveal a certain number of characters per frame.
+				while (runsThisFrame < charactersPerFrame)
+				{
+					vis++;
+					tmpro.maxVisibleCharacters = vis;
+					runsThisFrame++;
+				}
+
+				if (!skip)
+				{
+					speed = punctuation.Contains(inf.characterInfo[vis - 1].character) ? 25 : 5;
+				}
+
+				//wait for the next available revelation time.
+				runsThisFrame = 0;
+				yield return new WaitForSeconds(0.01f * speed);
 			}
 
-			//reveal a certain number of characters per frame.
-			while (runsThisFrame < charactersPerFrame)
+			if (segment.actions != null)
 			{
-				vis++;
-				tmpro.maxVisibleCharacters = vis;
-				runsThisFrame++;
+				foreach (string action in segment.actions)
+				{
+					yield return NovelController.instance.HandlingLine(action, true);
+				}
 			}
-
-			if (!skip)
-			{
-				speed = punctuation.Contains(inf.characterInfo[vis - 1].character) ? 25 : 5;
-			}
-
-			//wait for the next available revelation time.
-			runsThisFrame = 0;
-			yield return new WaitForSeconds(0.01f * speed);
 		}
 
 		//terminate the architect and remove it from the active log of architects.
@@ -179,5 +203,12 @@ public class TextArchitect
 		{
 			DialogSystem.instance.targetSpeech = text;
 		}
+	}
+
+
+	private class Segment
+	{
+		public string line;
+		public string[] actions;
 	}
 }
