@@ -490,6 +490,21 @@ public class NovelController : MonoBehaviour
                 }
                 break;
 
+            case "shake":
+                CameraController.instance.SetShaking(
+                    int.Parse(parameters[0], System.Globalization.CultureInfo.InvariantCulture)
+                );
+
+                if (bool.Parse(parameters[1]))
+                {
+                    yield return new WaitForEndOfFrame();
+                    while (CameraController.instance.isShaking)
+                    {
+                        yield return new WaitForEndOfFrame();
+                    }
+                }
+                break;
+
             case "cameraPosition":
                 // x ; y ; z ; immediate ; waitForEnd
                 // default ; immediate ; waitForEnd

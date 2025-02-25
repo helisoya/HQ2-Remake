@@ -221,5 +221,37 @@
 			"wait(SECONDS)"
 		],
 		"description": "Waits for a set amount of time"
-	}
+	},
+	"Shake": {
+		"scope": "plaintext",
+		"prefix": "shake",
+		"body": [
+			"shake(SECONDS;WAITFOREND)"
+		],
+		"description": "Shakes the screen for a set amount of time"
+	},
+	"Choice": {
+		"scope": "plaintext",
+		"prefix": "choice",
+		"body": [
+			"choice ID_TEXT\n\tID_CHOICE1 NEXTCHAPTER_CHOICE1\n\tID_CHOICE2 NEXTCHAPTER_CHOICE2"
+		],
+		"description": "Starts a choice"
+	},
+	"If": {
+		"scope": "plaintext",
+		"prefix": "if",
+		"body": [
+			"if(VARIABLE1 = 0 & VARIABLE2 = 0) NEXTCHAPTER_OR_COMMAND"
+		],
+		"description": "If statement"
+	},
+	"Interact": {
+		"scope": "plaintext",
+		"prefix": "interact",
+		"body": [
+			"interact"
+		],
+		"description": "Starts an interaction sequence"
+	},
 }

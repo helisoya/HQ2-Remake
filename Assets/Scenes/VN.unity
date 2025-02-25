@@ -17899,6 +17899,39 @@ MonoBehaviour:
   moveSpeed: 5
   rotationSpeed: 40
   cameraTransform: {fileID: 2025422442}
+  shakingCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0.0002708435
+      value: 0
+      inSlope: 1.3340386
+      outSlope: 1.3340386
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.09310709
+    - serializedVersion: 3
+      time: 0.12883148
+      value: 0.124549955
+      inSlope: -0.3013539
+      outSlope: -0.3013539
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.28613648
+    - serializedVersion: 3
+      time: 0.9997894
+      value: 0.0011002673
+      inSlope: -0.05675338
+      outSlope: -0.05675338
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.35696766
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &2070186278
 GameObject:
   m_ObjectHideFlags: 0
