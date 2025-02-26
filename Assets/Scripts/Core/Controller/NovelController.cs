@@ -464,6 +464,15 @@ public class NovelController : MonoBehaviour
 
                 break;
 
+            case "flash":
+
+                VNGUI.instance.FlashTo(1, 10);
+
+                yield return new WaitForSeconds(float.Parse(parameters[0], System.Globalization.CultureInfo.InvariantCulture));
+
+                VNGUI.instance.FlashTo(0, 10);
+                break;
+
             case "fadeBg":
 
                 VNGUI.instance.FadeBgTo(float.Parse(parameters[0], System.Globalization.CultureInfo.InvariantCulture));

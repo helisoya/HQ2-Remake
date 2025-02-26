@@ -254,4 +254,12 @@
 		],
 		"description": "Starts an interaction sequence"
 	},
+	"Flash": {
+		"scope": "plaintext",
+		"prefix": "flash",
+		"body": [
+			"flash(SECONDS)"
+		],
+		"description": "Flash the screen for a set amount of time"
+	},
 }

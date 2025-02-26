@@ -14,6 +14,7 @@ public class VNGUI : MonoBehaviour
     [Header("Fades")]
     [SerializeField] private Fade fadeBg;
     [SerializeField] private Fade fadeFg;
+    [SerializeField] private Fade flash;
 
     [Header("Buttons")]
     [SerializeField] private Button[] buttonsRequiringSaveReady;
@@ -31,6 +32,7 @@ public class VNGUI : MonoBehaviour
     public bool fadingFg { get { return fadeFg.fading; } }
     public float fadeBgAlpha { get { return fadeBg.currentAlpha; } }
     public float fadeFgAlpha { get { return fadeFg.currentAlpha; } }
+    public bool fadingFlash { get { return flash.fading; } }
 
     void Awake()
     {
@@ -40,6 +42,18 @@ public class VNGUI : MonoBehaviour
         fadeFg.FadeTo(0);
         fadeBg.ForceAlphaTo(1);
         fadeBg.FadeTo(0);
+
+        flash.ForceAlphaTo(0);
+    }
+
+    /// <summary>
+    /// Flashes the screen to a set alpha
+    /// </summary>
+    /// <param name="alpha">The target alpha</param>
+    /// <param name="speed">The flash's speed</param>
+    public void FlashTo(float alpha, float speed)
+    {
+        flash.FadeTo(alpha, speed);
     }
 
     /// <summary>

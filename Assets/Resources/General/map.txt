@@ -27,4 +27,4 @@ Horse Horse/Arrive ALWAYS
 HauntedHouse HauntedHouse/Arrive ALWAYS
 Palace Palace/Arrive ALWAYS
 Salesman Salesman/Arrive ALWAYS
-SouvenirShop SouvenirShop/Arrive ALWAYS
+SouvenirShop SouvenirShop/Arrive shopQuest 0

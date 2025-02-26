@@ -43,6 +43,7 @@ dialog(narrator;_;false;Intro_19)
 dialog(narrator;_;false;Intro_20)
 dialog(narrator;_;false;Intro_21)
 
+shake(3;false)
 setBackground(BraiseBridgeExplosion)
 playSound(Explosion)
 

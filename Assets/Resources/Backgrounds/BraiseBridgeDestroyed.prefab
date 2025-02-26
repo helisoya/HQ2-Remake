@@ -101650,7 +101650,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a634977fa1b4eef4f8944cd1f2b2d812, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  backgroundName: BraiseBridge
+  backgroundName: BraiseBridgeDestroyed
   markersRoot: {fileID: 9201518211743394893}
   skyData: {fileID: 11400000, guid: 69a1ccb1238e41a4e8f75ffa2663bd1a, type: 2}
 --- !u!1 &9201518212082586488

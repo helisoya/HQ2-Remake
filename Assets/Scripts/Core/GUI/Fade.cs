@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Microsoft.Unity.VisualStudio.Editor;
 using UnityEngine;
 
 /// <summary>
@@ -9,7 +10,6 @@ public class Fade : MonoBehaviour
 {
     [Header("Infos")]
     [SerializeField] private CanvasGroup canvaGroup;
-    [SerializeField] private float transitionSpeed = 1f;
     public float currentAlpha
     {
         get { return canvaGroup.alpha; }
@@ -20,11 +20,12 @@ public class Fade : MonoBehaviour
     /// <summary>
     /// Fades the image
     /// <param name="alpha"/>The alpha target</param>
+    /// <param name="speed">The transition's speed</param>
     /// </summary>
-    public void FadeTo(float alpha)
+    public void FadeTo(float alpha, float speed = 2)
     {
         if (routineFading != null) StopCoroutine(routineFading);
-        routineFading = StartCoroutine(RoutineFading(alpha));
+        routineFading = StartCoroutine(RoutineFading(alpha, speed));
     }
 
     /// <summary>
@@ -46,8 +47,9 @@ public class Fade : MonoBehaviour
     /// IEnumerator for the image's fading
     /// </summary>
     /// <param name="target">The target alpha</param>
+    /// <param name="speed">The transition's speed</param>
     /// <returns>IEnumerator</returns>
-    IEnumerator RoutineFading(float target)
+    IEnumerator RoutineFading(float target, float speed = 2)
     {
         float currentAlpha = canvaGroup.alpha;
         int side = target > currentAlpha ? 1 : -1;
@@ -56,7 +58,7 @@ public class Fade : MonoBehaviour
 
         while (currentAlpha != target)
         {
-            currentAlpha = Mathf.Clamp(currentAlpha + transitionSpeed * side * Time.deltaTime, min, max);
+            currentAlpha = Mathf.Clamp(currentAlpha + speed * side * Time.deltaTime, min, max);
             canvaGroup.alpha = currentAlpha;
             yield return new WaitForEndOfFrame();
         }
