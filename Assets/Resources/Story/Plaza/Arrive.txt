@@ -4,4 +4,4 @@ setBackground(RickeyLandPlaza)
 
 if(rain = 1) changeSkybox(Rain)
 
-load(Gate/Interaction)
+load(Plaza/Interaction)
