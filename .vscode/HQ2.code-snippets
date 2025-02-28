@@ -7,7 +7,7 @@
 	// Placeholders with the same ids are connected.
 	// Example:
 	"Change the current music": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "playMusic",
 		"body": [
 			"playMusic(MUSIC)"
@@ -15,7 +15,7 @@
 		"description": "Changes the current music"
 	},
 	"Dialog": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "dialog",
 		"body": [
 			"dialog(SPEAKER_ID;CHARACTER_ID;ADDITIVE;TEXT_ID)"
@@ -23,7 +23,7 @@
 		"description": "Shows a dialog"
 	},
 	"Change the background": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "setBackground",
 		"body": [
 			"setBackground(BACKGROUND;RESETSKYDATA)"
@@ -31,7 +31,7 @@
 		"description": "Changes the background"
 	},
 	"Play a sound": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "playSound",
 		"body": [
 			"playSound(SFX)"
@@ -39,7 +39,7 @@
 		"description": "Plays a sound"
 	},
 	"Remove all characters": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "removeAllCharacters",
 		"body": [
 			"removeAllCharacters()"
@@ -47,7 +47,7 @@
 		"description": "Removes all characters from the scene"
 	},
 	"Add a character": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "addCharacter",
 		"body": [
 			"addCharacter(CHARACTER_ID;STARTHIDDEN)"
@@ -55,7 +55,7 @@
 		"description": "Adds a character"
 	},
 	"Remove a character": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "removeCharacter",
 		"body": [
 			"removeCharacter(CHARACTER_ID)"
@@ -63,7 +63,7 @@
 		"description": "Removes a character"
 	},
 	"Set a character's position": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "setCharacterPosition",
 		"body": [
 			"setCharacterPosition(CHARACTER_ID;MARKER_ID)"
@@ -71,7 +71,7 @@
 		"description": "Sets a character's position"
 	},
 	"Set a character's rotation": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "setCharacterRotation",
 		"body": [
 			"setCharacterRotation(CHARACTER_ID;MARKER_ID)"
@@ -79,7 +79,7 @@
 		"description": "Sets a character's rotation"
 	},
 	"Set a character's mouth": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "setCharacterMouth",
 		"body": [
 			"setCharacterMouth(CHARACTER_ID;MOUTH_ID)"
@@ -87,7 +87,7 @@
 		"description": "Sets a character's mouth"
 	},
 	"Set a character's eye": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "setCharacterEye",
 		"body": [
 			"setCharacterEye(CHARACTER_ID;EYE_ID)"
@@ -95,7 +95,7 @@
 		"description": "Sets a character's eye"
 	},
 	"Set a character's body": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "setCharacterBody",
 		"body": [
 			"setCharacterBody(CHARACTER_ID;BODY_ID;IMMEDIATE)"
@@ -103,7 +103,7 @@
 		"description": "Sets a character's body"
 	},
 	"Set the triggered chapter for an interraction": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "setInteractionChapter",
 		"body": [
 			"setInteractionChapter(INTERRACTION_ID;NEXTCHAPTER)"
@@ -111,7 +111,7 @@
 		"description": "Sets the triggered chapter for an interraction"
 	},
 	"Set the triggered chapter to be hidden": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "setInteractionHidden",
 		"body": [
 			"setInteractionCsetInteractionHiddenhapter(INTERRACTION_ID;HIDDEN)"
@@ -119,7 +119,7 @@
 		"description": "Sets the triggered chapter to be hidden"
 	},
 	"Set a character's alpha": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "setCharacterAlpha",
 		"body": [
 			"setCharacterAlpha(CHARACTER_ID;TARGETALPHA;WAITFOREND)"
@@ -127,7 +127,7 @@
 		"description": "Sets a character's alpha"
 	},
 	"Fade the background": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "fadeBg",
 		"body": [
 			"fadeBg(ALPHATARGET;WAITFOREND)"
@@ -135,7 +135,7 @@
 		"description": "Fade the background"
 	},
 	"Fade the foreground": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "fadeFg",
 		"body": [
 			"fadeFg(ALPHATARGET;WAITFOREND)"
@@ -143,7 +143,7 @@
 		"description": "Fade the foreground"
 	},
 	"Set the camera's position": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "cameraPosition",
 		"body": [
 			"cameraPosition(X;Y;Z;IMMEDIATE;WAITFOREND)"
@@ -151,7 +151,7 @@
 		"description": "Sets the camera's position"
 	},
 	"Set the camera's rotation": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "cameraRotation",
 		"body": [
 			"cameraRotation(X;Y;Z;IMMEDIATE;WAITFOREND)"
@@ -159,7 +159,7 @@
 		"description": "Sets the camera's rotation"
 	},
 	"Load a new chapter file": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "load",
 		"body": [
 			"load(CHAPTER)"
@@ -167,7 +167,7 @@
 		"description": "Loads a new chapter file"
 	},
 	"Go back to the main menu": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "mainMenu",
 		"body": [
 			"mainMenu()"
@@ -175,7 +175,7 @@
 		"description": "Goes back to the main menu"
 	},
 	"Load a new scene": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "loadScene",
 		"body": [
 			"loadScene(SCENE)"
@@ -183,7 +183,7 @@
 		"description": "Loads a new scene"
 	},
 	"Play a voice clip": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "voice",
 		"body": [
 			"voice(VOICE)"
@@ -191,7 +191,7 @@
 		"description": "Plays a voice clip"
 	},
 	"Open the map": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "map",
 		"body": [
 			"map(MAPID;CURRENTPOINT)"
@@ -199,7 +199,7 @@
 		"description": "Opens the map"
 	},
 	"Change a variable": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "variable",
 		"body": [
 			"variable(VARIABLEID;NEWVALUE)"
@@ -207,7 +207,7 @@
 		"description": "Changes a variable"
 	},
 	"Change the skybox": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "changeSkybox",
 		"body": [
 			"changeSkybox(SKYBOX)"
@@ -215,7 +215,7 @@
 		"description": "Changes the skybox"
 	},
 	"Wait": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "wait",
 		"body": [
 			"wait(SECONDS)"
@@ -223,7 +223,7 @@
 		"description": "Waits for a set amount of time"
 	},
 	"Shake": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "shake",
 		"body": [
 			"shake(SECONDS;WAITFOREND)"
@@ -231,7 +231,7 @@
 		"description": "Shakes the screen for a set amount of time"
 	},
 	"Choice": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "choice",
 		"body": [
 			"choice ID_TEXT\n\tID_CHOICE1 NEXTCHAPTER_CHOICE1\n\tID_CHOICE2 NEXTCHAPTER_CHOICE2"
@@ -239,7 +239,7 @@
 		"description": "Starts a choice"
 	},
 	"If": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "if",
 		"body": [
 			"if(VARIABLE1 = 0 & VARIABLE2 = 0) NEXTCHAPTER_OR_COMMAND"
@@ -247,7 +247,7 @@
 		"description": "If statement"
 	},
 	"Interact": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "interact",
 		"body": [
 			"interact"
@@ -255,7 +255,7 @@
 		"description": "Starts an interaction sequence"
 	},
 	"Flash": {
-		"scope": "plaintext",
+		"scope": "ansl",
 		"prefix": "flash",
 		"body": [
 			"flash(SECONDS)"

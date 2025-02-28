@@ -54,7 +54,6 @@ dialog(narrator;_;false;Intro_25)
 dialog(narrator;_;false;Intro_26)
 dialog(narrator;_;false;Intro_27)
 dialog(narrator;_;false;Intro_28)
-
 fadeBg(1;true)
 
 dialog(narrator;_;false;Intro_29)
