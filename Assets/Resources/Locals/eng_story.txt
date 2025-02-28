@@ -54,6 +54,8 @@ Choice_LastYear = About last year
 Choice_Grimoire = About the grimoire
 Choice_AboutLastNight = About last night
 Choice_AboutRickeyLand = About RickeyLand
+Choice_Play = Try the attraction
+Choice_Rules = What are the rules ?
 
 Choice_Left = Go left
 Choice_Right = Go right
@@ -163,8 +165,8 @@ Intro_89 = Oh, of course. Well...
 Intro_90 = The bad news is that someone stole my belongings again.
 Intro_91 = And the good news ?
 Intro_92 = Well, this time it's not my keys. It's a book !
-Intro_93 = ............
-Intro_94 = ............
+Intro_93 = .......
+Intro_94 = .......
 Intro_95 = I said something funny again, didn't I ?
 Intro_96 = Yes you did...
 Intro_97 = Oh, but wait ! It's not any book !
@@ -198,7 +200,7 @@ Intro_123 = Oh, and before I forget.
 Intro_124 = Please come to the souvenir shop ! It's so great in here ! We all all the colors you'll ever need !
 Intro_125 = And if I don't see you there.... I'LL END Y-
 
-Intro_126 = .............
+Intro_126 = .......
 Intro_127 = What did I just see ?
 Intro_128 = It's RickeyLand. You went to the park last time, remember ?
 Intro_129 = And well... The prize book he showed... It's my grimoire.
@@ -283,7 +285,7 @@ ChezMarcel_Marcel_LastNight_4 = It could even scream in english. What an unusual
 ChezMarcel_Marcel_MainQuest1_1 = RickeyLand ? What's that, a bird ?
 ChezMarcel_Marcel_MainQuest1_2 = No, it's an amusement park a few minutes away.
 ChezMarcel_Marcel_MainQuest1_3 = They sent you an invite about a week ago.
-ChezMarcel_Marcel_MainQuest1_4 = ? ..... Wait....
+ChezMarcel_Marcel_MainQuest1_4 = ? ... Wait...
 ChezMarcel_Marcel_MainQuest1_5 = The hunter search in his pockets, he takes out a piece of paper.
 ChezMarcel_Marcel_MainQuest1_6 = I remember now ! I received this a week ago, like you said.
 ChezMarcel_Marcel_MainQuest1_7 = I thought it was a map depicting where Ash Grouses were nesting.
@@ -297,11 +299,6 @@ ChezMarcel_Marcel_MainQuest1_11 = Great. I can now enter RickeyLand.
 # ------------- Intersection ------------------------------
 # ---------------------------------------------------------
 
-
-Intersection_Intro_1 = I get to a crossroad. There are two paths in front of me.
-Intersection_Intro_2 = The left path leads to some sort of amusement park. Maybe it's open ?
-Intersection_Intro_3 = The right path leads to a dense forest.
-Intersection_Intro_4 = I have to choose a path, but which one is the correct one ?
 
 
 # ---------------------------------------------------------
@@ -340,110 +337,20 @@ RickeyLandEntrance_MainQuest2_14 = My first order of business is to finish the 4
 RickeyLandEntrance_MainQuest2_15 = After that, I'll have to get Harold's book before someone else grabs it, or before Rickey figures out its secrets.
 RickeyLandEntrance_MainQuest2_16 = I can exit RickeyLand by interracting with the gate at the entrance.
 
+# ---------------------------------------------------------
+# ----------------- Rickeyland - Quiz ---------------------
+# ---------------------------------------------------------
+
+Quiz_Waldo_Default_1 = Hello ! Did you come to try the quiz ?
+
+Quiz_Waldo_Done_1 = You have already completed this attraction !
+
 
 # ---------------------------------------------------------
 # ------------------- Marais ------------------------------
 # ---------------------------------------------------------
 
-Swamp_Intro_1 = Vlatyr's Swamp, uh...
-Swamp_Intro_2 = So, the archer is somewhere here.
-Swamp_Intro_3 = Time to find the man. I can't let him attack the fortress.
 
-Swamp_ArcherQuest1_1 = After walking for a bit, I manage to find a bridge.
-Swamp_ArcherQuest1_2 = Someone is currently on it, watching the opposite side of the river.
-Swamp_ArcherQuest1_3 = Is he the archer ? Time to find out.
-Swamp_ArcherQuest1_4 = I approach him. He seems to notice me, and turns around.
-Swamp_ArcherQuest1_5 = Why, hello there.
-Swamp_ArcherQuest1_6 = I'm the great archer. I'm sure you heard of my heroic tales.
-Swamp_ArcherQuest1_7 = Killer of the swamp's ogre, great hunter, and more !
-Swamp_ArcherQuest1_8 = But let's not talk about that other guy and the dragon. I'm the important one, okay ?
-Swamp_ArcherQuest1_9 = But what brings you here ? Oh, I know !
-Swamp_ArcherQuest1_10 = You need protection ? Are you too afraid to walk in the streets ?
-Swamp_ArcherQuest1_11 = I can help with that ! I can protect you from any danger.
-Swamp_ArcherQuest1_12 = Hum, no. I don't recquire your services.
-Swamp_ArcherQuest1_13 = Such a fierce stare... You are different.
-Swamp_ArcherQuest1_14 = You... are a rival. Are you not ?
-Swamp_ArcherQuest1_15 = Why did you come here ? Do you want to challenge me, the great archer ?
-Swamp_ArcherQuest1_16 = You are planing to attack the Braise Fortress. I can't let you do that.
-Swamp_ArcherQuest1_17 = Attack ? What a joke ! I'm only going to visit it for a bit.
-Swamp_ArcherQuest1_18 = You know, I'll walk in its empty corridors, filling my pockets with precious artefacts.
-Swamp_ArcherQuest1_19 = I was told they were quite potent. I'm quite excited.
-Swamp_ArcherQuest1_20 = With them, I'll be unstopable ! I'll be able to be the greatest archer ever !
-Swamp_ArcherQuest1_21 = No more will I be ridiculed by unarmed civilians ! No more !
-Swamp_ArcherQuest1_22 = I will hunt the greatest games. I'll become a legend !
-Swamp_ArcherQuest1_23 = I'm not going to allow this. Surrender while you can.
-Swamp_ArcherQuest1_24 = Surrender ? I am an archer, and you ? You have nothing !
-Swamp_ArcherQuest1_25 = Some ropes won't help you defeat someone like me !
-Swamp_ArcherQuest1_26 = The archer does a backflip, and disapears in a tree.
-Swamp_ArcherQuest1_27 = Where is he ? I can't see him anymore.
-Swamp_ArcherQuest1_28 = You think you can prevent my ascension to legend ? Dodge that !
-Swamp_ArcherQuest1_29 = Suddenly, I hear a arrow being shot from a tree not far from me.
-Swamp_ArcherQuest1_30 = I barely have enough time to dodge it, but I manage it.
-Swamp_ArcherQuest1_31 = He fires again, from a different tree. Again, I barely dodge it. 
-Swamp_ArcherQuest1_32 = I have to get out of here. I can't fight him like that.
-Swamp_ArcherQuest1_33 = I run away. He doesn't seem to be following me.
-Swamp_ArcherQuest1_34 = Now, how should I deal with him ?
-Swamp_ArcherQuest1_35 = I need a gun, but apparently they were all sold out.
-Swamp_ArcherQuest1_36 = .... Maybe the weird hunter can help me. If he can shoot...
-Swamp_ArcherQuest1_37 = I should be able to find him at his house.
-
-Swamp_ArcherQuest3_1 = Ah. There you are, lad.
-Swamp_ArcherQuest3_2 = I thought I saw the bloody archer here, but I was wrong.
-Swamp_ArcherQuest3_3 = There are only trees and rocks over here...
-Swamp_ArcherQuest3_4 = I wonder where the bastard went. I have to teach him a lesson.
-Swamp_ArcherQuest3_5 = Follow me. I can guide you where I saw him last time.
-Swamp_ArcherQuest3_6 = But be ready. I almost died back then.
-Swamp_ArcherQuest3_7 = Don't worry about me. I'm right behind you, lad.    
-
-Swamp_ArcherQuest4_1 = We manage to get back to the bridge.
-Swamp_ArcherQuest4_2 = But where is the archer ? It would be annoying if he went away.
-Swamp_ArcherQuest4_3 = Where is the bloody grouse killer ? WHERE ARE YOU ?!
-Swamp_ArcherQuest4_4 = Don't yell. I'm here.
-Swamp_ArcherQuest4_5 = His voice comes from the trees. He's still hiding.
-Swamp_ArcherQuest4_6 = So you brought a friend ? Were you scared ?
-Swamp_ArcherQuest4_7 = Show yourself ! Let us fight !
-Swamp_ArcherQuest4_8 = Ah ! I know my weaknesses. I won't make such a mistake.
-Swamp_ArcherQuest4_9 = If you want to fight, you'll have to do it like that !
-Swamp_ArcherQuest4_10 = Get down !
-Swamp_ArcherQuest4_11 = We hear an arrow being shot. I get down. It barely missed me.
-Swamp_ArcherQuest4_12 = Why you little... You won't be able to climb trees when I'll be done with you !
-Swamp_ArcherQuest4_13 = Lad ! Help me spot him. I'll take the shot.
-Swamp_ArcherQuest4_14 = He thinks he's the best shot here... He doesn't know me.
-Swamp_ArcherQuest4_15 = This is for the Ash Grouses !
-Swamp_ArcherQuest4_16 = We get ready to hunt the archer. 
-
-Swamp_ArcherQuest4_17 = Argh !
-Swamp_ArcherQuest4_18 = The archer falls to the ground. We did it.
-Swamp_ArcherQuest4_19 = Well ! That was refreshing ! Nice job, lad.
-Swamp_ArcherQuest4_20 = You know what, I'll leave the rest to you.
-Swamp_ArcherQuest4_21 = All this firing made me hungry for grouses.
-Swamp_ArcherQuest4_22 = If you need me again. Come see me at my house.
-Swamp_ArcherQuest4_23 = Now then, if you'll excuse me...
-Swamp_ArcherQuest4_24 = The hunter leaves. Perfect.
-Swamp_ArcherQuest4_25 = Now I'll be able to deal with the archer however I want.
-Swamp_ArcherQuest4_26 = I approche him. He's trying to get up.
-Swamp_ArcherQuest4_27 = Y- You... You defeated me... again...
-Swamp_ArcherQuest4_28 = Why do I always get bested by unarmed civilians ?
-Swamp_ArcherQuest4_29 = First that guy killed the dragon, now you... Why does this keep happening ?
-Swamp_ArcherQuest4_30 = Why did you want to pillage the fortress ?
-Swamp_ArcherQuest4_31 = I only wanted a little bit of fame. I only wanted to be liked...
-Swamp_ArcherQuest4_32 = Wherever I go, everybody keep their distance with me.
-Swamp_ArcherQuest4_33 = So I thought that maybe, if I was famous, they would talk to me.
-Swamp_ArcherQuest4_34 = I came here, and killed the swamp's ogre. But alas...
-Swamp_ArcherQuest4_35 = It seems fame wasn't the only thing I required in order to be liked...
-Swamp_ArcherQuest4_36 = Soon afterwards, Lord Ember was killed in his fortress.
-Swamp_ArcherQuest4_37 = I had heard that the fortress contained various artefacts. Some of wich are very potent.
-Swamp_ArcherQuest4_38 = So I set out to enter the now empty fortress to find artefacts. In hope that one could solve my problem.
-Swamp_ArcherQuest4_39 = ... I don't think an artefact can help you with that...
-Swamp_ArcherQuest4_40 = Whatever. Just promise you won't pillage it. Or there won't be another time.
-Swamp_ArcherQuest4_41 = O- Of course ! I promise !
-Swamp_ArcherQuest4_42 = Great. Now move. I don't have all night.
-Swamp_ArcherQuest4_43 = The archer crosses the bridge and exits the swamp.
-Swamp_ArcherQuest4_44 = Well... I did it.
-Swamp_ArcherQuest4_45 = I let him go, since he was so pathetic...
-Swamp_ArcherQuest4_46 = Well then. Time to deal with Rickey, the CEO of RickeyLand.
-Swamp_ArcherQuest4_47 = He should be in his amusement park. But who know for how long ?
-Swamp_ArcherQuest4_48 = I could be too late. I have to hurry. 
 
 # ---------------------------------------------------------
 # ------------------ Swamtyr ------------------------------
@@ -451,34 +358,7 @@ Swamp_ArcherQuest4_48 = I could be too late. I have to hurry.
 
 Swamtyr_Car_1 = A burned car. Someone beat me to it.
 
-Swamtyr_OldMan_Default_1 = This archer is bad business...
 
-Swamtyr_OldMan_ArcherGone_1 = The archer is finally gone. That's a relief.
-Swamtyr_OldMan_ArcherGone_2 = Now I'll be able to forage mushrooms in peace.
-
-Swamtyr_OldMan_ArcherQuest0_1 = Hey, you. Have you seen an archer around here ?
-Swamtyr_OldMan_ArcherQuest0_2 = Uh ? Oh, hello. Why, yes. I know an archer who lives here.
-Swamtyr_OldMan_ArcherQuest0_3 = He lives in this house, right here.
-Swamtyr_OldMan_ArcherQuest0_4 = The old man points to the left house. Perfect.
-Swamtyr_OldMan_ArcherQuest0_5 = But if you want to meet him, you're out of luck.
-Swamtyr_OldMan_ArcherQuest0_6 = He went to the swamp about an hour ago. He said something about "training before the expedition".
-Swamtyr_OldMan_ArcherQuest0_7 = Great... Now I'll have to search the swamp for him.
-Swamtyr_OldMan_ArcherQuest0_8 = But why do want to meet him, if I may ?
-Swamtyr_OldMan_ArcherQuest0_9 = He's.... about to do a mistake. And I have to prevent that.   
-Swamtyr_OldMan_ArcherQuest0_10 = I see. This boy sure is troublesome. 
-Swamtyr_OldMan_ArcherQuest0_11 = Ever since he killed that ogre, he's bragging all day about it.
-Swamtyr_OldMan_ArcherQuest0_12 = He even forbade me from entering the swamp without him. What a joke.
-Swamtyr_OldMan_ArcherQuest0_13 = Interresting... I'll talk to him about that.
-Swamtyr_OldMan_ArcherQuest0_14 = Well, time to search the swamp. I don't have much time.
-
-Swamtyr_ArcherGoesToFortress_1 = Now to find this archer... He should be somewhere around here.
-Swamtyr_ArcherGoesToFortress_2 = Maybe the old man can help me.
-Swamtyr_ArcherGoesToFortress_3 = Hey. Where is the archer ?
-Swamtyr_ArcherGoesToFortress_4 = Uh ? Oh. The rascal ran off about 30 minutes ago.
-Swamtyr_ArcherGoesToFortress_5 = He came back from a training session in the swamp, and said "I'm ready to find artefacts !".
-Swamtyr_ArcherGoesToFortress_6 = I don't know what he meant though...
-Swamtyr_ArcherGoesToFortress_7 = Great. This means he's already at the fortress.
-Swamtyr_ArcherGoesToFortress_8 = I have to hurry, or else there will be troubles. 
 
 # ---------------------------------------------------------
 # ---------------- Montagnes ------------------------------
@@ -494,321 +374,9 @@ Mountains_Car_1 = How did this car end up here ?
 # ---------------- Mines ------------------------------
 # ---------------------------------------------------------
 
-Mines_MainQuest3_1 = So this is the mine Harold told me about.
-Mines_MainQuest3_2 = I should be able to find the quartz he want in there.
-Mines_MainQuest3_3 = Let's go. We're short on time.
-Mines_MainQuest3_4 = I enter the mines.
-Mines_MainQuest3_5 = It's very dark in here. I have to be careful not to get lost.
-Mines_MainQuest3_6 = I light up a nearby torch. It will help navigate this maze.
-Mines_MainQuest3_7 = Well... Time to find some quartz.
-
-Mines_MainQuest3_8 = I finally found some quartz.
-Mines_MainQuest3_9 = Harold should be satisfied now...
-Mines_MainQuest3_10 = Well, time to get out of here.
-Mines_MainQuest3_11 = I manage to exit the mines after walking for a bit.
-Mines_MainQuest3_12 = Alright. Now I should head back to Harold's house.
 
 
 # ---------------------------------------------------------
 # --------------- Forteresse ------------------------------
 # ---------------------------------------------------------
 
-Fortress_MainQuest2_Rickey_1 = I finally arrive to the fortress.
-Fortress_MainQuest2_Rickey_2 = But it seems I'm too late... Rickey is already here.
-Fortress_MainQuest2_Rickey_3 = Ah Ah ! The fortress is mine !
-Fortress_MainQuest2_Rickey_4 = Hold on ! 
-Fortress_MainQuest2_Rickey_5 = Uh ? Who are you ?
-Fortress_MainQuest2_Rickey_6 = Can't you see I'm busy reclaiming this abandoned fortress ? 
-Fortress_MainQuest2_Rickey_7 = It doesn't belong to you ! You can't do that.
-Fortress_MainQuest2_Rickey_8 = What ?! I do as I please ! I'm a CEO !
-Fortress_MainQuest2_Rickey_9 = What gives you the right to question my authority ?
-Fortress_MainQuest2_Rickey_10 = What is your name, vile monster ?
-Fortress_MainQuest2_Rickey_11 = Hum... Harold.
-Fortress_MainQuest2_Rickey_12 = I'm not going to give him my real name, that's for sure.
-Fortress_MainQuest2_Rickey_13 = Harold ! What a stupid name ! I hate it ! I hate you !
-Fortress_MainQuest2_Rickey_14 = You can't get in my way ! I need to proceed !
-Fortress_MainQuest2_Rickey_15 = But why ? Are you in debt or something ?
-Fortress_MainQuest2_Rickey_16 = You wouldn't understand ! The economy doesn't too !
-Fortress_MainQuest2_Rickey_17 = I had it all ! Money, fame.
-Fortress_MainQuest2_Rickey_18 = But it all disapeared ! It's Natasha's fault, I'm sure !
-Fortress_MainQuest2_Rickey_19 = "We don't have money anymore. Nobody's even coming to the park." she told me. Lies !
-Fortress_MainQuest2_Rickey_20 = I can't fail ! It's impossible ! Not after the previous attempts !
-Fortress_MainQuest2_Rickey_21 = So this failure is a lie ! There is a deeper meaning to it.
-Fortress_MainQuest2_Rickey_22 = People don't come to my park, they say. You hire too many bodyguards they say. Enough !
-Fortress_MainQuest2_Rickey_23 = I need these bodyguards ! I need the tanks ! It's security ! Who doesn't like security ?
-Fortress_MainQuest2_Rickey_24 = And if people don't come to my park, it must be a conspiracy !
-Fortress_MainQuest2_Rickey_25 = They want me to fail ! They're jaleous !
-Fortress_MainQuest2_Rickey_26 = They're working with the governement, the police, the mountains, EVERYONE !
-Fortress_MainQuest2_Rickey_27 = All so they can force me to close down my great RickeyLand !
-Fortress_MainQuest2_Rickey_28 = But I won't let them, no !
-Fortress_MainQuest2_Rickey_29 = They think they can get me with this "money" thing. They are wrong.
-Fortress_MainQuest2_Rickey_30 = I'm going to take control of the fortress and its gold.
-Fortress_MainQuest2_Rickey_31 = I will use the gold to pay whatever "debts" they think I have.
-Fortress_MainQuest2_Rickey_32 = And I will make this fortress my new HQ. The Grand Rickey Fortress !
-Fortress_MainQuest2_Rickey_33 = It will strike fear into the conspirators, fear !
-Fortress_MainQuest2_Rickey_34 = They will stop their plot against me. They will all return to my park !
-Fortress_MainQuest2_Rickey_35 = They will bend their knees in front of me ! I will be a king, no, an emperor !
-Fortress_MainQuest2_Rickey_36 = What a load of bullshit ! What are you even talking about ?
-Fortress_MainQuest2_Rickey_37 = Rha ! I knew you wouldn't understand ! You're just a peasant, Harold !
-Fortress_MainQuest2_Rickey_38 = I hate you ! You must be conspiring with them !
-Fortress_MainQuest2_Rickey_39 = The conspiracy already knew about my plans ! They sent you to dispose of me !
-Fortress_MainQuest2_Rickey_40 = But I won't let you ! I'll dispose of you with my tank !
-Fortress_MainQuest2_Rickey_41 = Prepare for battle, Harold !
-Fortress_MainQuest2_Rickey_42 = Rickey prepares himself. And I have no weapons...
-
-Fortress_MainQuest2_Rickey_43 = What are you doing, Harold ? Spacing out before a battle ?
-Fortress_MainQuest2_Rickey_44 = Hey... Is that an axe ? When did you get that ?
-Fortress_MainQuest2_Rickey_45 = Whatever ! It's time for you to die !
-Fortress_MainQuest2_Rickey_46 = I prepare for battle.
-
-Fortress_MainQuest2_Rickey_47 = Impossible ! How could you defeat me ?!
-Fortress_MainQuest2_Rickey_48 = No matter ! I'll just take control of the fortress anyway !
-Fortress_MainQuest2_Rickey_49 = Rickey starts crossing the bridge in reverse.
-Fortress_MainQuest2_Rickey_50 = Or at least, he tries to. Due to the size of his tank, he ends up driving off the cliff.
-Fortress_MainQuest2_Rickey_51 = Uh ? Oh no !
-Fortress_MainQuest2_Rickey_52 = SOMEONE HELP ! CEO IN DANGER !
-Fortress_MainQuest2_Rickey_53 = The tank falls of the cliff. We won't be seeing Rickey anytime soon.
-
-
-Fortress_MainQuest2_Archer_1 = I finally arrive to the fortress.
-Fortress_MainQuest2_Archer_2 = Where is the archer ? Am I too late after all ?
-Fortress_MainQuest2_Archer_3 = I suddenly spot him on the bridge. He seems to be coming back from the fortress.
-Fortress_MainQuest2_Archer_4 = Why hello there ! What are you doing alone in the mountains ?
-Fortress_MainQuest2_Archer_5 = You are aware that it's quite dangerous out here, especially at night, right ?
-Fortress_MainQuest2_Archer_6 = Or did you want to meet me, the great Archer ?
-Fortress_MainQuest2_Archer_7 = I'll have you know, I'm quite the reknowned hunter.
-Fortress_MainQuest2_Archer_8 = Nobody surpasses me ! Especially not that dragon killer guy !
-Fortress_MainQuest2_Archer_9 = Actually, I'm more interested in what you were doing just now.
-Fortress_MainQuest2_Archer_10 = Uh ? Straight to the point, I see.
-Fortress_MainQuest2_Archer_11 = Well, you see. I was exploring the fortress. 
-Fortress_MainQuest2_Archer_12 = I found a ton of powerful artefacts in there ! It's so great !
-Fortress_MainQuest2_Archer_13 = I'm sure they'll enhance my abilities !
-Fortress_MainQuest2_Archer_14 = What ? Why ? You know these things can be dangerous.
-Fortress_MainQuest2_Archer_15 = Ah Ah ! Don't worry about me ! I'll be fine !
-Fortress_MainQuest2_Archer_16 = Even if I loose an arm, the reward will be worth it. Infinite power !
-Fortress_MainQuest2_Archer_17 = You're just crazy. Why are you doing this ?
-Fortress_MainQuest2_Archer_18 = Crazy, me ? Ah ! Ridiculous !
-Fortress_MainQuest2_Archer_19 = I only seek power, strength, and fame.
-Fortress_MainQuest2_Archer_20 = People look down on me. They think I'm not worth it. They're wrong !
-Fortress_MainQuest2_Archer_21 = I'm the greatest archer ! They are just jaleous of me !
-Fortress_MainQuest2_Archer_22 = What are you even talking about ?
-Fortress_MainQuest2_Archer_23 = Shut it ! I know why you're here.
-Fortress_MainQuest2_Archer_24 = You want to steal my artefacts, my fame !
-Fortress_MainQuest2_Archer_25 = I won't let you ! They are mine !
-Fortress_MainQuest2_Archer_26 = Only I can claim to be the greatest hunter of the continent !
-Fortress_MainQuest2_Archer_27 = And I'm going to kill you for your insolence !
-Fortress_MainQuest2_Archer_28 = The archer takes a ring out of his pocket, and puts it on.
-Fortress_MainQuest2_Archer_29 = Ah Ah Ah ! Perfect !
-Fortress_MainQuest2_Archer_30 = Wh- What ?!
-Fortress_MainQuest2_Archer_31 = The archer is now purple. What happened ?
-Fortress_MainQuest2_Archer_32 = This rings makes me more powerful, maybe even invincible !
-Fortress_MainQuest2_Archer_33 = So, you still think you can steal my fame ?
-Fortress_MainQuest2_Archer_34 = Let's fight, right here, right now.
-Fortress_MainQuest2_Archer_35 = The winner can take the artefacts. Eh Eh Eh.
-Fortress_MainQuest2_Archer_36 = This is unfair, you are using them to fight !
-Fortress_MainQuest2_Archer_37 = Shut up ! Prepare yourself.
-Fortress_MainQuest2_Archer_38 = The archer prepares himself. I don't have a weapon though...
-
-Fortress_MainQuest2_Archer_39 = What are you doing ? Spacing out before a battle ?
-Fortress_MainQuest2_Archer_40 = Hey... Is that an axe ? When did you get that ?
-Fortress_MainQuest2_Archer_41 = Whatever ! It's time for you to die !
-Fortress_MainQuest2_Archer_42 = I prepare for battle.
-
-Fortress_MainQuest2_Archer_43 = Argh !
-Fortress_MainQuest2_Archer_44 = The archer takes a step back. The effects of the ring seem to have worn out.
-Fortress_MainQuest2_Archer_45 = However, he trips with moving back and start falling off the cliff.
-Fortress_MainQuest2_Archer_46 = What ?! No !
-Fortress_MainQuest2_Archer_47 = I did it.
-
-
-Fortress_MainQuest2_HaroldWeapon_1 = [MC] ! Can you hear me ?
-Fortress_MainQuest2_HaroldWeapon_2 = Suddenly, I hear Harold's voice.
-Fortress_MainQuest2_HaroldWeapon_3 = Uh ?!
-Fortress_MainQuest2_HaroldWeapon_4 = I'm using magic to contact you. I have something for you.
-Fortress_MainQuest2_HaroldWeapon_5 = I don't know how are things on your hand, but I found a weapon for you to use.
-Fortress_MainQuest2_HaroldWeapon_6 = Here !
-Fortress_MainQuest2_HaroldWeapon_7 = The vision gives me an axe. Now I can fight back.
-Fortress_MainQuest2_HaroldWeapon_8 = I'm hurrying to the fortress as I speak. Hang tight, [MC] !
-Fortress_MainQuest2_HaroldWeapon_9 = Harold disapears.
-
-Fortress_MainQuest3_1 = [MC] ! There you are !
-Fortress_MainQuest3_2 = Harold runs up to me.
-Fortress_MainQuest3_3 = Where is our ennemy ? Did you already defeat him ?
-Fortress_MainQuest3_4 = Yes. He was no match for me.
-Fortress_MainQuest3_5 = Thanks for the axe, I guess. It helped a little.
-Fortress_MainQuest3_6 = Eh Eh ! Don't be shy. But you're welcome, [MC] !
-Fortress_MainQuest3_7 = Thanks to your efforts, peace has been restored to the province.
-Fortress_MainQuest3_8 = The CEO and the archer have been defeated. Their plans were thwarted.
-Fortress_MainQuest3_9 = I'll be able to sleep easily this night, I believe.
-Fortress_MainQuest3_10 = You barely did anything...
-Fortress_MainQuest3_11 = Who knows what tragedy would have happened had they taken control of the fortress...
-Fortress_MainQuest3_12 = I'm glad you were able to intervene. Really, I am. Thank you so much.
-Fortress_MainQuest3_13 = Nobody might know who you are, or what you did tonight. But I do.
-Fortress_MainQuest3_14 = Actually... I have a favor to ask.
-Fortress_MainQuest3_15 = You see, this isn't the first ordeal the province had to face.
-Fortress_MainQuest3_16 = Before that, we had lord Ember. And before him, we had other dangers to face.
-Fortress_MainQuest3_17 = When I was younger, I actually fought. Like you, I faced the various ordeals thrown in front of me.
-Fortress_MainQuest3_18 = Alas... I got old. I couldn't fight anymore. So I turned to new venues. New ways to face the ordeals.
-Fortress_MainQuest3_19 = I learned magic, and I founded a guild of some sort. We are vigilantes in a way.
-Fortress_MainQuest3_20 = When an ordeal appears, we fight. Nobody knows who we are. We fight in the shadows, like I used to.
-Fortress_MainQuest3_21 = If the ordeal is too much for us, that's when I come in.
-Fortress_MainQuest3_22 = I hand pick a hero from another world, and summon him to help us.
-Fortress_MainQuest3_23 = With their strength, we never lost even once.
-Fortress_MainQuest3_24 = And now, you are that hero, [MC]. I summoned you to help us.
-Fortress_MainQuest3_25 = Mr. Boyardee is actually a member of the guild. That why I asked you to meet him.
-Fortress_MainQuest3_26 = We provided you assistance, because we knew you could do it.
-Fortress_MainQuest3_27 = And now, I've been thinking...
-Fortress_MainQuest3_28 = Usually, the heroes want to go back to their own world.
-Fortress_MainQuest3_29 = But... I'm sorry, I read a little about your life during my search.
-Fortress_MainQuest3_30 = You have nowhere to go, do you ?
-Fortress_MainQuest3_31 = ...
-Fortress_MainQuest3_32 = What about joining our guild ? It'll be your new home.
-Fortress_MainQuest3_33 = We fight the various ordeals the world has to offer.
-Fortress_MainQuest3_34 = But at heart, we are a all brothers and sisters. We're a familly.
-Fortress_MainQuest3_35 = I could even help you find a place to settle in.
-Fortress_MainQuest3_36 = So... What do you say ?
-Fortress_MainQuest3_37 = Do you want to join us ?
-
-Fortress_MainQuest3_Accept_1 = Alright... I'll join your guild.
-Fortress_MainQuest3_Accept_2 = I see. Thank you for trusting me.
-Fortress_MainQuest3_Accept_3 = Well... Let's go back home for now.
-Fortress_MainQuest3_Accept_4 = I'll introduce you to the guild in the afternoon.
-
-Fortress_MainQuest3_Refuse_1 = No.
-Fortress_MainQuest3_Refuse_2 = Even if I don't have anywhere to go back in my world. I can't join you.
-Fortress_MainQuest3_Refuse_3 = There is too much I don't know about this world. Too much I'll miss from mine.
-Fortress_MainQuest3_Refuse_4 = I see. Well, it's your choice.
-Fortress_MainQuest3_Refuse_5 = Come, let's get back home.
-Fortress_MainQuest3_Refuse_6 = I'll send you back to your world when we get back.
-
-Fortress_MainQuest3_38 = Suddenly, a flash of light blinds me.
-Fortress_MainQuest3_39 = When my vision comes back a moment later, I'm speechless.
-Fortress_MainQuest3_40 = The fortress is now protected by a magic barrier.
-Fortress_MainQuest3_41 = By Lord Elk ! What is this sorcery ?
-Fortress_MainQuest3_42 = We defeated Rickey and the archer. What now ? Another contestant ?!
-Fortress_MainQuest3_43 = I take it you didn't create the barrier ?
-Fortress_MainQuest3_44 = No ! I can't even do that.
-Fortress_MainQuest3_45 = Someone else placed it. But for what purpose ?
-Fortress_MainQuest3_46 = I did it ! I did it !
-Fortress_MainQuest3_47 = No...
-Fortress_MainQuest3_48 = A small man appears in front of us, hovering in the air.
-Fortress_MainQuest3_49 = You're that wizard that lives in the mountains, right ?
-Fortress_MainQuest3_50 = But why ?
-Fortress_MainQuest3_51 = I am connected to this fortress. I am married to her !
-Fortress_MainQuest3_52 = What ?
-Fortress_MainQuest3_53 = Sometime ago, I married Talia. She was the keeper of this place.
-Fortress_MainQuest3_54 = But a meanie came and stole her from me !
-Fortress_MainQuest3_55 = He even left this world with her ! He stole my wife !
-Fortress_MainQuest3_56 = Wait... So that's why I could never find it !
-Fortress_MainQuest3_57 = I bet they are currently having a honeymoon together. Talia !
-Fortress_MainQuest3_58 = How could she ?! I thought she loved me !
-Fortress_MainQuest3_59 = I was so sad ! I was so alone !
-Fortress_MainQuest3_60 = My mansion felt so big, yet so small... Sadness !
-Fortress_MainQuest3_61 = But then it hit me !
-Fortress_MainQuest3_62 = Talia is the keeper of the forteress, and we still haven't filled for divorce.
-Fortress_MainQuest3_63 = So technically, the fortress is mine !
-Fortress_MainQuest3_64 = It's power is mine ! The orb is mine !
-Fortress_MainQuest3_65 = No one can have it ! No one !
-Fortress_MainQuest3_66 = So that's why you want the fortress. You want the chaos orb !
-Fortress_MainQuest3_67 = I own it ! It's mine ! It will make me strong enough to bring Talia back !
-Fortress_MainQuest3_68 = The wizard disapears. I didn't understand a thing.
-Fortress_MainQuest3_69 = [MC] ! We are in trouble ! We can't let him use the orb !
-Fortress_MainQuest3_70 = Wait, wait, wait. I don't understand. Who's Talia ? What's this orb ?
-Fortress_MainQuest3_71 = I... right. You don't know.
-Fortress_MainQuest3_72 = Well. Let's start with the orb.
-Fortress_MainQuest3_73 = The chaos orb is a powerful artefact hidden in the fortress.
-Fortress_MainQuest3_74 = It can do many things, but you can be sure chaos always will ensure.
-Fortress_MainQuest3_75 = It was actually the source of power of lord Ember, the dragon.
-Fortress_MainQuest3_76 = Ever since his death, I only thought about this orb.
-Fortress_MainQuest3_77 = It was safe in the fortress. But if anyone were to take control of it...
-Fortress_MainQuest3_78 = They would gain incredible powers. I get it.
-Fortress_MainQuest3_79 = Yes. I don't even want to think about a chaos-charged Rickey or archer...
-Fortress_MainQuest3_80 = But anyway. Now to this wizard.
-Fortress_MainQuest3_81 = He's a wierd little guy that lives in the mountains.
-Fortress_MainQuest3_82 = When I summoned the hero who killed the dragon, he stole the fortress's keys.
-Fortress_MainQuest3_83 = I don't know why, but he kept saying the keys were Talia, his wife.
-Fortress_MainQuest3_84 = However, the hero managed to get them back and kill the dragon.  
-Fortress_MainQuest3_85 = I sent him back, but I didn't notice he still had the keys until now.
-Fortress_MainQuest3_86 = I... okay ?
-Fortress_MainQuest3_87 = Anyway ! We have to hurry and deal with him. We can't let him have the orb.
-Fortress_MainQuest3_88 = But how do we deal with the barrier ?
-Fortress_MainQuest3_89 = I.. I know ! I can make a potion that will allow you to penetrate it.
-Fortress_MainQuest3_90 = Let's see, do I have all the ingredients ? ....
-Fortress_MainQuest3_91 = Herbs ? Yes. Pure rocks ? Yes. Ogre's nails ? Should be enough...
-Fortress_MainQuest3_92 = Quartz ? .... Wait... Damn it ! I don't have any !
-Fortress_MainQuest3_93 = [MC] ! You'll have to go to the mines and get some.
-Fortress_MainQuest3_94 = I'll go home and start preparing the potions.
-Fortress_MainQuest3_95 = Hurry, we don't have much time.
-Fortress_MainQuest3_96 = Harold runs off. He's quite fast for his age.
-Fortress_MainQuest3_97 = ... Let's go to the mines. I have to find some quartz.
-
-Fortress_Barrier_1 = The barrier is protecting the fortress. I can't enter it like that.
-
-Fortress_MainQuest5_1 = So... If I drink Harold's potion, I'll be able to enter the fortress...
-Fortress_MainQuest5_2 = Well, here goes nothing.
-Fortress_MainQuest5_3 = I drink the potion. It tastes sour.
-Fortress_MainQuest5_4 = .....
-Fortress_MainQuest5_5 = Did it do anything ? I just feel a little dizzy.
-Fortress_MainQuest5_6 = Maybe I should just try to cross the barrier.
-Fortress_MainQuest5_7 = I approach the barrier, it resonates with magic.
-Fortress_MainQuest5_8 = ....
-Fortress_MainQuest5_9 = I manage to cross it without problem.
-Fortress_MainQuest5_10 = Harold sure know how to brew potions.
-Fortress_MainQuest5_11 = Now, to enter the fortress and to find the orb.
-Fortress_MainQuest5_12 = I open the door. Why was it left unlocked ?
-Fortress_MainQuest5_13 = Well... At least it's easier for me.
-Fortress_MainQuest5_14 = The fortress is a real maze.
-Fortress_MainQuest5_15 = Every corridor and room are similar.
-Fortress_MainQuest5_16 = I wonder if I'll even find the throne room.
-Fortress_MainQuest5_17 = After searching for a bit, I manage to find it.
-Fortress_MainQuest5_18 = It is gigantic. There is even a mountain of gold.
-Fortress_MainQuest5_19 = Okay. Now I have to find the orb.
-Fortress_MainQuest5_20 = Harold told me it would be hidden around here, but were ?
-Fortress_MainQuest5_21 = The mountain of gold won't make this easy, too.
-Fortress_MainQuest5_22 = I wonder where the wizard is. I haven't seen him at all.
-Fortress_MainQuest5_23 = I'm here !!!
-Fortress_MainQuest5_24 = Wha- ?!
-Fortress_MainQuest5_25 = The wizard appears in front of me. How did he do this ?!
-Fortress_MainQuest5_26 = You're too late ! I already found the orb !
-Fortress_MainQuest5_27 = Impossible ! You can't use it, stop !
-Fortress_MainQuest5_28 = Ah Ah ! I'll use it ! I'll use it !
-Fortress_MainQuest5_29 = With it's power, I'll be able to create a portal to another world.
-Fortress_MainQuest5_30 = Which world, you may ask ? Simple ! The world where my wife's kidnapper lives !
-Fortress_MainQuest5_31 = I'll use the portal to go and save her.
-Fortress_MainQuest5_32 = ... And destroy a few cities, just for fun.
-Fortress_MainQuest5_33 = You're insane. I can't let you do this.
-Fortress_MainQuest5_34 = Why not ?! You don't want me to save Talia ?
-Fortress_MainQuest5_35 = I know ! You are a co-conspirator ! You are one of the kidnappers !
-Fortress_MainQuest5_36 = What ?!
-Fortress_MainQuest5_37 = I'll kill you ! I'll avenge Talia !
-Fortress_MainQuest5_38 = The wizard starts casting a powerful spell.
-Fortress_MainQuest5_39 = I get ready for a fight.
-
-Fortress_MainQuest5_40 = How did you dodge my rocks ?!
-Fortress_MainQuest5_41 = I know ! You're a cheater !
-Fortress_MainQuest5_42 = Only a cheater can dodge my undodgable attacks !
-Fortress_MainQuest5_43 = No ?
-Fortress_MainQuest5_44 = But be careful ! This isn't my final form !
-Fortress_MainQuest5_45 = I'll use the orb to destroy you !
-Fortress_MainQuest5_46 = Wha- ?!
-Fortress_MainQuest5_47 = The wizard takes an orb out. Is it the chaos orb Harold told me about ?
-Fortress_MainQuest5_48 = Ah Ah ! With this beauty, I'll be able to destroy you !
-Fortress_MainQuest5_49 = The power of chaos will tear you appart, watch !
-Fortress_MainQuest5_50 = The wizard is doing something with the orb, but what ?
-Fortress_MainQuest5_51 = I have to act fast, who knows what will happen if he gets through with this.
-Fortress_MainQuest5_52 = Ultimate destruction lazer !
-Fortress_MainQuest5_53 = The orb starts pulsating. Quick !
-Fortress_MainQuest5_54 = I run at the wizard and push him.
-Fortress_MainQuest5_55 = Wh- ?!
-Fortress_MainQuest5_56 = He falls to the ground and the orb is destabilized.
-Fortress_MainQuest5_57 = It fires a beam. Luckily, not at me.
-Fortress_MainQuest5_58 = AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHH !!!
-Fortress_MainQuest5_59 = Unfortunatly for the wizard, he wasn't as lucky as me.
-Fortress_MainQuest5_60 = He gets vaporized by the beam.
-Fortress_MainQuest5_61 = ....
-Fortress_MainQuest5_62 = The orb fades away. Where did it go ?
-Fortress_MainQuest5_63 = Well... At least nobody's going to use it now.
-Fortress_MainQuest5_64 = I should report back to Harold. He'll want to hear what happened.
-Fortress_MainQuest5_65 = I start heading to the fortress's entrance.
-Fortress_MainQuest5_66 = Harold was right, the barrier is no longer here.
-Fortress_MainQuest5_67 = Which means I can now exit this place, and meet up with him.

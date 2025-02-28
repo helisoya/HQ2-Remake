@@ -1,0 +1,13 @@
+choice Choice_Chat
+	Choice_Play Quiz/Waldo_Play_Check
+	Choice_Rules Quiz/Waldo_Rules
+	Choice_Nothing Quiz/Waldo_Exit
+
+
+sdqds(sdqd;data;data)
+
+qsdaz()
+
+if(myData = 0) LoadData(true)
+if(myData = 0 & myData < 1) Quiz_Data
+if(ms paint = aze & IneedAMedicBag = 5) RemoveAll()
