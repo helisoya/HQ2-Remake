@@ -345,6 +345,12 @@ Quiz_Waldo_Default_1 = Hello ! Did you come to try the quiz ?
 
 Quiz_Waldo_Done_1 = You have already completed this attraction !
 
+Quiz_Waldo_Rules_1 = Your goal is to anwsers my questions correctly.
+Quiz_Waldo_Rules_2 = Simple questions, really. The park's history, geography...
+Quiz_Waldo_Rules_3 = Let me know when you're ready. I'll start the quiz.
+
+Quiz_Waldo_Play_1 = Alright ! Let's start the quiz !
+
 
 # ---------------------------------------------------------
 # ------------------- Marais ------------------------------

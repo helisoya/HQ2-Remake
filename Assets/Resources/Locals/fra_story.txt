@@ -349,6 +349,12 @@ Quiz_Waldo_Default_1 = Bonjour ! Voulez-vous essayer le quiz ?
 
 Quiz_Waldo_Done_1 = Vous avez déjà fini cette attraction !
 
+Quiz_Waldo_Rules_1 = Votre but est de répondre correctement à mes questions.
+Quiz_Waldo_Rules_2 = Ce sont des questions simples. L'histoire du parc, la géographie...
+Quiz_Waldo_Rules_3 = Laissez-moi savoir quand vous êtes prêt. Je commençerai le quiz.
+
+Quiz_Waldo_Play_1 = Très bien ! Commençons le quiz !
+
 # ---------------------------------------------------------
 # ------------------- Marais ------------------------------
 # ---------------------------------------------------------
