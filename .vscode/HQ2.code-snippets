@@ -262,4 +262,20 @@
 		],
 		"description": "Flash the screen for a set amount of time"
 	},
+	"SetBgColor": {
+		"scope": "ansl",
+		"prefix": "setBgColor",
+		"body": [
+			"setBgColor(R;G;B)"
+		],
+		"description": "Changes the Background Fading's color"
+	},
+	"SetFgColor": {
+		"scope": "ansl",
+		"prefix": "setFgColor",
+		"body": [
+			"setFgColor(R;G;B)"
+		],
+		"description": "Changes the Foreground Fading's color"
+	}
 }

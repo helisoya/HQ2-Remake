@@ -24,6 +24,8 @@ public class GAMEFILE
 
     public float fadeBg;
     public float fadeFg;
+    public Color colorBg;
+    public Color colorFg;
     public bool interactionMode;
     public List<INTERACTABLEDATA> interactables;
 

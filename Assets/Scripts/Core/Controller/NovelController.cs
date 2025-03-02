@@ -50,6 +50,8 @@ public class NovelController : MonoBehaviour
 
         VNGUI.instance.ForceBgTo(activeGameFile.fadeBg);
         VNGUI.instance.ForceFgTo(activeGameFile.fadeFg);
+        VNGUI.instance.SetBgColor(activeGameFile.colorBg);
+        VNGUI.instance.SetFgColor(activeGameFile.colorFg);
         InteractionManager.instance.SetActive(false);
 
         CameraController.instance.SetPosition(activeGameFile.cameraPosition, true);
@@ -114,6 +116,9 @@ public class NovelController : MonoBehaviour
 
         activeGameFile.fadeBg = VNGUI.instance.fadeBgAlpha;
         activeGameFile.fadeFg = VNGUI.instance.fadeFgAlpha;
+
+        activeGameFile.colorBg = VNGUI.instance.fadeBgColor;
+        activeGameFile.colorFg = VNGUI.instance.fadeFgColor;
 
         activeGameFile.interactionMode = inInteractionMode;
         activeGameFile.interactables = InteractionManager.instance.GetSaveData();
@@ -473,9 +478,27 @@ public class NovelController : MonoBehaviour
                 VNGUI.instance.FlashTo(0, 10);
                 break;
 
-            case "fadeBg":
+            case "setBgColor":
 
-                VNGUI.instance.FadeBgTo(float.Parse(parameters[0], System.Globalization.CultureInfo.InvariantCulture));
+                VNGUI.instance.SetBgColor(new Color(
+                    float.Parse(parameters[0], System.Globalization.CultureInfo.InvariantCulture),
+                    float.Parse(parameters[1], System.Globalization.CultureInfo.InvariantCulture),
+                    float.Parse(parameters[2], System.Globalization.CultureInfo.InvariantCulture)
+                ));
+                break;
+
+            case "setFgColor":
+
+                VNGUI.instance.SetFgColor(new Color(
+                    float.Parse(parameters[0], System.Globalization.CultureInfo.InvariantCulture),
+                    float.Parse(parameters[1], System.Globalization.CultureInfo.InvariantCulture),
+                    float.Parse(parameters[2], System.Globalization.CultureInfo.InvariantCulture)
+                ));
+                break;
+
+            case "fadeBg":
+                float speedBg = parameters.Length > 2 ? float.Parse(parameters[2], System.Globalization.CultureInfo.InvariantCulture) : 2;
+                VNGUI.instance.FadeBgTo(float.Parse(parameters[0], System.Globalization.CultureInfo.InvariantCulture), speedBg);
                 if (bool.Parse(parameters[1]))
                 {
                     yield return new WaitForEndOfFrame();
@@ -487,8 +510,8 @@ public class NovelController : MonoBehaviour
                 break;
 
             case "fadeFg":
-
-                VNGUI.instance.FadeFgTo(float.Parse(parameters[0], System.Globalization.CultureInfo.InvariantCulture));
+                float speedFg = parameters.Length > 2 ? float.Parse(parameters[2], System.Globalization.CultureInfo.InvariantCulture) : 2;
+                VNGUI.instance.FadeFgTo(float.Parse(parameters[0], System.Globalization.CultureInfo.InvariantCulture), speedFg);
                 if (bool.Parse(parameters[1]))
                 {
                     yield return new WaitForEndOfFrame();

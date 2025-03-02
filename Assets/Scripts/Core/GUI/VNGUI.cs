@@ -32,6 +32,8 @@ public class VNGUI : MonoBehaviour
     public bool fadingFg { get { return fadeFg.fading; } }
     public float fadeBgAlpha { get { return fadeBg.currentAlpha; } }
     public float fadeFgAlpha { get { return fadeFg.currentAlpha; } }
+    public Color fadeBgColor { get { return fadeBg.currenColor; } }
+    public Color fadeFgColor { get { return fadeFg.currenColor; } }
     public bool fadingFlash { get { return flash.fading; } }
 
     void Awake()
@@ -60,18 +62,38 @@ public class VNGUI : MonoBehaviour
     /// Fades the Background
     /// </summary>
     /// <param name="alpha">Alpha target</param>
-    public void FadeBgTo(float alpha)
+    /// <param name="speed">Fading speed</param>
+    public void FadeBgTo(float alpha, float speed = 2)
     {
-        fadeBg.FadeTo(alpha);
+        fadeBg.FadeTo(alpha, speed);
     }
 
     /// <summary>
     /// Fades the Foreground
     /// </summary>
     /// <param name="alpha">Alpha target</param>
-    public void FadeFgTo(float alpha)
+    /// <param name="speed">Fading speed</param>
+    public void FadeFgTo(float alpha, float speed = 2)
     {
-        fadeFg.FadeTo(alpha);
+        fadeFg.FadeTo(alpha, speed);
+    }
+
+    /// <summary>
+    /// Changes the Background Fading's color
+    /// </summary>
+    /// <param name="color">The new color</param>
+    public void SetBgColor(Color color)
+    {
+        fadeBg.SetColor(color);
+    }
+
+    /// <summary>
+    /// Changes the Foreground Fading's color
+    /// </summary>
+    /// <param name="color">The new color</param>
+    public void SetFgColor(Color color)
+    {
+        fadeFg.SetColor(color);
     }
 
     /// <summary>

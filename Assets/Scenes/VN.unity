@@ -1934,6 +1934,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   canvaGroup: {fileID: 703736371}
+  fadeImg: {fileID: 703736372}
 --- !u!225 &703736371
 CanvasGroup:
   m_ObjectHideFlags: 0
@@ -12953,6 +12954,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   canvaGroup: {fileID: 1962069482}
+  fadeImg: {fileID: 1962069480}
 --- !u!1 &1979883565
 GameObject:
   m_ObjectHideFlags: 0
@@ -13056,6 +13058,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   canvaGroup: {fileID: 1979883567}
+  fadeImg: {fileID: 1979883568}
 --- !u!1 &2004816081
 GameObject:
   m_ObjectHideFlags: 0

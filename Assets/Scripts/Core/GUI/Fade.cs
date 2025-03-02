@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
-using Microsoft.Unity.VisualStudio.Editor;
 using UnityEngine;
+using UnityEngine.UI;
 
 /// <summary>
 /// Represents a fadable image
@@ -10,11 +10,13 @@ public class Fade : MonoBehaviour
 {
     [Header("Infos")]
     [SerializeField] private CanvasGroup canvaGroup;
+    [SerializeField] private Image fadeImg;
     public float currentAlpha
     {
         get { return canvaGroup.alpha; }
     }
     public bool fading { get { return routineFading != null; } }
+    public Color currenColor { get { return fadeImg.color; } }
     private Coroutine routineFading;
 
     /// <summary>
@@ -26,6 +28,15 @@ public class Fade : MonoBehaviour
     {
         if (routineFading != null) StopCoroutine(routineFading);
         routineFading = StartCoroutine(RoutineFading(alpha, speed));
+    }
+
+    /// <summary>
+    /// Changes the color of the fade
+    /// </summary>
+    /// <param name="color">The new color</param>
+    public void SetColor(Color color)
+    {
+        fadeImg.color = color;
     }
 
     /// <summary>
