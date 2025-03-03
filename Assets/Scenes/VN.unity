@@ -3895,7 +3895,9 @@ MonoBehaviour:
   - {fileID: 1712250372}
   - {fileID: 775086713}
   - {fileID: 1870509110}
-  loadButton: {fileID: 775086713}
+  loadButtons:
+  - {fileID: 775086713}
+  - {fileID: 1623598000}
   pauseMenu: {fileID: 2386765805985726200}
   interactionModeRoot: {fileID: 1754227105}
 --- !u!114 &1055127749

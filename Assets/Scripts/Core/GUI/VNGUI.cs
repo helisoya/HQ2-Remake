@@ -18,7 +18,7 @@ public class VNGUI : MonoBehaviour
 
     [Header("Buttons")]
     [SerializeField] private Button[] buttonsRequiringSaveReady;
-    [SerializeField] private Button loadButton;
+    [SerializeField] private Button[] loadButtons;
 
     [Header("Pause")]
     [SerializeField] private PauseMenu pauseMenu;
@@ -209,7 +209,15 @@ public class VNGUI : MonoBehaviour
         {
             button.interactable = NovelController.instance.isReadyForSaving;
         }
-        loadButton.interactable = loadButton.interactable && GameManager.GetSaveManager().saveFileExistsOnDisk;
+
+        bool saveFileExists = GameManager.GetSaveManager().saveFileExistsOnDisk;
+
+        foreach (Button button in loadButtons)
+        {
+            button.interactable = button.interactable && saveFileExists;
+        }
+
+
 
         if (NovelController.instance.isReadyForSaving && Input.GetKeyDown(KeyCode.Escape))
         {

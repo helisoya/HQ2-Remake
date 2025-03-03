@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MG/HQ2/RFM.unity
     guid: ae8059cee1932044d8f1fc7bb522fd0d
+  - enabled: 1
+    path: Assets/Scenes/MG/HQ2/WQ.unity
+    guid: d8b033b9fa32b5c46b31cc5bafda882a
   m_configObjects: {}
