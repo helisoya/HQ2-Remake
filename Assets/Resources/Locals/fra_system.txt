@@ -75,6 +75,9 @@ rules_MM_controls = Droite / Gauche : Tourner<br>Haut / Bas : Se déplacer
 rules_RFM_goal = Survivez 60 secondes. Sautez par dessus les troncs, et evitez les balles.
 rules_RFM_controls = Flèches : Déplacement dans la direction de la flèche<br>Espace : Sauter
 
+rules_QW_goal = Répondez aux questions.
+rules_Qw_controls = Cliquez sur la réponse correcte.
+
 
 
 game_life = HP : 
@@ -102,6 +105,44 @@ PPR_Beaute = Beauté
 PPR_Artifices = Artifices
 PPR_Harold = Harold
 PPR_SeigneurBraise = Seigneur Braise
+
+
+WQ_Question1 = Qui tient le Quiz ?
+WQ_Question1_1 = Waldo
+WQ_Question1_2 = Rickey
+WQ_Question1_3 = Harold
+WQ_Question1_4 = Le Seigneur Braise
+
+WQ_Question2 = Quel est le nom du parc ?
+WQ_Question2_1 = Rigoland
+WQ_Question2_2 = RickeyLand
+WQ_Question2_3 = DisneyLand
+WQ_Question2_4 = Harold's Park
+
+WQ_Question3 = Qui est le PDG du parc ?
+WQ_Question3_1 = Waldo
+WQ_Question3_2 = Me
+WQ_Question3_3 = Rickey
+WQ_Question3_4 = Harold
+
+WQ_Question4 = Combient y a-t'il d'attractions au parc ? 
+WQ_Question4_1 = 4
+WQ_Question4_2 = 10
+WQ_Question4_3 = 7
+WQ_Question4_4 = 3
+
+WQ_Question5 = Quel est le nom de la province ?
+WQ_Question5_1 = Kosky
+WQ_Question5_2 = Vlatyr
+WQ_Question5_3 = Forestyr
+WQ_Question5_4 = Runan
+
+WQ_Question6 = Que prix peut-on gagner en finissant toutes les attractions ?
+WQ_Question6_1 = Un panzer
+WQ_Question6_2 = Un repas gratuit
+WQ_Question6_3 = De l'argent
+WQ_Question6_4 = Un livre
+
 
 
 # ------------------------------------------------------------------------
