@@ -355,6 +355,21 @@ Quiz_Waldo_Rules_3 = Laissez-moi savoir quand vous êtes prêt. Je commençerai 
 
 Quiz_Waldo_Play_1 = Très bien ! Commençons le quiz !
 
+Quiz_Waldo_End_1 = Bravo ! Vous avez réussit à répondre à toutes mes questions !
+Quiz_Waldo_End_2 = Vous avez officiellement réussit le "Quiz de Waldo" !
+
+Quiz_Waldo_End_Done_1 = Et incroyable ! Vous avez fini les 4 attractions du parc. Bravo !
+Quiz_Waldo_End_Done_2 = Rendez-vous au palais pour obtenir un prix incroyable !
+
+Quiz_Waldo_End_Normal_1 = Pour obtenir le prix, vous devez encore finir quelques attractions.
+Quiz_Waldo_End_Normal_2 = Allez-y. Je suis sur que vous y arriverez facilement.
+
+Quiz_Waldo_End_Souvenir_1 = Oh, et avant que j'oublie !
+Quiz_Waldo_End_Souvenir_2 = N'hésitez pas à passer à la boutique de souvenir si vous avez le temps.
+Quiz_Waldo_End_Souvenir_3 = Nous avons des produits... "spéciaux" à vous proposer.
+Quiz_Waldo_End_Souvenir_4 = Mais de quoi est-ce qu'il parle ?
+Quiz_Waldo_End_Souvenir_5 = Je suppose que je pourrais y jeter un oeil plus tard...
+
 # ---------------------------------------------------------
 # ------------------- Marais ------------------------------
 # ---------------------------------------------------------

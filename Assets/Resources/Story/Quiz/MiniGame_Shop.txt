@@ -1,0 +1,9 @@
+variable(shopQuest;0)
+
+dialog(Waldo;Waldo;false;Quiz_Waldo_End_Souvenir_1)
+dialog(Waldo;Waldo;false;Quiz_Waldo_End_Souvenir_2)
+dialog(Waldo;Waldo;false;Quiz_Waldo_End_Souvenir_3)
+dialog(narrator;_;false;Quiz_Waldo_End_Souvenir_4)
+dialog(narrator;_;false;Quiz_Waldo_End_Souvenir_5)
+
+load(Quiz/Waldo_Exit)

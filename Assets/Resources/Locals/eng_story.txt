@@ -351,6 +351,20 @@ Quiz_Waldo_Rules_3 = Let me know when you're ready. I'll start the quiz.
 
 Quiz_Waldo_Play_1 = Alright ! Let's start the quiz !
 
+Quiz_Waldo_End_1 = Good job ! You managed to anwser all my questions !
+Quiz_Waldo_End_2 = You now have officially completed "Waldo's Quiz" !
+
+Quiz_Waldo_End_Done_1 = And wow ! You completed all 4 attractions. Congratulations !
+Quiz_Waldo_End_Done_2 = Head over to the palace to earn a wonderful price !
+
+Quiz_Waldo_End_Normal_1 = In order to win the prize, you still have some attractions to finish.
+Quiz_Waldo_End_Normal_2 = Go ahead. I'm sure you'll complete them in no time.
+
+Quiz_Waldo_End_Souvenir_1 = Oh, and before I forget !
+Quiz_Waldo_End_Souvenir_2 = Please have a look at the souvenir shop if you find the time.
+Quiz_Waldo_End_Souvenir_3 = We have... "special" products waiting for you.
+Quiz_Waldo_End_Souvenir_4 = What is he talking about ?
+Quiz_Waldo_End_Souvenir_5 = I guess it won't hurt to check it out later...
 
 # ---------------------------------------------------------
 # ------------------- Marais ------------------------------
