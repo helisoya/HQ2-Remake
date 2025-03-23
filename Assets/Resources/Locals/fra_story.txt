@@ -370,6 +370,23 @@ Quiz_Waldo_End_Souvenir_3 = Nous avons des produits... "spéciaux" à vous propo
 Quiz_Waldo_End_Souvenir_4 = Mais de quoi est-ce qu'il parle ?
 Quiz_Waldo_End_Souvenir_5 = Je suppose que je pourrais y jeter un oeil plus tard...
 
+
+# ---------------------------------------------------------
+# ----------- Rickeyland - Horse Race ---------------------
+# ---------------------------------------------------------
+
+Horse_Waldo_Default_1 = Bonjour ! Voulez-vous essayer la course de chevaux ?
+
+Horse_Waldo_Rules_1 = Votre but est de finir premier à la course.
+Horse_Waldo_Rules_2 = Vous devrez esquiver les obstacles, ainsi que vos adversaires.
+Horse_Waldo_Rules_3 = Ah oui. J'aimerai aussi vous prévenir que vos adversaires seront les gardes du parc.
+Horse_Waldo_Rules_4 = Ils seront peut être... "violent"...
+
+Horse_Waldo_Play_1 = Très bien ! Commençons la course !
+
+Horse_Waldo_End_1 = Bravo ! Vous avez réussit à finir premier à la course !
+Horse_Waldo_End_2 = Vous avez officiellement réussit la "Course de chevaux" !
+
 # ---------------------------------------------------------
 # ------------------- Marais ------------------------------
 # ---------------------------------------------------------

@@ -1,0 +1,4 @@
+setInteractionChapter(Exit;MAP-RickeyLand-Horse)
+setInteractionChapter(Waldo;Horse/Waldo_Enter)
+
+interact

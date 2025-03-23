@@ -367,6 +367,22 @@ Quiz_Waldo_End_Souvenir_4 = What is he talking about ?
 Quiz_Waldo_End_Souvenir_5 = I guess it won't hurt to check it out later...
 
 # ---------------------------------------------------------
+# ----------- Rickeyland - Horse Race ---------------------
+# ---------------------------------------------------------
+
+Horse_Waldo_Default_1 = Hi ! Did you come to try the horse race ?
+
+Horse_Waldo_Rules_1 = Your goal is to finish the race in the first place.
+Horse_Waldo_Rules_2 = You'll have to evade obstacles, as well as your opponents.
+Horse_Waldo_Rules_3 = Speaking of which. I'd like to warn you that your opponents will be the park's security guards.
+Horse_Waldo_Rules_4 = They could be... "violent"...
+
+Horse_Waldo_Play_1 = Alright ! Let's start the race !
+
+Horse_Waldo_End_1 = Great ! You managed to finish the race in the first place !
+Horse_Waldo_End_2 = You now have officially completed the "Horse Race" !
+
+# ---------------------------------------------------------
 # ------------------- Marais ------------------------------
 # ---------------------------------------------------------
 
