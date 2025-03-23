@@ -6,4 +6,6 @@ addCharacter(Waldo;false)
 setCharacterPosition(Waldo;WaldoSpot)
 setCharacterRotation(Waldo;WaldoSpot)
 
+if(horseRaceQuest != 1) load(Horse/AddHorse)
+
 load(Horse/Interaction)

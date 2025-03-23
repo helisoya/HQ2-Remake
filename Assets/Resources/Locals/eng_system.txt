@@ -190,6 +190,8 @@ waldoQuizQuest_0 = Complete "Waldo's quiz"
 
 horseRaceQuest = The Race
 horseRaceQuest_0 = Complete "The horse race"
+horseRaceQuest_1 = Find the horse
+horseRaceQuest_2 = Complete "The horse race"
 
 shootSalesmanQuest = The Questionable One
 shootSalesmanQuest_0 = Complete the "Shoot the salesman" attraction

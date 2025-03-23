@@ -191,6 +191,8 @@ waldoQuizQuest_0 = Finir "le quiz de Waldo"
 
 horseRaceQuest = La course
 horseRaceQuest_0 = Finir la "course de chevaux"
+horseRaceQuest_1 = Trouver le cheval
+horseRaceQuest_2 = Finir la "course de chevaux"
 
 shootSalesmanQuest = L'attraction questionable
 shootSalesmanQuest_0 = Finir l'attraction "Tir sur marchand"

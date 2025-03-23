@@ -23,6 +23,7 @@ Char_OldWoman = Old Woman
 Char_Marcel = Hunter
 Char_Adrian = Adrian
 Char_Security = Security
+Char_Horse = Horse
 
 # -----------------------------------------------------------
 # --------------- Choices -----------------------------------
@@ -379,8 +380,26 @@ Horse_Waldo_Rules_4 = They could be... "violent"...
 
 Horse_Waldo_Play_1 = Alright ! Let's start the race !
 
+Horse_Waldo_RunAway_1 = ?!
+Horse_Waldo_RunAway_2 = The horse seems... agitated.
+Horse_Waldo_RunAway_3 = What's wrong, boy ? You don't want to run ?
+Horse_Waldo_RunAway_4 = !!!
+Horse_Waldo_RunAway_5 = Uh ? Hey ! Come back !
+Horse_Waldo_RunAway_6 = The horse fled. God knows where he went.
+Horse_Waldo_RunAway_7 = Oh no... What do I do...
+Horse_Waldo_RunAway_8 = Hmm... Sir, could I ask you a favor ?
+Horse_Waldo_RunAway_9 = You want me to find the horse ?
+Horse_Waldo_RunAway_10 = Yes. To be frank, I can't leave the attraction unattended.
+Horse_Waldo_RunAway_11 = The CEO will have my head if I do...
+Horse_Waldo_RunAway_12 = I get it. I'll find the horse.
+Horse_Waldo_RunAway_13 = Thanks ! I'm sure he's still inside the park, somewhere.
+
+Horse_Waldo_NoHorse_1 = You'll need to find the horse in order to participate in the race.
+
 Horse_Waldo_End_1 = Great ! You managed to finish the race in the first place !
 Horse_Waldo_End_2 = You now have officially completed the "Horse Race" !
+
+Horse_Horse_1 = A horse.
 
 # ---------------------------------------------------------
 # ------------------- Marais ------------------------------

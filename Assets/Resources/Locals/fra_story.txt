@@ -24,6 +24,7 @@ Char_OlWoman = Vieillarde
 Char_Marcel = Chasseur
 Char_Adrian = Adrien
 Char_Security = Securité
+Char_Horse = Cheval
 
 # -----------------------------------------------------------
 # --------------- Choices -----------------------------------
@@ -384,8 +385,26 @@ Horse_Waldo_Rules_4 = Ils seront peut être... "violent"...
 
 Horse_Waldo_Play_1 = Très bien ! Commençons la course !
 
+Horse_Waldo_RunAway_1 = ?!
+Horse_Waldo_RunAway_2 = Le cheval a l'air... agité.
+Horse_Waldo_RunAway_3 = Qu'est-ce qui va pas ? Tu ne veux pas courrir ?
+Horse_Waldo_RunAway_4 = !!!
+Horse_Waldo_RunAway_5 = Hein ? Eh ! Reviens !
+Horse_Waldo_RunAway_6 = Le cheval a pris la fuite. Qui sait ou il est allé.
+Horse_Waldo_RunAway_7 = Oh non... Que faire...
+Horse_Waldo_RunAway_8 = Hmm... Monsieur, puis-je vous demander une faveur ?
+Horse_Waldo_RunAway_9 = Vous voulez que je trouve le cheval ?
+Horse_Waldo_RunAway_10 = Oui. Pour être sincère, je ne peux pas quitter l'attraction.
+Horse_Waldo_RunAway_11 = Le PDG aura ma tête si je la laisse sans surveillance...
+Horse_Waldo_RunAway_12 = Je comprend. Je vais trouver le cheval.
+Horse_Waldo_RunAway_13 = Merci ! Je suis sur qu'il est toujours dans le parc, quelque part.
+
+Horse_Waldo_NoHorse_1 = Vous devez trouver le cheval avant de pouvoir participer à la course.
+
 Horse_Waldo_End_1 = Bravo ! Vous avez réussit à finir premier à la course !
 Horse_Waldo_End_2 = Vous avez officiellement réussit la "Course de chevaux" !
+
+Horse_Horse_1 = Un cheval.
 
 # ---------------------------------------------------------
 # ------------------- Marais ------------------------------
