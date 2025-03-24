@@ -342,6 +342,21 @@ RickeyLandEntrance_MainQuest2_14 = Ma première tache est de finir les quatres a
 RickeyLandEntrance_MainQuest2_15 = Après ça, je dois obtenir le grimoire d'Harold avant que quelqu'un d'autre l'obtienne. Ou pire, que Rickey découvre son secret.
 RickeyLandEntrance_MainQuest2_16 = Je peux sortir de RickeyLand en intéragissant avec la porte d'entrée.
 
+
+# ---------------------------------------------------------
+# ------------------ Rickeyland - Plaza -------------------
+# ---------------------------------------------------------
+
+Plaza_Horse_1 = Ah ! Voila le cheval !
+Plaza_Horse_2 = ???
+Plaza_Horse_3 = Viens par ici, je ne vais pas te faire de mal.
+Plaza_Horse_4 = J'arrive à attraper le cheval.
+Plaza_Horse_5 = Bien sur, je le ramene à l'attraction.
+Plaza_Horse_6 = Merci, merci !
+Plaza_Horse_7 = Je ne vais pas me faire gronder par le PDG maintenant.
+Plaza_Horse_8 = Si vous voulez, vous pouvez dès à présent participer à l'attraction.
+
+
 # ---------------------------------------------------------
 # ----------------- Rickeyland - Quiz ---------------------
 # ---------------------------------------------------------

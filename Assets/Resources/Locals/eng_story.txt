@@ -339,6 +339,20 @@ RickeyLandEntrance_MainQuest2_15 = After that, I'll have to get Harold's book be
 RickeyLandEntrance_MainQuest2_16 = I can exit RickeyLand by interracting with the gate at the entrance.
 
 # ---------------------------------------------------------
+# ------------------ Rickeyland - Plaza -------------------
+# ---------------------------------------------------------
+
+Plaza_Horse_1 = Ah ! Here is the horse !
+Plaza_Horse_2 = ???
+Plaza_Horse_3 = Come here, I won't hurt you...
+Plaza_Horse_4 = I manage to catch the horse.
+Plaza_Horse_5 = Of course, I bring him back to the attraction.
+Plaza_Horse_6 = Thank you, thank you !
+Plaza_Horse_7 = I won't get scolded by the CEO now.
+Plaza_Horse_8 = If you want, you can now participate in the attraction.
+
+
+# ---------------------------------------------------------
 # ----------------- Rickeyland - Quiz ---------------------
 # ---------------------------------------------------------
 
