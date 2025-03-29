@@ -14,6 +14,7 @@ public class MiniGame : MonoBehaviour
     [SerializeField] protected PauseMenu pauseMenu;
     [SerializeField] protected Fade fade;
     [SerializeField] protected string nextChapter;
+    [SerializeField] protected string nextChapterBad;
     [SerializeField] protected string bgmName = "MiniGame";
     protected Coroutine exitingScene;
 
@@ -67,20 +68,22 @@ public class MiniGame : MonoBehaviour
     /// <summary>
     /// Ends the minigame
     /// </summary>
-    public virtual void EndMiniGame()
+    /// <param name="wonMiniGame">Did the player win ?</param>
+    public virtual void EndMiniGame(bool wonMiniGame = true)
     {
         if (exiting) return;
-        exitingScene = StartCoroutine(Routine_Exit());
+        exitingScene = StartCoroutine(Routine_Exit(wonMiniGame));
     }
 
     /// <summary>
     /// Routine for exiting the game
     /// </summary>
+    /// <param name="wonMiniGame">Did the player win ?</param>
     /// <returns>IEnumerator</returns>
-    IEnumerator Routine_Exit()
+    IEnumerator Routine_Exit(bool wonMiniGame)
     {
         GameManager.instance.SetIsLoadingSave(false);
-        GameManager.instance.SetNextChapter(nextChapter);
+        GameManager.instance.SetNextChapter(wonMiniGame ? nextChapter : nextChapterBad);
         AudioManager.instance.PlaySong(null);
 
         fade.FadeTo(1);

@@ -400,6 +400,9 @@ Horse_Waldo_Rules_4 = Ils seront peut être... "violent"...
 
 Horse_Waldo_Play_1 = Très bien ! Commençons la course !
 
+Horse_Waldo_Lost_1 = Oh ! On dirais que vous avez perdu, dommage !
+Horse_Waldo_Lost_2 = Si vous voulez réessayer, dites le moi.
+
 Horse_Waldo_RunAway_1 = ?!
 Horse_Waldo_RunAway_2 = Le cheval a l'air... agité.
 Horse_Waldo_RunAway_3 = Qu'est-ce qui va pas ? Tu ne veux pas courrir ?

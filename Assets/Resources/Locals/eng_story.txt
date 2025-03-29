@@ -410,6 +410,9 @@ Horse_Waldo_RunAway_13 = Thanks ! I'm sure he's still inside the park, somewhere
 
 Horse_Waldo_NoHorse_1 = You'll need to find the horse in order to participate in the race.
 
+Horse_Waldo_Lost_1 = Oh ! You seem to have lost the race, sorry !
+Horse_Waldo_Lost_2 = If you want to try again, just say the word.
+
 Horse_Waldo_End_1 = Great ! You managed to finish the race in the first place !
 Horse_Waldo_End_2 = You now have officially completed the "Horse Race" !
 

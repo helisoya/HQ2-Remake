@@ -82,6 +82,9 @@ rules_RFM_controls = Arrow keys : Move in the arrow's direction<br>Space : Jump
 rules_QW_goal = Anwser the questions.
 rules_QW_controls = Click on the correct anwser.
 
+rules_HR_goal = Finish the race in the first position.
+rules_HR_controls = Left/Right : Alternate to move<br>Space : Jump
+
 
 game_life = HP : 
 game_player = Player :

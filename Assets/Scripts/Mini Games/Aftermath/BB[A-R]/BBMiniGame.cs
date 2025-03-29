@@ -45,7 +45,7 @@ public class BBMiniGame : MiniGame
         routineBattle = StartCoroutine(Routine_ProcessBattle());
     }
 
-    public override void EndMiniGame()
+    public override void EndMiniGame(bool wonMiniGame = true)
     {
         StopCoroutine(routineBattle);
         base.EndMiniGame();
