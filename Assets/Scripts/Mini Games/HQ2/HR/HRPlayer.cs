@@ -73,7 +73,7 @@ public class HRPlayer : MonoBehaviour
 
         player.MovePosition(player.position + player.transform.forward * currentAdditiveSpeed * Time.deltaTime);
 
-        if (player.position.z >= 552) MiniGame.instance.EndMiniGame();
+        if (player.position.z >= endAfterZ) MiniGame.instance.EndMiniGame();
     }
 
 
@@ -86,6 +86,7 @@ public class HRPlayer : MonoBehaviour
         bloodAnimator.SetTrigger("Blood");
         stunStart = Time.time;
         waitForStun = true;
+        currentAdditiveSpeed = Mathf.Clamp(currentAdditiveSpeed * 0.5f, minSpeed, maxSpeed);
     }
 
 

@@ -419,6 +419,23 @@ Horse_Waldo_End_2 = You now have officially completed the "Horse Race" !
 Horse_Horse_1 = A horse.
 
 # ---------------------------------------------------------
+# ----------- Rickeyland - Haunted House ------------------
+# ---------------------------------------------------------
+
+HauntedHouse_Waldo_Default_1 = Hi ! Did you come to enter this scary house ?
+
+HauntedHouse_Waldo_Rules_1 = Your goal here is simple.
+HauntedHouse_Waldo_Rules_2 = Find the exit of the haunted house, and you win !
+HauntedHouse_Waldo_Rules_3 = Just be careful, we have some VERY scary things in there.
+HauntedHouse_Waldo_Rules_4 = Definitly not the CEO drapped in white sheets...
+
+HauntedHouse_Waldo_Play_1 = Alright ! You can now enter the haunted house !
+
+HauntedHouse_Waldo_End_1 = Great ! You managed to find the exit !
+HauntedHouse_Waldo_End_2 = You now have officially completed the "Haunted House" !
+
+
+# ---------------------------------------------------------
 # ------------------- Marais ------------------------------
 # ---------------------------------------------------------
 

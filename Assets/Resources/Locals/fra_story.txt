@@ -425,6 +425,22 @@ Horse_Waldo_End_2 = Vous avez officiellement réussit la "Course de chevaux" !
 Horse_Horse_1 = Un cheval.
 
 # ---------------------------------------------------------
+# ----------- Rickeyland - Haunted House ------------------
+# ---------------------------------------------------------
+
+HauntedHouse_Waldo_Default_1 = Bonjour ! Vous voulez entrer dans cette maison effrayante ?
+
+HauntedHouse_Waldo_Rules_1 = Voter but ici est simple.
+HauntedHouse_Waldo_Rules_2 = Trouvez la sortie de la maison hantée, et vous avez gagné !
+HauntedHouse_Waldo_Rules_3 = Faites juste attention. Nous avons des choses TRES effrayante à l'intérieur.
+HauntedHouse_Waldo_Rules_4 = Pas du tout le PDG sous un drap blanc...
+
+HauntedHouse_Waldo_Play_1 = Très bien ! Vous pouvez entrer dans la maison hantée.
+
+HauntedHouse_Waldo_End_1 = Super ! Vous avez réussit à trouver la sortie !
+HauntedHouse_Waldo_End_2 = Vous avez officiellement réussit la "Maison Hantée" !
+
+# ---------------------------------------------------------
 # ------------------- Marais ------------------------------
 # ---------------------------------------------------------
 
