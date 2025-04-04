@@ -14,9 +14,13 @@ public class MMMiniGame : MiniGame
     [SerializeField] private float speed;
     [SerializeField] private float turnSpeed;
 
+    public MMCell[][] mazeData { get; private set; }
+
     public override void StartMiniGame()
     {
         base.StartMiniGame();
+
+        mazeData = GenerateMaze();
 
         Generate3DMaze(GenerateMaze());
 

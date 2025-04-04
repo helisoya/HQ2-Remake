@@ -85,6 +85,9 @@ rules_QW_controls = Click on the correct anwser.
 rules_HR_goal = Finish the race in the first position.
 rules_HR_controls = Left/Right : Alternate to move<br>Space : Jump
 
+rules_HH_goal = Find exit in the maze.
+rules_HH_controls = Right / Left : Turn<br>Up / Down : Move
+
 
 game_life = HP : 
 game_player = Player :

@@ -29,11 +29,8 @@ public class MMCell
     /// <returns></returns>
     public bool IsEmpty()
     {
-        if (!leftWall) return false;
-        if (!rightWall) return false;
-        if (!upWall) return false;
-        if (!downWall) return false;
-        return true;
+        if (leftWall && rightWall && upWall && downWall) return true;
+        return false;
     }
 
     /// <summary>

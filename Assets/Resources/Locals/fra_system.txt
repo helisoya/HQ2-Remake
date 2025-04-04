@@ -81,6 +81,9 @@ rules_Qw_controls = Cliquez sur la réponse correcte.
 rules_HR_goal = Finissez la course en première position.
 rules_HR_controls = Gauche/Droite : Alterner pour avancer<br>Espace : Sauter
 
+rules_HH_goal = Trouvez la sortie dans la mine
+rules_HH_controls = Droite / Gauche : Tourner<br>Haut / Bas : Se déplacer
+
 
 
 game_life = HP : 
