@@ -1,0 +1,4 @@
+setInteractionChapter(Exit;MAP-RickeyLand-Salesman)
+setInteractionChapter(Salesman;Salesman/Salesman_Enter)
+
+interact

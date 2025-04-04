@@ -25,6 +25,7 @@ Char_Marcel = Chasseur
 Char_Adrian = Adrien
 Char_Security = Securité
 Char_Horse = Cheval
+Char_Salesman = Marchand
 
 # -----------------------------------------------------------
 # --------------- Choices -----------------------------------
@@ -439,6 +440,42 @@ HauntedHouse_Waldo_Play_1 = Très bien ! Vous pouvez entrer dans la maison hant�
 
 HauntedHouse_Waldo_End_1 = Super ! Vous avez réussit à trouver la sortie !
 HauntedHouse_Waldo_End_2 = Vous avez officiellement réussit la "Maison Hantée" !
+
+# ---------------------------------------------------------
+# ------------ Rickeyland - Shoot the salesma--------------
+# ---------------------------------------------------------
+
+Salesman_Salesman_Default_1 = Oh non... Quoi encore ?
+
+Salesman_Salesman_Done_1 = S'il vous plait ! Non !
+
+Salesman_Salesman_Rules_1 = Votre but est de me jeter des couteaux dessus.
+Salesman_Salesman_Rules_2 = Vous gagnez des points si vous ne me toucher pas.
+Salesman_Salesman_Rules_3 = Donc, par pitié... Ne me touchez pas.
+
+Salesman_Salesman_You_1 = Moi ? Je ne suis qu'un simple vendeur.
+Salesman_Salesman_You_2 = J'ai tenté de vendre un aspirateur au PDG.
+Salesman_Salesman_You_3 = Mais il avait d'autres plans, et m'a attaché ici.
+Salesman_Salesman_You_4 = Maintenant je suis une attraction, et je dois même expliquer les règles aux gens.
+Salesman_Salesman_You_5 = J'ai tenté de fuir. Mais avec tout les gardes, c'est quasiment impossible.
+
+Salesman_Salesman_Play_1 = Oh non... Ok... Ok...
+
+Salesman_Salesman_End_1 = .... On dirais que j'ai survécu...
+Salesman_Salesman_End_2 = Vous avez maintenant fini l'attraction "Tir sur Marchand".
+
+Salesman_Salesman_End_Done_1 = On dirais que vous avez aussi réussit toutes les autres attractions. Bon boulot ?
+Salesman_Salesman_End_Done_2 = Le PDG m'a dit de vous dire d'aller chercher votre prix au palais.
+
+Salesman_Salesman_End_Normal_1 = Vous devez encore finir quelques attractions pour gagner le prix.
+Salesman_Salesman_End_Normal_2 = Mais par pitié... Ne retentez plus cette attraction.
+
+Salesman_Salesman_End_Souvenir_1 = Oh, et j'ai un message du grand gars bleu.
+Salesman_Salesman_End_Souvenir_2 = "N'hésitez pas à passer à la boutique de souvenir si vous avez le temps."
+Salesman_Salesman_End_Souvenir_3 = "Nous avons des produits... spéciaux à vous proposer."
+Salesman_Salesman_End_Souvenir_4 = De quoi il parle ?
+Salesman_Salesman_End_Souvenir_5 = Aucune idée. Mais je suppose que vous pouvez toujours aller voir.
+
 
 # ---------------------------------------------------------
 # ------------------- Marais ------------------------------

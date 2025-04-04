@@ -24,6 +24,7 @@ Char_Marcel = Hunter
 Char_Adrian = Adrian
 Char_Security = Security
 Char_Horse = Horse
+Char_Salesman = Salesman
 
 # -----------------------------------------------------------
 # --------------- Choices -----------------------------------
@@ -434,6 +435,40 @@ HauntedHouse_Waldo_Play_1 = Alright ! You can now enter the haunted house !
 HauntedHouse_Waldo_End_1 = Great ! You managed to find the exit !
 HauntedHouse_Waldo_End_2 = You now have officially completed the "Haunted House" !
 
+# ---------------------------------------------------------
+# ------------ Rickeyland - Shoot the salesma--------------
+# ---------------------------------------------------------
+
+Salesman_Salesman_Default_1 = Ho no... What now ?
+
+Salesman_Salesman_Done_1 = Please ! No more !
+
+Salesman_Salesman_Rules_1 = Your goal here is to shoot knifes at me.
+Salesman_Salesman_Rules_2 = You gain points if you don't hit me.
+Salesman_Salesman_Rules_3 = So, please... Don't hit me with the knifes...
+
+Salesman_Salesman_You_1 = Me ? I'm just a random salesman, really.
+Salesman_Salesman_You_2 = I tried to sell the CEO a vaccum cleaner.
+Salesman_Salesman_You_3 = But he had other plans, so he tied me up here.
+Salesman_Salesman_You_4 = Now I'm an attraction, and I even have to explain the rules to people.
+Salesman_Salesman_You_5 = I tried to get away, but with all the guards around, it is next to impossible.
+
+Salesman_Salesman_Play_1 = Oh god... Okay... Okay...
+
+Salesman_Salesman_End_1 = .... Looks like I made it...
+Salesman_Salesman_End_2 = You now have officially completed "Shooting the salesman".
+
+Salesman_Salesman_End_Done_1 = It seems you also completed the other attractions. Good job I guess  ?
+Salesman_Salesman_End_Done_2 = The CEO told me to tell you to go fetch your prize at his palace.
+
+Salesman_Salesman_End_Normal_1 = You still need to complete some attractions to win the prize.
+Salesman_Salesman_End_Normal_2 = But please... don't try to shoot knifes at me again.
+
+Salesman_Salesman_End_Souvenir_1 = Oh, and I have a message for you from the tall blue guy.
+Salesman_Salesman_End_Souvenir_2 = "Please have a look at the souvenir shop if you find the time."
+Salesman_Salesman_End_Souvenir_3 = "We have... special products waiting for you."
+Salesman_Salesman_End_Souvenir_4 = What is he talking about ?
+Salesman_Salesman_End_Souvenir_5 = I don't know. But I guess you could always check it out later.
 
 # ---------------------------------------------------------
 # ------------------- Marais ------------------------------
