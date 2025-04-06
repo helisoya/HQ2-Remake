@@ -439,7 +439,7 @@ HauntedHouse_Waldo_End_2 = You now have officially completed the "Haunted House"
 # ------------ Rickeyland - Shoot the salesma--------------
 # ---------------------------------------------------------
 
-Salesman_Salesman_Default_1 = Ho no... What now ?
+Salesman_Salesman_Default_1 = Oh no... What now ?
 
 Salesman_Salesman_Done_1 = Please ! No more !
 

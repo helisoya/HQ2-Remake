@@ -84,6 +84,9 @@ rules_HR_controls = Gauche/Droite : Alterner pour avancer<br>Espace : Sauter
 rules_HH_goal = Trouvez la sortie dans la mine
 rules_HH_controls = Droite / Gauche : Tourner<br>Haut / Bas : Se déplacer
 
+rules_STS_goal = Obtenez au moins 300 points. Vous gagnez des points en ne touchant pas le marchand.
+rules_STS_controls = Cliquez pour jeter un couteau.
+
 
 
 game_life = HP : 
