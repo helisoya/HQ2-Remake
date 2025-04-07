@@ -208,5 +208,7 @@ shootSalesmanQuest_0 = Complete the "Shoot the salesman" attraction
 
 shopQuest = The Souvenir Shop
 shopQuest_0 = Investigate the souvenir shop
+shopQuest_1 = Deliver the knight's box in Vlatyr
+shopQuest_2 = Report back to Waldo at the souvenir shop
 
 guardQuest = An old friend returns

@@ -70,6 +70,8 @@ Choice_GoBack = Go Back
 
 Choice_RunAway = Run Away
 
+Choice_Products = About the products
+
 # ---------------------------------------------------------
 # ------------------- Intro -------------------------------
 # ---------------------------------------------------------
@@ -267,6 +269,17 @@ ChezHarold_Harold_Default = [MC] ! Do you need help with anything ?
 
 Vlatyr_ChezBoyardee_Done_1 = It's locked.
 
+Vlatyr_ShopQuest1_1 = Hey, you !
+Vlatyr_ShopQuest1_2 = A familiar face greets me.
+Vlatyr_ShopQuest1_3 = Oh, are you the knight of Runan ? I have a box for you.
+Vlatyr_ShopQuest1_4 = I remember this man caused a ruckus at the park last year.
+Vlatyr_ShopQuest1_5 = I wonder if this is why he didn't come to pick it up at the shop.
+Vlatyr_ShopQuest1_6 = It's me alright. So you got the box, nice.
+Vlatyr_ShopQuest1_7 = I give the box to the knight. He quickly inspects it.
+Vlatyr_ShopQuest1_8 = Hmm... It seems everything is in order.
+Vlatyr_ShopQuest1_9 = Good. I'll be off then. Send my regards to the tall guy.
+Vlatyr_ShopQuest1_10 = The knight disapears in a nearby street. That was awkward.
+Vlatyr_ShopQuest1_11 = I should report back to Waldo.
 
 # ---------------------------------------------------------
 # -------------- Chez Marcel ------------------------------
@@ -469,6 +482,56 @@ Salesman_Salesman_End_Souvenir_2 = "Please have a look at the souvenir shop if y
 Salesman_Salesman_End_Souvenir_3 = "We have... special products waiting for you."
 Salesman_Salesman_End_Souvenir_4 = What is he talking about ?
 Salesman_Salesman_End_Souvenir_5 = I don't know. But I guess you could always check it out later.
+
+# ---------------------------------------------------------
+# ------------ Rickeyland - Souvenir shop -----------------
+# ---------------------------------------------------------
+
+Souvenir_Waldo_Normal = Hi ! How can I help you ?
+
+Souvenir_Waldo_AboutYou_1 = My name is Waldo. I'm the only employee at the park.
+Souvenir_Waldo_AboutYou_2 = My job is to make sure our visitors have the best experience.
+Souvenir_Waldo_AboutYou_3 = For this reason, I run most of the attractions and this shop.
+Souvenir_Waldo_AboutYou_4 = But man... This sure is tough...
+Souvenir_Waldo_AboutYou_5 = I had my own amusement park not a long time ago. Things weren't as tiring.
+
+Souvenir_Waldo_AboutRickey_1 = The CEO ? Well, what can I say about him ?
+Souvenir_Waldo_AboutRickey_2 = I mean... What am I allowed to say ?
+Souvenir_Waldo_AboutRickey_3 = I'll be honest, I'm not 100% happy with his management.
+Souvenir_Waldo_AboutRickey_4 = We are in debts, nobody want to come, and what does he do ?
+Souvenir_Waldo_AboutRickey_5 = He hires more guards and starts an aggressive advertisement campaign.
+Souvenir_Waldo_AboutRickey_6 = ... At least my pay is alright. For now.
+
+Souvenir_Waldo_ShopQuest0_1 = I heard you had "special" products in store ?
+Souvenir_Waldo_ShopQuest0_2 = Oh, right ! I have some nice products for you.
+Souvenir_Waldo_ShopQuest0_3 = Weapons, guns, tanks, drugs, you name it, I got it.
+Souvenir_Waldo_ShopQuest0_4 = Uh, what ?
+Souvenir_Waldo_ShopQuest0_5 = I'm sorry, I'm not really interested in such products.
+Souvenir_Waldo_ShopQuest0_6 = And I'm not sure they're even legal here.
+Souvenir_Waldo_ShopQuest0_7 = Besides, I don't have enough money to pay for such products.
+Souvenir_Waldo_ShopQuest0_8 = Oh... Well that's going to be a problem...
+Souvenir_Waldo_ShopQuest0_9 = Why ? 
+Souvenir_Waldo_ShopQuest0_10 = Well... the CEO really doesn't like it when people don't buy our products.
+Souvenir_Waldo_ShopQuest0_11 = There is a possibility you get... in trouble if you don't buy something.
+Souvenir_Waldo_ShopQuest0_12 = But I have an idea. It won't cost you a penny.
+Souvenir_Waldo_ShopQuest0_13 = I have an order to deliver to the city of Vlatyr.
+Souvenir_Waldo_ShopQuest0_14 = It's for a man called the "Knight of Runan".
+Souvenir_Waldo_ShopQuest0_15 = He ordered this box, but I can't make it with my other obligations.
+Souvenir_Waldo_ShopQuest0_16 = Could you deliver this to him ? I'll give you a stamp certifying you "purchased" something here.
+Souvenir_Waldo_ShopQuest0_17 = Alright, I'll see what I can do.
+Souvenir_Waldo_ShopQuest0_18 = Thanks ! Oh, and don't ask what's inside the box. It's confidential.
+
+Souvenir_Waldo_ShopQuest1_1 = You need to deliver the box to the Knight of Runan, in the city of Vlatyr.
+
+Souvenir_Waldo_ShopQuest2_1 = I delivered the box. The knight seemed happy.
+Souvenir_Waldo_ShopQuest2_2 = Ah, good job. You really helped me there.
+Souvenir_Waldo_ShopQuest2_3 = The knight is a good client of mine, always buying our products.
+Souvenir_Waldo_ShopQuest2_4 = But things are a little bit complicated with the CEO.
+Souvenir_Waldo_ShopQuest2_5 = They apparently hate each other. I don't know why exactly.
+Souvenir_Waldo_ShopQuest2_6 = It may have to do with last year's contest...
+Souvenir_Waldo_ShopQuest2_7 = Anyway ! Since you helped me, I'll help you.
+Souvenir_Waldo_ShopQuest2_8 = Take this stamp, it's a proof you 'bought' something from the souvenir shop.
+Souvenir_Waldo_ShopQuest2_9 = That way, you won't get into trouble if you show up to the CEO's palace.
 
 # ---------------------------------------------------------
 # ------------------- Marais ------------------------------

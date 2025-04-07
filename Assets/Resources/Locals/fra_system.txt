@@ -208,5 +208,7 @@ shootSalesmanQuest_0 = Finir l'attraction "Tir sur marchand"
 
 shopQuest = La boutique de souvenir
 shopQuest_0 = Aller voir la boutique de souvenir
+shopQuest_1 = Livrer la boite du Chevalier à Vlatyr
+shopQuest_2 = Retourner voir Waldo à la boutique de souvenir
 
 guardQuest = Un viel ami de retour

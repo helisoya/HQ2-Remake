@@ -72,6 +72,8 @@ Choice_GoBack = Retourner en arrière
 
 Choice_RunAway = Fuir
 
+Choice_Products = A propos des produits
+
 
 # ---------------------------------------------------------
 # ------------------- Intro -------------------------------
@@ -272,6 +274,17 @@ ChezHarold_Harold_Default = [MC] ! Avez-vous besoin d'aide ?
 
 Vlatyr_ChezBoyardee_Done_1 = C'est fermée.
 
+Vlatyr_ShopQuest1_1 = Eh, toi !
+Vlatyr_ShopQuest1_2 = Un visage familier m'acceuille.
+Vlatyr_ShopQuest1_3 = Oh, vous êtes le Chevalier de Runan ? J'ai une boite pour vous.
+Vlatyr_ShopQuest1_4 = Je me souviens que cet homme a posé problème au parc l'année dernière.
+Vlatyr_ShopQuest1_5 = Je me demande si c'est pour cela qu'il n'est pas venu à la boutique.
+Vlatyr_ShopQuest1_6 = C'est bien moi. Donc tu as la boite, bien.
+Vlatyr_ShopQuest1_7 = Je lui donne la boite. Il s'empresse de l'inspecter.
+Vlatyr_ShopQuest1_8 = Hmm... On dirait que tout est en ordre.
+Vlatyr_ShopQuest1_9 = Bien. Je m'en vais. Dis bonjour au grand gaillard pour moi. 
+Vlatyr_ShopQuest1_10 = Le Chevalier disparait dans une rue adjacente. C'était génant.
+Vlatyr_ShopQuest1_11 = Je devrais retourner voir Waldo.
 
 # ---------------------------------------------------------
 # -------------- Chez Marcel ------------------------------
@@ -476,6 +489,55 @@ Salesman_Salesman_End_Souvenir_3 = "Nous avons des produits... spéciaux à vous
 Salesman_Salesman_End_Souvenir_4 = De quoi il parle ?
 Salesman_Salesman_End_Souvenir_5 = Aucune idée. Mais je suppose que vous pouvez toujours aller voir.
 
+# ---------------------------------------------------------
+# ------------ Rickeyland - Souvenir shop -----------------
+# ---------------------------------------------------------
+
+Souvenir_Waldo_Normal = Salut ! Comment puis-je vous aider ?
+
+Souvenir_Waldo_AboutYou_1 = Je suis Waldo, l'unique employé du parc.
+Souvenir_Waldo_AboutYou_2 = Mon travail est de m'assurer que les visiteurs aient la meilleure expérience possible.
+Souvenir_Waldo_AboutYou_3 = Pour cette raison, je m'occupe de la plupart des attractions, ainsi que cette boutique.
+Souvenir_Waldo_AboutYou_4 = Mais ouf... C'est vraiment difficile.
+Souvenir_Waldo_AboutYou_5 = Je tenais mon propre parc d'attractions il y a pas si longtemps. C'était moins fatiguant.
+
+Souvenir_Waldo_AboutRickey_1 = Le PDG ? Et bien, que puis-je dire sur lui ?
+Souvenir_Waldo_AboutRickey_2 = Je veux dire... Qu'ais-je le droit de dire ?
+Souvenir_Waldo_AboutRickey_3 = Je vais être honete, je ne suis pas content à 100% avec ses façons de faire.
+Souvenir_Waldo_AboutRickey_4 = Nous sommes endettés, personne ne veux venir, et que fait-il ?
+Souvenir_Waldo_AboutRickey_5 = Il engage plus de gardes et commence une campagne de publicité aggressive.
+Souvenir_Waldo_AboutRickey_6 = ... Au moins ma paie est correct. Pour le moment.
+
+Souvenir_Waldo_ShopQuest0_1 = J'ai entendu dire que vous avez des produits "speciaux" ?
+Souvenir_Waldo_ShopQuest0_2 = Oh, oui ! J'ai d'excellents produits à vous proposer.
+Souvenir_Waldo_ShopQuest0_3 = Armes, tanks, drogues, vous en voulez, je l'ai.
+Souvenir_Waldo_ShopQuest0_4 = Euh, quoi ?
+Souvenir_Waldo_ShopQuest0_5 = Je suis désolé, je ne suis pas interessé dans de tels produits.
+Souvenir_Waldo_ShopQuest0_6 = Et je suis sur qu'ils soient legaux.
+Souvenir_Waldo_ShopQuest0_7 = Et puis, je n'ai pas assez d'argent pour les acheter.
+Souvenir_Waldo_ShopQuest0_8 = Oh... Et bien, ca va être problématique...
+Souvenir_Waldo_ShopQuest0_9 = Pourquoi ? 
+Souvenir_Waldo_ShopQuest0_10 = Et bien... Le PDG déteste quand les gens n'achetent pas nos produits.
+Souvenir_Waldo_ShopQuest0_11 = Il y a une possibilité que vous ayez des... problèmes, si vous n'achetez rien.
+Souvenir_Waldo_ShopQuest0_12 = Mais j'ai une idée, et ça ne va rien vous couter.
+Souvenir_Waldo_ShopQuest0_13 = J'ai une livraison à faire dans la ville de Vlatyr.
+Souvenir_Waldo_ShopQuest0_14 = C'est pour un homme appelé le "Chevalier de Runan".
+Souvenir_Waldo_ShopQuest0_15 = Il a commandé cette boite, mais je ne peux pas la livrer à cause de mes autres obligations.
+Souvenir_Waldo_ShopQuest0_16 = Pourriez-vous le faire pour moi ? Je vous donnerai un cachet prouvant que vous avez "acheté" un produit.
+Souvenir_Waldo_ShopQuest0_17 = Très bien, je vais voir ce que je peux faire.
+Souvenir_Waldo_ShopQuest0_18 = Merci ! Oh, et ne regardez pas ce qu'il y a dans la boite. C'est confidentiel.
+
+Souvenir_Waldo_ShopQuest1_1 = Vous devez livrer la boite au Chevalier de Runan, dans la ville de Vlatyr.
+
+Souvenir_Waldo_ShopQuest2_1 = J'ai livré la boite. Le chevalier avait l'air ravi.
+Souvenir_Waldo_ShopQuest2_2 = Ah, bon travail. Vous m'avez vraiment aidé.
+Souvenir_Waldo_ShopQuest2_3 = Le Chevalier est un de mes meilleurs clients. Il achête beaucoup de produits.
+Souvenir_Waldo_ShopQuest2_4 = Mais les affaires sont un peu compliquées avec le PDG.
+Souvenir_Waldo_ShopQuest2_5 = Apparement, ils se détestent. Je ne sais pas pourquoi exactement.
+Souvenir_Waldo_ShopQuest2_6 = Ca a peut être à voir avec le concours de l'année dernière...
+Souvenir_Waldo_ShopQuest2_7 = Dans tout les cas ! Comme vous m'avez aidé, j'ai vais vous aider aussi.
+Souvenir_Waldo_ShopQuest2_8 = Prenez ce cachet. C'est une preuve que vous avez fait un "achat" dans la boutique.
+Souvenir_Waldo_ShopQuest2_9 = Vous n'aurez pas de problèmes si vous allez au palais du PDG maintenant.
 
 # ---------------------------------------------------------
 # ------------------- Marais ------------------------------

@@ -3,5 +3,6 @@ removeAllCharacters()
 setBackground(VlatyrBoyardeeExterior)
 
 if(rain = 1) changeSkybox(Rain)
+if(shopQuest = 1) Vlatyr/AddKnight
 
 load(Vlatyr/Interaction)
