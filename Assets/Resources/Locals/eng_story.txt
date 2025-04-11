@@ -417,6 +417,29 @@ Plaza_GUARD_AboutSect_4 = Why you may ask ? They worship a local god of Chaos : 
 Plaza_GUARD_AboutSect_5 = They seemed to want to summon it back into this world.
 Plaza_GUARD_AboutSect_6 = But hey. Now that most of them are dead, we should be safe.
 
+Plaza_GUARD_QuestEnd_1 = Oh, hey ! Did you get lucky ?
+Plaza_GUARD_QuestEnd_2 = Yes. I found out that at least one cultist managed to make it out.
+Plaza_GUARD_QuestEnd_3 = Ah, that's what I was afraid of...
+Plaza_GUARD_QuestEnd_4 = Anything else ?
+Plaza_GUARD_QuestEnd_5 = I also found this strange necklace. I thought you might know what it is.
+Plaza_GUARD_QuestEnd_6 = Let me see.
+Plaza_GUARD_QuestEnd_7 = Hmm.......
+Plaza_GUARD_QuestEnd_8 = I see.... Curious....
+Plaza_GUARD_QuestEnd_9 = This seems to be a ritual necklace.
+Plaza_GUARD_QuestEnd_10 = I heard it is used to prevent the summoning of an entity.
+Plaza_GUARD_QuestEnd_11 = You just put it on, and nearby casters won't be able to summon anything.
+Plaza_GUARD_QuestEnd_12 = Actually, you can keep it. I get the feeling you may need it someday.
+Plaza_GUARD_QuestEnd_13 = And what about you ?
+Plaza_GUARD_QuestEnd_14 = Another front just started relocating. I'm going to take action.
+Plaza_GUARD_QuestEnd_15 = I guess I'll be off now. I was nice seeing you again.
+Plaza_GUARD_QuestEnd_16 = Likewise. It was surely interesting.
+Plaza_GUARD_QuestEnd_17 = GUARD bows and exits the plaza.
+Plaza_GUARD_QuestEnd_18 = What a strange person. But I guess he has his mission to fullfill.
+Plaza_GUARD_QuestEnd_19 = I look at the necklace. What do I even do with this ?
+Plaza_GUARD_QuestEnd_20 = Maybe I can put it on so Harold doesn't summon me back a third time.
+Plaza_GUARD_QuestEnd_21 = ... Wouldn't work... Anyway. I should get going.
+Plaza_GUARD_QuestEnd_22 = I put the necklace on me for now.
+
 # ---------------------------------------------------------
 # ----------------- Rickeyland - Quiz ---------------------
 # ---------------------------------------------------------
@@ -619,3 +642,35 @@ Mountains_Car_1 = How did this car end up here ?
 # ---------------------------------------------------------
 
 Fortress_Done = I don't need to enter the fortress again.
+
+Fortress_GUARDQuest0_1 = To think GUARD caused all this...
+Fortress_GUARDQuest0_2 = The bridge is destroyed. I'll have to go around...
+Fortress_GUARDQuest0_3 = I start climbing down the cliff. It's not difficult, but very long.
+Fortress_GUARDQuest0_4 = A few dozen minutes later, I manage to get to the fortress.
+Fortress_GUARDQuest0_5 = I can't go through the front door, so I enter via a window.
+Fortress_GUARDQuest0_6 = The fortress was completly destroyed. The floor is tilted now.
+Fortress_GUARDQuest0_7 = No matter, I need to check this place for clues.
+Fortress_GUARDQuest0_8 = But where should I look ? This place is big...
+Fortress_GUARDQuest0_9 = Although...
+Fortress_GUARDQuest0_10 = Maybe this door will lead me to a clue ?
+Fortress_GUARDQuest0_11 = The other paths seem closed off anyway.
+Fortress_GUARDQuest0_12 = I open the door and enter a new room.
+Fortress_GUARDQuest0_13 = Wait... I recognize this place.
+Fortress_GUARDQuest0_14 = It was here that I defeated the dragon.
+Fortress_GUARDQuest0_15 = The room is badly damaged now though...
+Fortress_GUARDQuest0_16 = Maybe I can find a clue around her.
+Fortress_GUARDQuest0_17 = I search around the destroyed room.
+Fortress_GUARDQuest0_18 = Uh ?
+Fortress_GUARDQuest0_19 = I find a strange necklace on the ground.
+Fortress_GUARDQuest0_20 = Maybe it was a cultist's.
+Fortress_GUARDQuest0_21 = I should take it to GUARD. Maybe he can tell me what it is.
+Fortress_GUARDQuest0_22 = I also find a trail of what looks like blood.
+Fortress_GUARDQuest0_23 = It seems at least a week old. It could indicate that a cultist fled the scene.
+Fortress_GUARDQuest0_24 = I decide to follow the trail. It may lead to more clues.
+Fortress_GUARDQuest0_25 = I follow the trail back to the entrance of the fortress.
+Fortress_GUARDQuest0_26 = This person managed to exit the fortress by jumping off the balcony.
+Fortress_GUARDQuest0_27 = I take a more safe path. I can't get injured here.
+Fortress_GUARDQuest0_28 = I follow the trail back to the bridge, but it stops suddenly.
+Fortress_GUARDQuest0_29 = ... Maybe the person treated his injury ?
+Fortress_GUARDQuest0_30 = Well, I can't continue to tail them. I should report back to GUARD.
+Fortress_GUARDQuest0_31 = He should be happy enough with the necklace I found.

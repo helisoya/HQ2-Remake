@@ -421,6 +421,28 @@ Plaza_GUARD_AboutSect_4 = Pourquoi donc ? Ils prient le dieu local du chaos : Le
 Plaza_GUARD_AboutSect_5 = Ils avaient l'air de vouloir le réinvoquer dans ce monde.
 Plaza_GUARD_AboutSect_6 = Mais bon. Maintenant qu'ils sont pour la plupart mort, nous devrions être en sécurité.
 
+Plaza_GUARD_QuestEnd_1 = Oh, salut ! Vous avez eu de la chance ?
+Plaza_GUARD_QuestEnd_2 = Oui. J'ai trouvé qu'au moins un des cultistes a réussit à fuir.
+Plaza_GUARD_QuestEnd_3 = Ah, c'est ce que je craignait...
+Plaza_GUARD_QuestEnd_4 = Autre chose ?
+Plaza_GUARD_QuestEnd_5 = J'ai aussi trouvé cet étrange collier. Je me suis dit que vous saviez peut être ce que c'était.
+Plaza_GUARD_QuestEnd_6 = Voyons voir.
+Plaza_GUARD_QuestEnd_7 = Hmm.......
+Plaza_GUARD_QuestEnd_8 = Je vois.... Curieux....
+Plaza_GUARD_QuestEnd_9 = On dirais un collier de rituel.
+Plaza_GUARD_QuestEnd_10 = J'ai entendu dire qu'il empechait l'invocation d'entités.
+Plaza_GUARD_QuestEnd_11 = Vous le mettez, et les invocateurs alentours ne pourront plus invoquer quoi que ce soit.
+Plaza_GUARD_QuestEnd_12 = En fait, vous pouvez le garder. J'ai l'impression que vous en aurez besoin un jour.
+Plaza_GUARD_QuestEnd_13 = Et vous ?
+Plaza_GUARD_QuestEnd_14 = Une facade du culte a commencé à se relocaliser. Je vais intervenir.
+Plaza_GUARD_QuestEnd_15 = Je suppose que je vais y aller maintenant. C'était sympa de vous revoir.
+Plaza_GUARD_QuestEnd_16 = De même. C'était intéressant.
+Plaza_GUARD_QuestEnd_17 = GARDE me dit au revoir, et quitte la place.
+Plaza_GUARD_QuestEnd_18 = Quel étrange personnage. Mais je suppose qu'il y a sa propre mission à remplir.
+Plaza_GUARD_QuestEnd_19 = Je regarde le collier. Mais que vais-je faire avec ?
+Plaza_GUARD_QuestEnd_20 = Peut être que je peux le mettre pour qu'Harold ne puisse pas m'invoquer une troisième fois.
+Plaza_GUARD_QuestEnd_21 = ... Ca ne marcherait pas... Dans tout les cas, je devrais y aller. 
+Plaza_GUARD_QuestEnd_22 = Je met le collier pour l'instant.
 
 # ---------------------------------------------------------
 # ----------------- Rickeyland - Quiz ---------------------
@@ -624,3 +646,35 @@ Mountains_Car_1 = Comment est-ce que cette voiture a finie là ?
 # ---------------------------------------------------------
 
 Fortress_Done = Je n'ai pas besoin d'enter à nouveau dans la forteresse.
+
+Fortress_GUARDQuest0_1 = Et dire que GARDE a causé tout ça...
+Fortress_GUARDQuest0_2 = Le pont est détruit. Je vais devoir contourner.
+Fortress_GUARDQuest0_3 = Je commence à descendre la colline. Ce n'est pas difficile, mais très long.
+Fortress_GUARDQuest0_4 = Quelques minutes plus tard, j'arrive à atteindre la forteresse.
+Fortress_GUARDQuest0_5 = Je ne peux pas passer par la porte d'entrée, donc j'entre par une fenêtre.
+Fortress_GUARDQuest0_6 = La forteresse a été complètement détruite. Le sol est même incliné.
+Fortress_GUARDQuest0_7 = Peu importe, il faut que je cherche des indices ici.
+Fortress_GUARDQuest0_8 = Mais où chercher ? Cet endroit est grand...
+Fortress_GUARDQuest0_9 = Enfin...
+Fortress_GUARDQuest0_10 = Peut-être que cette porte me mènera à un indice ?
+Fortress_GUARDQuest0_11 = Les autres chemins semblent inaccessibles de toute façon.
+Fortress_GUARDQuest0_12 = J'ouvre la porte et entre dans une nouvelle pièce.
+Fortress_GUARDQuest0_13 = Attend... Je reconnais cet endroit.
+Fortress_GUARDQuest0_14 = C'est ici que j'ai vaincu le dragon.
+Fortress_GUARDQuest0_15 = La pièce est salement endommagée maintenant...
+Fortress_GUARDQuest0_16 = Peut-être que je peut trouver un indice ici.
+Fortress_GUARDQuest0_17 = Je cherche dans la pièce détruite.
+Fortress_GUARDQuest0_18 = Euh ?
+Fortress_GUARDQuest0_19 = Je trouve un collier étrange sur le sol.
+Fortress_GUARDQuest0_20 = C'était peut-être celui d'un cultiste.
+Fortress_GUARDQuest0_21 = Je devrais l'apporter à GARDE. Il pourra peut-être me dire ce que c'est.
+Fortress_GUARDQuest0_22 = Je trouve aussi des traces de ce qui ressemble à du sang.
+Fortress_GUARDQuest0_23 = Elle semble dater d'au moins une semaine. Cela pourrait indiquer qu'un cultiste à survécu.
+Fortress_GUARDQuest0_24 = Je décide de suivre les traces. Elle pourrait mener à d'autres indices.
+Fortress_GUARDQuest0_25 = Je les suis jusqu'à l'entrée de la forteresse.
+Fortress_GUARDQuest0_26 = Leur propriétaire a réussit à fuir en sautant du balcon.
+Fortress_GUARDQuest0_27 = Je prends un chemin plus sûr. Je ne devrais pas me blesser ici.
+Fortress_GUARDQuest0_28 = Je suis les traces jusqu'au pont. Mais elles s'arrêtent nette.
+Fortress_GUARDQuest0_29 = ... Peut-être que la personne a soigné sa blessure ?
+Fortress_GUARDQuest0_30 = Et bien, je vais devoir m'arrêter là. Je devrais retourner voir GARDE.
+Fortress_GUARDQuest0_31 = Il devrait déjà être content avec le collier que j'ai trouvé.
