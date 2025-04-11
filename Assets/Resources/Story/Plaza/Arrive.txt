@@ -5,5 +5,6 @@ setBackground(RickeyLandPlaza)
 if(rain = 1) changeSkybox(Rain)
 
 if(horseRaceQuest = 1) load(Plaza/AddHorse)
+if(mainQuest > 3 & guardQuest < 100) load(Plaza/AddGuard)
 
 load(Plaza/Interaction)

@@ -1,4 +1,4 @@
-setInteractionChapter(Bridge;BraiseFortress/Gate_Enter)
+setInteractionChapter(Bridge;BraiseFortress/Gate_Check)
 setInteractionChapter(Exit;MAP-Vlatyr-BraiseFortress)
 
 interact

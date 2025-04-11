@@ -211,4 +211,6 @@ shopQuest_0 = Aller voir la boutique de souvenir
 shopQuest_1 = Livrer la boite du Chevalier à Vlatyr
 shopQuest_2 = Retourner voir Waldo à la boutique de souvenir
 
-guardQuest = Un viel ami de retour
+guardQuest = Le retour d'un viel ami
+guardQuest_0 = Mener l'enquête à la forteresse
+guardQuest_1 = Retourner voir GARDE

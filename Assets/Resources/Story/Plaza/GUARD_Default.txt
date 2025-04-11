@@ -1,0 +1,4 @@
+choice Choice_Chat
+	Choice_AboutYou Plaza/GUARD_AboutYou
+	Choice_AboutSect Plaza/GUARD_AboutSect
+	Choice_Nothing Plaza/GUARD_Exit

@@ -14,7 +14,7 @@ RickeyLand RickeyLandEntrance/Arrive ALWAYS
 Swamtyr HIDDEN
 ChezMarcel ChezMarcel/Arrive mainQuest 1
 Swamp HIDDEN
-BraiseFortress HIDDEN
+BraiseFortress BraiseFortress/Arrive guardQuest 0
 Mines HIDDEN
 Mountains HIDDEN
 

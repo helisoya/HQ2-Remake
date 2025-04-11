@@ -1,0 +1,5 @@
+# TODO
+
+variable(guardQuest;1)
+
+load(BraiseFortress/Interaction)

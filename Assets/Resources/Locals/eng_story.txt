@@ -366,6 +366,57 @@ Plaza_Horse_7 = I won't get scolded by the CEO now.
 Plaza_Horse_8 = If you want, you can now participate in the attraction.
 
 
+Plaza_GUARD_Normal = Oh, hi !
+
+Plaza_GUARD_QuestStart_1 = Oh, hey there !
+Plaza_GUARD_QuestStart_2 = You're that guy from last year, right ?
+Plaza_GUARD_QuestStart_3 = Oh, yes. I remember you.
+Plaza_GUARD_QuestStart_4 = What was his name, GUARD or something ?
+Plaza_GUARD_QuestStart_5 = He was protecting the dragon's fortress. I lied to him in order to enter.
+Plaza_GUARD_QuestStart_6 = I hope he doesn't hold a grudge since I killed the dragon.
+Plaza_GUARD_QuestStart_7 = It was a shame, really.
+Plaza_GUARD_QuestStart_8 = ... Yeah...
+Plaza_GUARD_QuestStart_9 = You came to pay tribute to Lord Ember, and he got killed by that samurai guy.
+Plaza_GUARD_QuestStart_10 = What ? He thinks I'm innocent ? Nice !
+Plaza_GUARD_QuestStart_11 = But oh well. I decided to on a little adventure after that.
+Plaza_GUARD_QuestStart_12 = Actually, you could lend me an hand if you want.
+Plaza_GUARD_QuestStart_13 = I might. What do you have in mind ?
+Plaza_GUARD_QuestStart_14 = Remember this politician I told you about ? The one that got killed ?
+Plaza_GUARD_QuestStart_15 = I decided to investigate the cult he was after.
+Plaza_GUARD_QuestStart_16 = I travelled the continent, going as far as the far away city state of Kalia.
+Plaza_GUARD_QuestStart_17 = In the end, I managed to trace back the cult in the late dragon's fortress.
+Plaza_GUARD_QuestStart_18 = I, well.. they I suppose, then decided to deal with the cult once and for all.
+Plaza_GUARD_QuestStart_19 = They ? 
+Plaza_GUARD_QuestStart_20 = A friend I made back in Kalia.
+Plaza_GUARD_QuestStart_21 = But more importantly, you mean you...
+Plaza_GUARD_QuestStart_22 = Caused the destruction of the fortress ? Yes.
+Plaza_GUARD_QuestStart_23 = The cultists were all regrouped for some sort of congress.
+Plaza_GUARD_QuestStart_24 = We snuck in, and detonated a bomb.
+Plaza_GUARD_QuestStart_25 = We managed to wipe them all out. Or so we thought...
+Plaza_GUARD_QuestStart_26 = Some of them survived ?
+Plaza_GUARD_QuestStart_27 = That's what I think.
+Plaza_GUARD_QuestStart_28 = A few days ago, one of their front companies suddenly relocated.
+Plaza_GUARD_QuestStart_29 = And dead bodies can't relocate as far as I know.
+Plaza_GUARD_QuestStart_30 = So this is where you come in.
+Plaza_GUARD_QuestStart_31 = I have to keep watch on the fronts. But I also have another thing to check.
+Plaza_GUARD_QuestStart_32 = Since we apparently missed some cultists, I would like you to investigate the fortress.
+Plaza_GUARD_QuestStart_33 = If you notice anything out of the ordinary, tell me. Any clue could be vital here.
+Plaza_GUARD_QuestStart_34 = Alright. I have things of my own to do, but I'll see what I can do.
+Plaza_GUARD_QuestStart_35 = Thanks ! I appreciate it.
+
+Plaza_GUARD_AboutYou_1 = I'm GUARD. I was a simple bodyguard just a year ago.
+Plaza_GUARD_AboutYou_2 = You know, protecting a politician, a dragon, ...
+Plaza_GUARD_AboutYou_3 = But things changed after I failed my missions.
+Plaza_GUARD_AboutYou_4 = I failed, and I was shunned for my incompetence.
+Plaza_GUARD_AboutYou_5 = But no matter. I have another mission now. I must stop that cult.
+
+Plaza_GUARD_AboutSect_1 = The cult I'm after specializes in summoning.
+Plaza_GUARD_AboutSect_2 = They are behind a series of attacks and murders in the region.
+Plaza_GUARD_AboutSect_3 = I discovered their goal : Pure chaos.
+Plaza_GUARD_AboutSect_4 = Why you may ask ? They worship a local god of Chaos : Lord Elk.
+Plaza_GUARD_AboutSect_5 = They seemed to want to summon it back into this world.
+Plaza_GUARD_AboutSect_6 = But hey. Now that most of them are dead, we should be safe.
+
 # ---------------------------------------------------------
 # ----------------- Rickeyland - Quiz ---------------------
 # ---------------------------------------------------------
@@ -567,3 +618,4 @@ Mountains_Car_1 = How did this car end up here ?
 # --------------- Forteresse ------------------------------
 # ---------------------------------------------------------
 
+Fortress_Done = I don't need to enter the fortress again.

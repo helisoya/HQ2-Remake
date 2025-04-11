@@ -370,6 +370,57 @@ Plaza_Horse_6 = Merci, merci !
 Plaza_Horse_7 = Je ne vais pas me faire gronder par le PDG maintenant.
 Plaza_Horse_8 = Si vous voulez, vous pouvez dès à présent participer à l'attraction.
 
+Plaza_GUARD_Normal = Oh, salut !
+
+Plaza_GUARD_QuestStart_1 = Oh ! Eh, vous !
+Plaza_GUARD_QuestStart_2 = vous êtes le type de l'année dernière, pas vrai ?
+Plaza_GUARD_QuestStart_3 = Oh, oui. Je me souviens de vous.
+Plaza_GUARD_QuestStart_4 = C'était quoi son nom déja ? GARDE ou un truc du genre ?
+Plaza_GUARD_QuestStart_5 = Il protégait la forteresse du dragon. Je lui ai menti pour entrer à l'intérieur.
+Plaza_GUARD_QuestStart_6 = J'espère qu'il ne m'en veut pas pour avoir tué le dragon.
+Plaza_GUARD_QuestStart_7 = C'était décevant, vraiment.
+Plaza_GUARD_QuestStart_8 = ... Oui...
+Plaza_GUARD_QuestStart_9 = Vous étiez venu rendre hommage au Seigneur Braise. Et il a été tué par ce vil samurai.
+Plaza_GUARD_QuestStart_10 = Quoi ? Il crois que je suis innocent ? Parfait !
+Plaza_GUARD_QuestStart_11 = Enfin bon. J'ai décidé après ça de partir dans une petite aventure.
+Plaza_GUARD_QuestStart_12 = En fait, vous pourriez même m'aider si ça vous intéresse.
+Plaza_GUARD_QuestStart_13 = Ca se peut. Qu'avez-vouen tête ?
+Plaza_GUARD_QuestStart_14 = Vous vous souvenez du politicien dont je vous avais parlé ? Celui qui avait été tué ?
+Plaza_GUARD_QuestStart_15 = J'ai décidé de mener l'enquête sur ce culte qu'il poursuivait.
+Plaza_GUARD_QuestStart_16 = J'ai voyagé dans le continent, allant jusqu'à la lointaine ville de Kalia.
+Plaza_GUARD_QuestStart_17 = Au final, j'ai réussit à localiser le culte dans la vielle forteresse du dragon.
+Plaza_GUARD_QuestStart_18 = J'ai, enfin... il je suppose, a ensuite décidé d'en finir avec ce culte une bonne fois pour toute.
+Plaza_GUARD_QuestStart_19 = Il ? 
+Plaza_GUARD_QuestStart_20 = Un ami que j'ai rencontré à Kalia.
+Plaza_GUARD_QuestStart_21 = Mais plus important. Vous voulez dire que vous avez...
+Plaza_GUARD_QuestStart_22 = Causé la destruction de la forteresse ? Oui.
+Plaza_GUARD_QuestStart_23 = Les cultistes étaient tous regroupés pour une sorte de congrès.
+Plaza_GUARD_QuestStart_24 = On est rentré discrètement, et on a fait exploser une bombe.
+Plaza_GUARD_QuestStart_25 = On a réussit à tous les tuer. Enfin, c'est ce qu'on pensait...
+Plaza_GUARD_QuestStart_26 = Certains ont survécu ?
+Plaza_GUARD_QuestStart_27 = C'est ce que je pense.
+Plaza_GUARD_QuestStart_28 = Il y a quelques jours, une de leurs entreprise de facade à soudainement été relocalisée.
+Plaza_GUARD_QuestStart_29 = Et les morts ne peuvent pas faire ça au dernières nouvelles.
+Plaza_GUARD_QuestStart_30 = Donc c'est la que vous entrez en jeu.
+Plaza_GUARD_QuestStart_31 = Je dois garder un oeil sur ces entreprises. Mais j'ai aussi besoin de vérifier quelque chose.
+Plaza_GUARD_QuestStart_32 = Comme il semblerait que nous ayons raté des cultistes. J'aimerai que vous enquetiez à la vielle forteresse.
+Plaza_GUARD_QuestStart_33 = Si vous trouvez quelque chose hors de l'ordinaire, dites-le moi. N'importe quel indice peut être vital.
+Plaza_GUARD_QuestStart_34 = Très bien. J'ai ma propre mission, mais je vais voir ce que je peux faire pour vous.
+Plaza_GUARD_QuestStart_35 = Merci ! J'apprecie votre geste.
+
+Plaza_GUARD_AboutYou_1 = Je suis GARDE. J'étais un simple garde du corps il y a un an.
+Plaza_GUARD_AboutYou_2 = L'usuel. Protéger un politicien, un dragon...
+Plaza_GUARD_AboutYou_3 = Mais les choses ont changés après que j'ai échoué mes missions.
+Plaza_GUARD_AboutYou_4 = J'ai échoué, et j'ai été moqué pour mon incompétence.
+Plaza_GUARD_AboutYou_5 = Mais ce n'est pas important. J'ai une autre mission maintenant. Je dois stoper ce culte.
+
+Plaza_GUARD_AboutSect_1 = Le culte que je poursuit est spécialisé dans l'invocation.
+Plaza_GUARD_AboutSect_2 = Ils sont derrire une série d'attaques et de meurtres dans la région.
+Plaza_GUARD_AboutSect_3 = Leur but est le chaos purement et simplement.
+Plaza_GUARD_AboutSect_4 = Pourquoi donc ? Ils prient le dieu local du chaos : Le Seigneur Cerf.
+Plaza_GUARD_AboutSect_5 = Ils avaient l'air de vouloir le réinvoquer dans ce monde.
+Plaza_GUARD_AboutSect_6 = Mais bon. Maintenant qu'ils sont pour la plupart mort, nous devrions être en sécurité.
+
 
 # ---------------------------------------------------------
 # ----------------- Rickeyland - Quiz ---------------------
@@ -572,3 +623,4 @@ Mountains_Car_1 = Comment est-ce que cette voiture a finie là ?
 # --------------- Forteresse ------------------------------
 # ---------------------------------------------------------
 
+Fortress_Done = Je n'ai pas besoin d'enter à nouveau dans la forteresse.

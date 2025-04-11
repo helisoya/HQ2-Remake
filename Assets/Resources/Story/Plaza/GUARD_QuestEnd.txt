@@ -1,0 +1,8 @@
+# TODO
+
+
+
+
+variable(guardQuest;100)
+
+load(Plaza/GUARD_Default)
