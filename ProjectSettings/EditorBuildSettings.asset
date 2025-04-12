@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MG/HQ2/STS.unity
     guid: ee93a96ae1afd2a49ae59d5ccfd78ae3
+  - enabled: 1
+    path: Assets/Scenes/MG/HQ2/QTG.unity
+    guid: 26276784719e36b4ca2b17029304e719
   m_configObjects: {}

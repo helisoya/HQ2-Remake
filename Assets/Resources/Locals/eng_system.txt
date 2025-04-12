@@ -91,6 +91,8 @@ rules_HH_controls = Right / Left : Turn<br>Up / Down : Move
 rules_STS_goal = Score at least 300 points. You gain points by not hiting the salesman.
 rules_STS_controls = Click to shoot a knife
 
+rules_QTG_goal = Prevent the guard from killing you
+rules_QTG_controls = Click on the target to win
 
 
 game_life = HP : 

@@ -1,3 +1,5 @@
+setBackground(RickeyLandPalaceOutside)
+
 dialog(narrator;_;false;Palace_AttractionsDone_NoStamp_9)
 dialog(narrator;_;false;Palace_AttractionsDone_NoStamp_10)
 dialog([MC];_;false;Palace_AttractionsDone_NoStamp_11)

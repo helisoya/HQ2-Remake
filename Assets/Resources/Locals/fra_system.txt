@@ -87,7 +87,8 @@ rules_HH_controls = Droite / Gauche : Tourner<br>Haut / Bas : Se déplacer
 rules_STS_goal = Obtenez au moins 300 points. Vous gagnez des points en ne touchant pas le marchand.
 rules_STS_controls = Cliquez pour jeter un couteau.
 
-
+rules_QTG_goal = Empechez le garde de vous tirer dessus
+rules_QTG_controls = Cliquez sur la cible pour gagner
 
 game_life = HP : 
 game_player = Joueur :
