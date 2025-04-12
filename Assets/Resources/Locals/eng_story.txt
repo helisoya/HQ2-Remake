@@ -608,6 +608,50 @@ Souvenir_Waldo_ShopQuest2_8 = Take this stamp, it's a proof you 'bought' somethi
 Souvenir_Waldo_ShopQuest2_9 = That way, you won't get into trouble if you show up to the CEO's palace.
 
 # ---------------------------------------------------------
+# --------------- Rickeyland - Palace ---------------------
+# ---------------------------------------------------------
+
+Palace_Done = I don't have to enter the palace anymore.
+
+Palace_AttractionsNotDone_1 = Hey ! You need to complete the attractions before entering the palace.
+
+Palace_AttractionsDone_1 = This is it. The CEO's palace.
+Palace_AttractionsDone_2 = Harold's book should be waiting for me inside.
+Palace_AttractionsDone_3 = Am I sure to enter ? It could take a while...
+
+Palace_AttractionsDone_4 = Alright. Let's go ! What could go wrong ?
+Palace_AttractionsDone_5 = Hey ! Stop !
+Palace_AttractionsDone_6 = Did you finish the attractions ?
+Palace_AttractionsDone_7 = Yes, sir.
+Palace_AttractionsDone_8 = Okay I might be reconsidering...
+Palace_AttractionsDone_9 = Alright. One last check and you're free to enter the palace.
+Palace_AttractionsDone_10 = Did you buy something at the souvenir shop ? Show me your stamp.
+
+Palace_AttractionsDone_Stamp_1 = Of course. Here it is.
+Palace_AttractionsDone_Stamp_2 = So this is what Waldo was talking about...
+Palace_AttractionsDone_Stamp_3 = ....
+Palace_AttractionsDone_Stamp_4 = Alright. You can go.
+Palace_AttractionsDone_Stamp_5 = Have a pleasant time inside our great CEO's palace.
+Palace_AttractionsDone_Stamp_6 = Thank you...
+
+Palace_AttractionsDone_NoStamp_1 = My what ?
+Palace_AttractionsDone_NoStamp_2 = You didn't go to the souvenir shop ?
+Palace_AttractionsDone_NoStamp_3 = Uh...
+Palace_AttractionsDone_NoStamp_4 = How dare you ! You will be detained, now !
+Palace_AttractionsDone_NoStamp_5 = Not buying our great CEO's products is like spiting on his face !
+Palace_AttractionsDone_NoStamp_6 = You deserve death for such an insult !
+Palace_AttractionsDone_NoStamp_7 = What ?!
+Palace_AttractionsDone_NoStamp_8 = The guard is aiming at me with his gun. I need to act fast !
+
+Palace_AttractionsDone_NoStamp_9 = .... I managed to knock out the guard.
+Palace_AttractionsDone_NoStamp_10 = So buying souvenirs are mandatory here ?
+Palace_AttractionsDone_NoStamp_11 = What a strange place.
+Palace_AttractionsDone_NoStamp_12 = At least I can enter this place and end this.
+
+Palace_MainQuest4_1 = I enter the palace. Time to find Rickey.
+
+
+# ---------------------------------------------------------
 # ------------------- Marais ------------------------------
 # ---------------------------------------------------------
 

@@ -1,0 +1,5 @@
+fadeBg(1;true)
+
+dialog(narrator;_;false;Palace_MainQuest4_1)
+
+# TODO

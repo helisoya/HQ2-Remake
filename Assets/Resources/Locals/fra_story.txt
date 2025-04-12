@@ -613,6 +613,50 @@ Souvenir_Waldo_ShopQuest2_8 = Prenez ce cachet. C'est une preuve que vous avez f
 Souvenir_Waldo_ShopQuest2_9 = Vous n'aurez pas de problèmes si vous allez au palais du PDG maintenant.
 
 # ---------------------------------------------------------
+# --------------- Rickeyland - Palace ---------------------
+# ---------------------------------------------------------
+
+Palace_Done = Je n'ai plus besoin d'entrer dans le palais.
+
+Palace_AttractionsNotDone_1 = Eh ! Vous devez finir toutes les attractions avant d'entrer dans le palais.
+
+Palace_AttractionsDone_1 = Le voila. Le palais du PDG.
+Palace_AttractionsDone_2 = Le livre d'Harold devrait m'attendre à l'intérieur.
+Palace_AttractionsDone_3 = Suis-je sur de vouloir entrer ? Ca pourrait prendre du temps.
+
+Palace_AttractionsDone_4 = Très bien. Allons-y ! Qu'est ce qui pourrait mal se passer ?
+Palace_AttractionsDone_5 = Eh ! Stop !
+Palace_AttractionsDone_6 = Avez-vous fini les attractions ?
+Palace_AttractionsDone_7 = Oui, monsieur.
+Palace_AttractionsDone_8 = Ok, je regrette un peu...
+Palace_AttractionsDone_9 = Très bien. Une dernière vérification et vous pourrez entrer.
+Palace_AttractionsDone_10 = Avez-vous acheté quelque chose à la boutique de souvenir ? Montrez-moi votre cachet.
+
+Palace_AttractionsDone_Stamp_1 = Bien sur. Le voici.
+Palace_AttractionsDone_Stamp_2 = Waldo parlait donc de ça...
+Palace_AttractionsDone_Stamp_3 = ....
+Palace_AttractionsDone_Stamp_4 = Bien. Vous pouvez entrer.
+Palace_AttractionsDone_Stamp_5 = Passez un agréable moment dans le palais de notre grandiose PDG.
+Palace_AttractionsDone_Stamp_6 = Merci...
+
+Palace_AttractionsDone_NoStamp_1 = Mon quoi ?
+Palace_AttractionsDone_NoStamp_2 = Vous n'êtes pas allé à la boutique de souvenir ?
+Palace_AttractionsDone_NoStamp_3 = Euh...
+Palace_AttractionsDone_NoStamp_4 = Comment osez-vous ! Vous allez aller en prison, maintenant !
+Palace_AttractionsDone_NoStamp_5 = Ne pas acheter un produit de notre beau PDG, c'est comme si on lui crachait au visage !
+Palace_AttractionsDone_NoStamp_6 = Vous méritez la mort pour une telle insulte !
+Palace_AttractionsDone_NoStamp_7 = Quoi ?!
+Palace_AttractionsDone_NoStamp_8 = Le garde me vise avec son arme. Je dois agir, et vite !
+
+Palace_AttractionsDone_NoStamp_9 = .... J'ai réussit à assomer le garde.
+Palace_AttractionsDone_NoStamp_10 = Donc acheter des souvenirs c'est obligatioire ici ?
+Palace_AttractionsDone_NoStamp_11 = Quel endroit étrange...
+Palace_AttractionsDone_NoStamp_12 = Au moins je peux entrer à l'intérieur et en finir, maintenant.
+
+Palace_MainQuest4_1 = J'entre dans le palais. Il est temps de trouver Rickey.
+
+
+# ---------------------------------------------------------
 # ------------------- Marais ------------------------------
 # ---------------------------------------------------------
 
