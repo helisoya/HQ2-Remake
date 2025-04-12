@@ -10,3 +10,4 @@ horseRaceQuest -1
 shootSalesmanQuest -1
 shopQuest -1
 guardQuest -1
+shopAvailable 0

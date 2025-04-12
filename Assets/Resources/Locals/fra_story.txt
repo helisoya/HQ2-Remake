@@ -286,6 +286,81 @@ Vlatyr_ShopQuest1_9 = Bien. Je m'en vais. Dis bonjour au grand gaillard pour moi
 Vlatyr_ShopQuest1_10 = Le Chevalier disparait dans une rue adjacente. C'était génant.
 Vlatyr_ShopQuest1_11 = Je devrais retourner voir Waldo.
 
+Vlatyr_GUARD_Normal = Oh, salut !
+
+Vlatyr_GUARD_QuestStart_1 = Oh ! Eh, vous !
+Vlatyr_GUARD_QuestStart_2 = vous êtes le type de l'année dernière, pas vrai ?
+Vlatyr_GUARD_QuestStart_3 = Oh, oui. Je me souviens de vous.
+Vlatyr_GUARD_QuestStart_4 = C'était quoi son nom déja ? GARDE ou un truc du genre ?
+Vlatyr_GUARD_QuestStart_5 = Il protégait la forteresse du dragon. Je lui ai menti pour entrer à l'intérieur.
+Vlatyr_GUARD_QuestStart_6 = J'espère qu'il ne m'en veut pas pour avoir tué le dragon.
+Vlatyr_GUARD_QuestStart_7 = C'était décevant, vraiment.
+Vlatyr_GUARD_QuestStart_8 = ... Oui...
+Vlatyr_GUARD_QuestStart_9 = Vous étiez venu rendre hommage au Seigneur Braise. Et il a été tué par ce vil samurai.
+Vlatyr_GUARD_QuestStart_10 = Quoi ? Il crois que je suis innocent ? Parfait !
+Vlatyr_GUARD_QuestStart_11 = Enfin bon. J'ai décidé après ça de partir dans une petite aventure.
+Vlatyr_GUARD_QuestStart_12 = En fait, vous pourriez même m'aider si ça vous intéresse.
+Vlatyr_GUARD_QuestStart_13 = Ca se peut. Qu'avez-vouen tête ?
+Vlatyr_GUARD_QuestStart_14 = Vous vous souvenez du politicien dont je vous avais parlé ? Celui qui avait été tué ?
+Vlatyr_GUARD_QuestStart_15 = J'ai décidé de mener l'enquête sur ce culte qu'il poursuivait.
+Vlatyr_GUARD_QuestStart_16 = J'ai voyagé dans le continent, allant jusqu'à la lointaine ville de Kalia.
+Vlatyr_GUARD_QuestStart_17 = Au final, j'ai réussit à localiser le culte dans la vielle forteresse du dragon.
+Vlatyr_GUARD_QuestStart_18 = J'ai, enfin... il je suppose, a ensuite décidé d'en finir avec ce culte une bonne fois pour toute.
+Vlatyr_GUARD_QuestStart_19 = Il ? 
+Vlatyr_GUARD_QuestStart_20 = Un ami que j'ai rencontré à Kalia.
+Vlatyr_GUARD_QuestStart_21 = Mais plus important. Vous voulez dire que vous avez...
+Vlatyr_GUARD_QuestStart_22 = Causé la destruction de la forteresse ? Oui.
+Vlatyr_GUARD_QuestStart_23 = Les cultistes étaient tous regroupés pour une sorte de congrès.
+Vlatyr_GUARD_QuestStart_24 = On est rentré discrètement, et on a fait exploser une bombe.
+Vlatyr_GUARD_QuestStart_25 = On a réussit à tous les tuer. Enfin, c'est ce qu'on pensait...
+Vlatyr_GUARD_QuestStart_26 = Certains ont survécu ?
+Vlatyr_GUARD_QuestStart_27 = C'est ce que je pense.
+Vlatyr_GUARD_QuestStart_28 = Il y a quelques jours, une de leurs entreprise de facade à soudainement été relocalisée.
+Vlatyr_GUARD_QuestStart_29 = Et les morts ne peuvent pas faire ça au dernières nouvelles.
+Vlatyr_GUARD_QuestStart_30 = Donc c'est la que vous entrez en jeu.
+Vlatyr_GUARD_QuestStart_31 = Je dois garder un oeil sur ces entreprises. Mais j'ai aussi besoin de vérifier quelque chose.
+Vlatyr_GUARD_QuestStart_32 = Comme il semblerait que nous ayons raté des cultistes. J'aimerai que vous enquetiez à la vielle forteresse.
+Vlatyr_GUARD_QuestStart_33 = Si vous trouvez quelque chose hors de l'ordinaire, dites-le moi. N'importe quel indice peut être vital.
+Vlatyr_GUARD_QuestStart_34 = Très bien. J'ai ma propre mission, mais je vais voir ce que je peux faire pour vous.
+Vlatyr_GUARD_QuestStart_35 = Merci ! J'apprecie votre geste.
+
+Vlatyr_GUARD_AboutYou_1 = Je suis GARDE. J'étais un simple garde du corps il y a un an.
+Vlatyr_GUARD_AboutYou_2 = L'usuel. Protéger un politicien, un dragon...
+Vlatyr_GUARD_AboutYou_3 = Mais les choses ont changés après que j'ai échoué mes missions.
+Vlatyr_GUARD_AboutYou_4 = J'ai échoué, et j'ai été moqué pour mon incompétence.
+Vlatyr_GUARD_AboutYou_5 = Mais ce n'est pas important. J'ai une autre mission maintenant. Je dois stoper ce culte.
+
+Vlatyr_GUARD_AboutSect_1 = Le culte que je poursuit est spécialisé dans l'invocation.
+Vlatyr_GUARD_AboutSect_2 = Ils sont derrire une série d'attaques et de meurtres dans la région.
+Vlatyr_GUARD_AboutSect_3 = Leur but est le chaos purement et simplement.
+Vlatyr_GUARD_AboutSect_4 = Pourquoi donc ? Ils prient le dieu local du chaos : Le Seigneur Cerf.
+Vlatyr_GUARD_AboutSect_5 = Ils avaient l'air de vouloir le réinvoquer dans ce monde.
+Vlatyr_GUARD_AboutSect_6 = Mais bon. Maintenant qu'ils sont pour la plupart mort, nous devrions être en sécurité.
+
+Vlatyr_GUARD_QuestEnd_1 = Oh, salut ! Vous avez eu de la chance ?
+Vlatyr_GUARD_QuestEnd_2 = Oui. J'ai trouvé qu'au moins un des cultistes a réussit à fuir.
+Vlatyr_GUARD_QuestEnd_3 = Ah, c'est ce que je craignait...
+Vlatyr_GUARD_QuestEnd_4 = Autre chose ?
+Vlatyr_GUARD_QuestEnd_5 = J'ai aussi trouvé cet étrange collier. Je me suis dit que vous saviez peut être ce que c'était.
+Vlatyr_GUARD_QuestEnd_6 = Voyons voir.
+Vlatyr_GUARD_QuestEnd_7 = Hmm.......
+Vlatyr_GUARD_QuestEnd_8 = Je vois.... Curieux....
+Vlatyr_GUARD_QuestEnd_9 = On dirais un collier de rituel.
+Vlatyr_GUARD_QuestEnd_10 = J'ai entendu dire qu'il empechait l'invocation d'entités.
+Vlatyr_GUARD_QuestEnd_11 = Vous le mettez, et les invocateurs alentours ne pourront plus invoquer quoi que ce soit.
+Vlatyr_GUARD_QuestEnd_12 = En fait, vous pouvez le garder. J'ai l'impression que vous en aurez besoin un jour.
+Vlatyr_GUARD_QuestEnd_13 = Et vous ?
+Vlatyr_GUARD_QuestEnd_14 = Une facade du culte a commencé à se relocaliser. Je vais intervenir.
+Vlatyr_GUARD_QuestEnd_15 = Je suppose que je vais y aller maintenant. C'était sympa de vous revoir.
+Vlatyr_GUARD_QuestEnd_16 = De même. C'était intéressant.
+Vlatyr_GUARD_QuestEnd_17 = GARDE me dit au revoir, et quitte la rue.
+Vlatyr_GUARD_QuestEnd_18 = Quel étrange personnage. Mais je suppose qu'il y a sa propre mission à remplir.
+Vlatyr_GUARD_QuestEnd_19 = Je regarde le collier. Mais que vais-je faire avec ?
+Vlatyr_GUARD_QuestEnd_20 = Peut être que je peux le mettre pour qu'Harold ne puisse pas m'invoquer une troisième fois.
+Vlatyr_GUARD_QuestEnd_21 = ... Ca ne marcherait pas... Dans tout les cas, je devrais y aller. 
+Vlatyr_GUARD_QuestEnd_22 = Je met le collier pour l'instant.
+
+
 # ---------------------------------------------------------
 # -------------- Chez Marcel ------------------------------
 # ---------------------------------------------------------
@@ -356,6 +431,11 @@ RickeyLandEntrance_MainQuest2_14 = Ma première tache est de finir les quatres a
 RickeyLandEntrance_MainQuest2_15 = Après ça, je dois obtenir le grimoire d'Harold avant que quelqu'un d'autre l'obtienne. Ou pire, que Rickey découvre son secret.
 RickeyLandEntrance_MainQuest2_16 = Je peux sortir de RickeyLand en intéragissant avec la porte d'entrée.
 
+# ---------------------------------------------------------
+# ------------------ Rickeyland - Gate --------------------
+# ---------------------------------------------------------
+
+Gate_NoExit_1 = Je ne peux pas partir maintenant.
 
 # ---------------------------------------------------------
 # ------------------ Rickeyland - Plaza -------------------
@@ -370,79 +450,7 @@ Plaza_Horse_6 = Merci, merci !
 Plaza_Horse_7 = Je ne vais pas me faire gronder par le PDG maintenant.
 Plaza_Horse_8 = Si vous voulez, vous pouvez dès à présent participer à l'attraction.
 
-Plaza_GUARD_Normal = Oh, salut !
 
-Plaza_GUARD_QuestStart_1 = Oh ! Eh, vous !
-Plaza_GUARD_QuestStart_2 = vous êtes le type de l'année dernière, pas vrai ?
-Plaza_GUARD_QuestStart_3 = Oh, oui. Je me souviens de vous.
-Plaza_GUARD_QuestStart_4 = C'était quoi son nom déja ? GARDE ou un truc du genre ?
-Plaza_GUARD_QuestStart_5 = Il protégait la forteresse du dragon. Je lui ai menti pour entrer à l'intérieur.
-Plaza_GUARD_QuestStart_6 = J'espère qu'il ne m'en veut pas pour avoir tué le dragon.
-Plaza_GUARD_QuestStart_7 = C'était décevant, vraiment.
-Plaza_GUARD_QuestStart_8 = ... Oui...
-Plaza_GUARD_QuestStart_9 = Vous étiez venu rendre hommage au Seigneur Braise. Et il a été tué par ce vil samurai.
-Plaza_GUARD_QuestStart_10 = Quoi ? Il crois que je suis innocent ? Parfait !
-Plaza_GUARD_QuestStart_11 = Enfin bon. J'ai décidé après ça de partir dans une petite aventure.
-Plaza_GUARD_QuestStart_12 = En fait, vous pourriez même m'aider si ça vous intéresse.
-Plaza_GUARD_QuestStart_13 = Ca se peut. Qu'avez-vouen tête ?
-Plaza_GUARD_QuestStart_14 = Vous vous souvenez du politicien dont je vous avais parlé ? Celui qui avait été tué ?
-Plaza_GUARD_QuestStart_15 = J'ai décidé de mener l'enquête sur ce culte qu'il poursuivait.
-Plaza_GUARD_QuestStart_16 = J'ai voyagé dans le continent, allant jusqu'à la lointaine ville de Kalia.
-Plaza_GUARD_QuestStart_17 = Au final, j'ai réussit à localiser le culte dans la vielle forteresse du dragon.
-Plaza_GUARD_QuestStart_18 = J'ai, enfin... il je suppose, a ensuite décidé d'en finir avec ce culte une bonne fois pour toute.
-Plaza_GUARD_QuestStart_19 = Il ? 
-Plaza_GUARD_QuestStart_20 = Un ami que j'ai rencontré à Kalia.
-Plaza_GUARD_QuestStart_21 = Mais plus important. Vous voulez dire que vous avez...
-Plaza_GUARD_QuestStart_22 = Causé la destruction de la forteresse ? Oui.
-Plaza_GUARD_QuestStart_23 = Les cultistes étaient tous regroupés pour une sorte de congrès.
-Plaza_GUARD_QuestStart_24 = On est rentré discrètement, et on a fait exploser une bombe.
-Plaza_GUARD_QuestStart_25 = On a réussit à tous les tuer. Enfin, c'est ce qu'on pensait...
-Plaza_GUARD_QuestStart_26 = Certains ont survécu ?
-Plaza_GUARD_QuestStart_27 = C'est ce que je pense.
-Plaza_GUARD_QuestStart_28 = Il y a quelques jours, une de leurs entreprise de facade à soudainement été relocalisée.
-Plaza_GUARD_QuestStart_29 = Et les morts ne peuvent pas faire ça au dernières nouvelles.
-Plaza_GUARD_QuestStart_30 = Donc c'est la que vous entrez en jeu.
-Plaza_GUARD_QuestStart_31 = Je dois garder un oeil sur ces entreprises. Mais j'ai aussi besoin de vérifier quelque chose.
-Plaza_GUARD_QuestStart_32 = Comme il semblerait que nous ayons raté des cultistes. J'aimerai que vous enquetiez à la vielle forteresse.
-Plaza_GUARD_QuestStart_33 = Si vous trouvez quelque chose hors de l'ordinaire, dites-le moi. N'importe quel indice peut être vital.
-Plaza_GUARD_QuestStart_34 = Très bien. J'ai ma propre mission, mais je vais voir ce que je peux faire pour vous.
-Plaza_GUARD_QuestStart_35 = Merci ! J'apprecie votre geste.
-
-Plaza_GUARD_AboutYou_1 = Je suis GARDE. J'étais un simple garde du corps il y a un an.
-Plaza_GUARD_AboutYou_2 = L'usuel. Protéger un politicien, un dragon...
-Plaza_GUARD_AboutYou_3 = Mais les choses ont changés après que j'ai échoué mes missions.
-Plaza_GUARD_AboutYou_4 = J'ai échoué, et j'ai été moqué pour mon incompétence.
-Plaza_GUARD_AboutYou_5 = Mais ce n'est pas important. J'ai une autre mission maintenant. Je dois stoper ce culte.
-
-Plaza_GUARD_AboutSect_1 = Le culte que je poursuit est spécialisé dans l'invocation.
-Plaza_GUARD_AboutSect_2 = Ils sont derrire une série d'attaques et de meurtres dans la région.
-Plaza_GUARD_AboutSect_3 = Leur but est le chaos purement et simplement.
-Plaza_GUARD_AboutSect_4 = Pourquoi donc ? Ils prient le dieu local du chaos : Le Seigneur Cerf.
-Plaza_GUARD_AboutSect_5 = Ils avaient l'air de vouloir le réinvoquer dans ce monde.
-Plaza_GUARD_AboutSect_6 = Mais bon. Maintenant qu'ils sont pour la plupart mort, nous devrions être en sécurité.
-
-Plaza_GUARD_QuestEnd_1 = Oh, salut ! Vous avez eu de la chance ?
-Plaza_GUARD_QuestEnd_2 = Oui. J'ai trouvé qu'au moins un des cultistes a réussit à fuir.
-Plaza_GUARD_QuestEnd_3 = Ah, c'est ce que je craignait...
-Plaza_GUARD_QuestEnd_4 = Autre chose ?
-Plaza_GUARD_QuestEnd_5 = J'ai aussi trouvé cet étrange collier. Je me suis dit que vous saviez peut être ce que c'était.
-Plaza_GUARD_QuestEnd_6 = Voyons voir.
-Plaza_GUARD_QuestEnd_7 = Hmm.......
-Plaza_GUARD_QuestEnd_8 = Je vois.... Curieux....
-Plaza_GUARD_QuestEnd_9 = On dirais un collier de rituel.
-Plaza_GUARD_QuestEnd_10 = J'ai entendu dire qu'il empechait l'invocation d'entités.
-Plaza_GUARD_QuestEnd_11 = Vous le mettez, et les invocateurs alentours ne pourront plus invoquer quoi que ce soit.
-Plaza_GUARD_QuestEnd_12 = En fait, vous pouvez le garder. J'ai l'impression que vous en aurez besoin un jour.
-Plaza_GUARD_QuestEnd_13 = Et vous ?
-Plaza_GUARD_QuestEnd_14 = Une facade du culte a commencé à se relocaliser. Je vais intervenir.
-Plaza_GUARD_QuestEnd_15 = Je suppose que je vais y aller maintenant. C'était sympa de vous revoir.
-Plaza_GUARD_QuestEnd_16 = De même. C'était intéressant.
-Plaza_GUARD_QuestEnd_17 = GARDE me dit au revoir, et quitte la place.
-Plaza_GUARD_QuestEnd_18 = Quel étrange personnage. Mais je suppose qu'il y a sa propre mission à remplir.
-Plaza_GUARD_QuestEnd_19 = Je regarde le collier. Mais que vais-je faire avec ?
-Plaza_GUARD_QuestEnd_20 = Peut être que je peux le mettre pour qu'Harold ne puisse pas m'invoquer une troisième fois.
-Plaza_GUARD_QuestEnd_21 = ... Ca ne marcherait pas... Dans tout les cas, je devrais y aller. 
-Plaza_GUARD_QuestEnd_22 = Je met le collier pour l'instant.
 
 # ---------------------------------------------------------
 # ----------------- Rickeyland - Quiz ---------------------
@@ -654,7 +662,88 @@ Palace_AttractionsDone_NoStamp_11 = Quel endroit étrange...
 Palace_AttractionsDone_NoStamp_12 = Au moins je peux entrer à l'intérieur et en finir, maintenant.
 
 Palace_MainQuest4_1 = J'entre dans le palais. Il est temps de trouver Rickey.
-
+Palace_MainQuest4_2 = L'endroit est immense. C'est assez compliqué de trouver le PDG.
+Palace_MainQuest4_3 = Mais j'arrive à le trouver dans une sorte de salle du trone.
+Palace_MainQuest4_4 = Qui êtes-vous ?
+Palace_MainQuest4_5 = J-
+Palace_MainQuest4_6 = Ne dites rien ! Vous avez réussit à finir mes magnifiques attractions ?
+Palace_MainQuest4_7 = Euh... Oui !
+Palace_MainQuest4_8 = Incroyable ! Vous êtes un visiteur d'exception ! Ah Ah !
+Palace_MainQuest4_9 = Comme décrit dans les règles, vous avez gagné le prix ! Bravo !
+Palace_MainQuest4_10 = Vous avez gagné ce magnifique livre.
+Palace_MainQuest4_11 = Je n'ai aucune idée de ce que c'est. Mais je suis sur que c'est une bonne lecture. Ah Ah !
+Palace_MainQuest4_12 = Le grimoire d'Harold. J'ai enfin réussit à l'obtenir...
+Palace_MainQuest4_13 = Très bien ! Je vais même vous donner mon autographe.
+Palace_MainQuest4_14 = A qui vais-je le dédicacer ?
+Palace_MainQuest4_15 = Oh ! Euh... Harold je suppose ?
+Palace_MainQuest4_16 = Je ne veux pas que mon nom soit sur le livre d'Harold. Ca pourrait me maudir à jamais.
+Palace_MainQuest4_17 = HAROLD ?!
+Palace_MainQuest4_18 = Q- Quoi ?!
+Palace_MainQuest4_19 = JE DETESTE HAROLD ! IL M'A HUMILIE !
+Palace_MainQuest4_20 = Oh....
+Palace_MainQuest4_21 = J'aurais du m'en douter... J'ai fait une bétise...
+Palace_MainQuest4_22 = Comment osez-vous prononcer son nom devant moi !
+Palace_MainQuest4_23 = Je comprend maintenant. Harold t'as envoyé récupérer son livre !
+Palace_MainQuest4_24 = Et bien... Je veux dire...
+Palace_MainQuest4_25 = Ah Ah ! Ca va être marrant !
+Palace_MainQuest4_26 = A- Attendez un instant !
+Palace_MainQuest4_27 = Je vais te torturer. Et ensuite, je vais te renvoyer à Harold en pieces !
+Palace_MainQuest4_28 = J'AURAIS MA VENGEANCE !
+Palace_MainQuest4_29 = Il est fou !
+Palace_MainQuest4_30 = Je dois m'échapper, vite !
+Palace_MainQuest4_31 = Tu essais de fuir ? TROP TARD !
+Palace_MainQuest4_32 = Rickey me frappe si fort, que je tombe dans l'inconscience immédiatement.
+Palace_MainQuest4_33 = .........
+Palace_MainQuest4_34 = J'ouvre mes yeux. Je suis attaché à une sorte de machine de torture.
+Palace_MainQuest4_35 = Reveillé ? Bien.
+Palace_MainQuest4_36 = Tu vois, j'ai quelque chose que j'aimerai savoir sur Harold.
+Palace_MainQuest4_37 = En fait, il y en a beaucoup de choses que j'aimerai savoir.
+Palace_MainQuest4_38 = Qui est Harold ?
+Palace_MainQuest4_39 = Ou vit Harold ?
+Palace_MainQuest4_40 = Comment est-il aussi fort ?
+Palace_MainQuest4_41 = Et le plus important : Comment à-t-il vielli aussi rapidement.
+Palace_MainQuest4_42 = L'année dernière, nous nous sommes battu. J'ai été vaincu par un maléfique acrobate.
+Palace_MainQuest4_43 = Plus tard, nous nous sommes battu à nouveau. Mais cette fois, il était vieux.
+Palace_MainQuest4_44 = Je veux savoir son secret ! Comment a-t-il fait cela ?!
+Palace_MainQuest4_45 = Je pourrais utiliser cette information pour améliorer mes robots;
+Palace_MainQuest4_46 = Quoi ? Vos robots ?
+Palace_MainQuest4_47 = La ferme ! Tu dois répondre à mes questions, pas en poser.
+Palace_MainQuest4_48 = Donc répond ! Quels sont les secrets d'Harold ?
+Palace_MainQuest4_49 = Je n'ai aucune idée de ce que vous voulez dire !
+Palace_MainQuest4_50 = Grr... Je vais devoir te zaper quelques fois.
+Palace_MainQuest4_51 = Je serais bientôt de retour ! Ne bouge pas...
+Palace_MainQuest4_52 = .........
+Palace_MainQuest4_53 = Oh non... Que vais-je faire ?
+Palace_MainQuest4_54 = Je ne peux pas me sortir d'ici. Est-ce la fin ?
+Palace_MainQuest4_55 = ... Ah ! Vous voila !
+Palace_MainQuest4_56 = Waldo entre dans la salle. Pourquoi est-il la ?
+Palace_MainQuest4_57 = Vite ! Le PDG va bientôt revenir. Allons-y.
+Palace_MainQuest4_58 = Pourquoi m'aider ?
+Palace_MainQuest4_59 = Plus tard ! Nous devons sortir de cet endroit.
+Palace_MainQuest4_60 = Je suis Harold à l'exterieur.
+Palace_MainQuest4_61 = J'ai extrêment mal. Rickey à du me frapper très fort.
+Palace_MainQuest4_62 = Waldo me guide jusqu'à la boutique de souvenir.
+Palace_MainQuest4_63 = Bien. Nous devrions être en sécurité ici. Il n'y a pas de gardes et pas de cameras.
+Palace_MainQuest4_64 = Je suppose que je vous dois quelques explications, pas vrai ?
+Palace_MainQuest4_65 = Oui... C'était quoi ça ?
+Palace_MainQuest4_66 = Le PDG déteste un type nommé Harold. Je ne sais pas pourquoi cependant.
+Palace_MainQuest4_67 = Vu la façon dont il en parle, il doit confondre deux personnes.
+Palace_MainQuest4_68 = Vous avez du mentioner Harold devant lui ? Ou alors vous vous appelez Harold ?
+Palace_MainQuest4_69 = Non, non. Je viens de la part d'un viellard appelé Harold.
+Palace_MainQuest4_70 = Ah... Harold. Je n'ai pas vu ce bon viellard depuis quelques temps.
+Palace_MainQuest4_71 = Vous le connaissez ?
+Palace_MainQuest4_72 = Nous étions partenaires il y a quelques années. Il m'a aidé quand j'avais des problèmes.
+Palace_MainQuest4_73 = Je vois...
+Palace_MainQuest4_74 = Mais que faire maintenant ? Je dois obtenir le livre, et les gardes sont surement en train de me chercher.
+Palace_MainQuest4_75 = Oui, et bien... Je pense pouvoir vous aider avec ça.
+Palace_MainQuest4_76 = J'ai assé d'autorité pour rediriger les gardes loin du palais.
+Palace_MainQuest4_77 = Comme ça, vous pourrez entrer à l'intérieur sans avoir à vous préocuper d'eux.
+Palace_MainQuest4_78 = Mais sinon, pourquoi m'aidez vous ?
+Palace_MainQuest4_79 = Et bien... La gestion du parc laisse à désirer.
+Palace_MainQuest4_80 = Et puis, je n'aime pas l'idée de torturer notre seul visiteur de la journée...
+Palace_MainQuest4_81 = Donc je cherche plus à sauvegarder l'image du parc. Enfin, ce qu'il en reste...
+Palace_MainQuest4_82 = Je vois... Et bien, merci pour l'aide.
+Palace_MainQuest4_83 = Si vous avez besoin de quelque chose, je serais ici.
 
 # ---------------------------------------------------------
 # ------------------- Marais ------------------------------

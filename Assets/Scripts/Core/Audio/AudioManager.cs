@@ -60,9 +60,9 @@ public class AudioManager : MonoBehaviour
     public void PlaySong(string songName, float maxVolume = 1f, float pitch = 1f, float startingVolume = 0f, bool playOnStart = true, bool loop = true)
     {
         AudioClip song = Resources.Load<AudioClip>("Audio/Music/" + songName);
-        if (activeSong != null && activeSong.clip == song) return;
+        if (activeSong != null && activeSong.clipName.Equals(songName)) return;
 
-        print("Loading song : " + song);
+        print("Loading song : " + songName + "Previous : " + activeSong?.clipName + " - " + activeSong?.clipName.Equals(songName));
 
         if (song != null)
         {

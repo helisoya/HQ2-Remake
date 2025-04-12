@@ -1,4 +1,3 @@
 setInteractionChapter(Exit;MAP-RickeyLand-HauntedHouse)
-setInteractionChapter(Waldo;HauntedHouse/Waldo_Enter)
 
 interact

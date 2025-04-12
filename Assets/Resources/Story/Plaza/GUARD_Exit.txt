@@ -1,8 +1,0 @@
-setCharacterAlpha(GUARD;0;true)
-
-setCharacterPosition(GUARD;FrontStatue)
-setCharacterRotation(GUARD;FrontStatue)
-
-setCharacterAlpha(GUARD;1;false)
-
-load(Plaza/Interaction)

@@ -1,4 +1,5 @@
 variable(shopQuest;0)
+variable(shopAvailable;1)
 
 dialog(Waldo;Waldo;false;Quiz_Waldo_End_Souvenir_1)
 dialog(Waldo;Waldo;false;Quiz_Waldo_End_Souvenir_2)

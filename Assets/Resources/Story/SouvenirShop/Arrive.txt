@@ -1,4 +1,6 @@
-playMusic(Exploration_Rickey)
+if(mainQuest != 5) playMusic(Exploration_Rickey)
+if(mainQuest = 5) playMusic(Exploration2_Rickey)
+
 removeAllCharacters()
 setBackground(RickeyLandSouvenirInside)
 

@@ -1,4 +1,5 @@
 variable(shopQuest;0)
+variable(shopAvailable;1)
 
 dialog(Salesman;Salesman;false;Salesman_Salesman_End_Souvenir_1)
 dialog(Salesman;Salesman;false;Salesman_Salesman_End_Souvenir_2)

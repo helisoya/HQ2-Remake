@@ -1,6 +1,0 @@
-addCharacter(GUARD;false)
-setCharacterPosition(GUARD;FrontStatue)
-setCharacterRotation(GUARD;FrontStatue)
-setInteractionChapter(GUARD;Plaza/GUARD_Enter)
-
-load(Plaza/Interaction)
