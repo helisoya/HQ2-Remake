@@ -814,6 +814,43 @@ Palace_MainQuest5_71 = I know ! I'll sing a rap so great it will kill you !
 Palace_MainQuest5_72 = Uh ?
 Palace_MainQuest5_73 = I don't event have time to process this. Rickey is already starting to sing.
 
+Palace_MainQuest5_74 = RHA ! STOP RUINING MY RAP !
+Palace_MainQuest5_75 = I'll break you ! I'll kill you, Harold !
+Palace_MainQuest5_76 = I'l-
+Palace_MainQuest5_77 = AH ! NOOOOOOOOOOOOOOOOOOOOOOOO !
+Palace_MainQuest5_78 = Wha-
+Palace_MainQuest5_79 = Rickey triped over the balcony and fell down head first into the ground.
+Palace_MainQuest5_80 = ..... Uhm....
+Palace_MainQuest5_81 = He's... dead ?
+Palace_MainQuest5_82 = Oh....... Oops ?
+Palace_MainQuest5_83 = I... I guess that means I can take the grimoire back ?
+Palace_MainQuest5_84 = I search Rickey's body. And sure enough, I find the grimoire.
+Palace_MainQuest5_85 = It feels wrong to do thing though...
+Palace_MainQuest5_86 = What do I do now ? I might end up in prison for this.
+Palace_MainQuest5_87 = What's going on here ?
+Palace_MainQuest5_88 = Waldo ! I.. I mean... The CEO...
+Palace_MainQuest5_89 = Oh... Oh no.
+Palace_MainQuest5_90 = Well... I guess I'll have to take over RickeyLand for now then.
+Palace_MainQuest5_91 = I suppose it was an accident ? Doesn't surprise me honestly.
+Palace_MainQuest5_92 = .. He believes me...
+Palace_MainQuest5_93 = Did you get what you wanted ?
+Palace_MainQuest5_94 = Yes. I got the book Harold wanted.
+Palace_MainQuest5_95 = Good. Now you should go back and give it to him.
+Palace_MainQuest5_96 = I'm sure he's waiting for you.
+Palace_MainQuest5_97 = Yeah. I'm sorry for the mess I caused...
+Palace_MainQuest5_98 = Meh, don't sweat it. I was kind of prepared for that.
+Palace_MainQuest5_99 = Rickey was always arrogant. It was only a matter of time before it came back to bite him.
+Palace_MainQuest5_100 = Sadly, I'll have to ask you to leave. I'm closing the park for now.
+Palace_MainQuest5_101 = I need to clean up this mess. And recreate an image for the park.
+Palace_MainQuest5_102 = Maybe I'll even change the name ? I'll see.
+Palace_MainQuest5_103 = Alright, I'll be off then. It was nice to meet you.
+Palace_MainQuest5_104 = Likewise.
+Palace_MainQuest5_105 = I say goodbye, then exit the palace.
+Palace_MainQuest5_106 = Once outside, I exit the park.
+Palace_MainQuest5_107 = It's finally over...
+Palace_MainQuest5_108 = I just need to give the book back to Harold, and then he'll bring me back home.
+Palace_MainQuest5_109 = Let's go !
+
 
 # ---------------------------------------------------------
 # ------------------- Marais ------------------------------

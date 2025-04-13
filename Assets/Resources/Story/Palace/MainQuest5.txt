@@ -102,6 +102,7 @@ setCharacterRotation(Rickey;Front)
 setCharacterEye(Rickey;Angry)
 setCharacterMouth(Rickey;Angry)
 setCharacterAlpha(Rickey;1;false)
+removeCharacter(Rick0)
 playMusic(Rickey_Angry)
 
 dialog(Rickey;Rickey;false;Palace_MainQuest5_48)

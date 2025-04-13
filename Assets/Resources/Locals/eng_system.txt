@@ -94,6 +94,9 @@ rules_STS_controls = Click to shoot a knife
 rules_QTG_goal = Prevent the guard from killing you
 rules_QTG_controls = Click on the target to win
 
+rules_BRR_goal = Disrupt Rickey's rap
+rules_BRR_controls = Space : Yell
+
 
 game_life = HP : 
 game_player = Player :
@@ -156,6 +159,58 @@ WQ_Question6_1 = A panzer
 WQ_Question6_2 = A free meal
 WQ_Question6_3 = Money
 WQ_Question6_4 = A book
+
+BRR_0 = I'm the greatest CEO !
+BRR_1 = Handsome, cool, and of course, rich !
+BRR_2 = Unlike you, I got a superb park !
+
+BRR_3 = Wonderful, Wonderful RickeyLand !
+BRR_4 = What a perfect creation !
+BRR_5 = Under the beautiful leadership of me, Rickey !
+BRR_6 = I'll get richer in no time, just you watch !
+
+BRR_7 = Step one to becoming rich : Cuts.
+BRR_8 = Just fire everyone ! It's cheaper !
+BRR_9 = Natasha, gone ! I only need Waldo anyway.
+BRR_10 = Need helping hands ? Use the security guards !
+BRR_11 = Only them are necessary here !
+BRR_12 = My plan is perfect, I'm already becoming richer !
+
+BRR_13 = Wonderful, Wonderful RickeyLand !
+BRR_14 = What a perfect creation !
+BRR_15 = Under the beautiful leadership of me, Rickey !
+BRR_16 = I'll get richer in no time, just you watch !
+
+BRR_17 = Step two : Prizes.
+BRR_18 = People don't want to come ?
+BRR_19 = Your park is deemed "unfriendly" ?
+BRR_20 = Just promise a reward if they come !
+BRR_21 = Look at them, rushing here just to get some old book !
+BRR_22 = I'm a genius ! A rich genius !
+
+BRR_23 = Wonderful, Wonderful RickeyLand !
+BRR_24 = What a perfect creation !
+BRR_25 = Under the beautiful leadership of me, Rickey !
+BRR_26 = I'll get richer in no time, just you watch !
+
+BRR_27 = Step three : Panzers !
+BRR_28 = Let's be real, aren't they cool ?
+BRR_29 = Not only you can drive fast, but you can also fire !
+BRR_30 = No more haters ! They're all dead !
+BRR_31 = And with no haters, come more money !
+
+BRR_32 = Wonderful, Wonderful RickeyLand !
+BRR_33 = What a perfect creation !
+BRR_34 = Under the beautiful leadership of me, Rickey !
+BRR_35 = I'll get richer in no time, just you watch !
+
+BRR_36 = Final step : The Cyber-CEOs !
+BRR_37 = With them, I'll be able to take of the world !
+BRR_38 = Everyone will come to RickeyLand !
+BRR_39 = I'll even create the ultimate park : RickeyWorld !
+BRR_40 = Ah Ah ! I'm so great ! I'm so cool !
+ 
+
 
 # ------------------------------------------------------------------------
 # ----------------------------- Map --------------------------------------

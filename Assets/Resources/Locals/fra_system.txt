@@ -90,6 +90,9 @@ rules_STS_controls = Cliquez pour jeter un couteau.
 rules_QTG_goal = Empechez le garde de vous tirer dessus
 rules_QTG_controls = Cliquez sur la cible pour gagner
 
+rules_BRR_goal = Dérangez le rap de Rickey
+rules_BRR_controls = Espace : Crier
+
 game_life = HP : 
 game_player = Joueur :
 
@@ -153,6 +156,56 @@ WQ_Question6_2 = Un repas gratuit
 WQ_Question6_3 = De l'argent
 WQ_Question6_4 = Un livre
 
+
+BRR_0 = Je suis le plus grand PDG !
+BRR_1 = Beau, cool, et bien sur, riche !
+BRR_2 = Contrairement à toi, j'ai un superbe parc !
+
+BRR_3 = Magnifique, Magnifique RickeyLand !
+BRR_4 = Quelle création parfaite !
+BRR_5 = Sous la magnifique direction de moi, Rickey !
+BRR_6 = Je vais devenir riche en un rien de temps, regarde !
+
+BRR_7 = Première étape vers la richesse : Les coupes.
+BRR_8 = Vires tout le monde ! C'est moins cher !
+BRR_9 = Natasha, dégages ! Je n'ai besoin que de Waldo de toute façon.
+BRR_10 = Besoin de bras ? Utilise les gardes !
+BRR_11 = Ce sont les seuls êtres importants de ce parc !
+BRR_12 = Mon plan est parfait. Je deviens déjà plus riche !
+
+BRR_13 = Magnifique, Magnifique RickeyLand !
+BRR_14 = Quelle création parfaite !
+BRR_15 = Sous la magnifique direction de moi, Rickey !
+BRR_16 = Je vais devenir riche en un rien de temps, regarde !
+
+BRR_17 = Deuxième étape : Des prix.
+BRR_18 = Les gens ne veulent pas venir ?
+BRR_19 = Ton parc est dis "a éviter" ?
+BRR_20 = Promet une récompence s'ils viennent !
+BRR_21 = Regardes les, venir courrir juste pour un vieux bouquin !
+BRR_22 = Je suis un génie ! Un génie riche !
+
+BRR_23 = Magnifique, Magnifique RickeyLand !
+BRR_24 = Quelle création parfaite !
+BRR_25 = Sous la magnifique direction de moi, Rickey !
+BRR_26 = Je vais devenir riche en un rien de temps, regarde !
+
+BRR_27 = Troisième étape : Les panzers !
+BRR_28 = Soyons sérieux deux minutes. Ils sont trop cool !
+BRR_29 = Non seulement on peut conduire vite, mais on peut aussi tirer !
+BRR_30 = Plus de détracteurs ! Ils sont tous mort !
+BRR_31 = Et sans détracteurs, je deviens plus riche !
+
+BRR_32 = Magnifique, Magnifique RickeyLand !
+BRR_33 = Quelle création parfaite !
+BRR_34 = Sous la magnifique direction de moi, Rickey !
+BRR_35 = Je vais devenir riche en un rien de temps, regarde !
+
+BRR_36 = Dernière étape : Les cyber-PDGs !
+BRR_37 = Avec eux, je vais pouvoir conquérir le monde !
+BRR_38 = Tout le monde va venir à RickeyLand !
+BRR_39 = Je vais même créer le parc ultime : RickeyWorld !
+BRR_40 = Ah Ah ! Je suis si grand ! Je suis si cool !
 
 
 # ------------------------------------------------------------------------

@@ -29,4 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MG/HQ2/QTG.unity
     guid: 26276784719e36b4ca2b17029304e719
+  - enabled: 1
+    path: Assets/Scenes/MG/HQ2/BRR.unity
+    guid: 973e7aa6a4b474945b33ac85bd884a02
   m_configObjects: {}

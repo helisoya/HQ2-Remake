@@ -1,6 +1,7 @@
 fadeBg(1;true)
 
-setBackground(HaroldSalon)
+setBackground(HaroldSalon;true)
+if(rain = 1) changeSkybox(Cloud)
 
 addCharacter(Harold;false)
 setCharacterPosition(Harold;Couch)

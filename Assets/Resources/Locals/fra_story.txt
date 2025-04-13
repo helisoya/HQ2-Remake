@@ -819,6 +819,43 @@ Palace_MainQuest5_71 = Je sais ! Je vais chanter un rap si beau qu'il va te tuer
 Palace_MainQuest5_72 = Quoi ?
 Palace_MainQuest5_73 = Je n'ai pas le temps de comprendre ce qu'il vient de dire. Rickey commence déjà à chanter.
 
+Palace_MainQuest5_74 = RHA ! ARRETES DE RUINER MON RAP !
+Palace_MainQuest5_75 = Je vais te briser ! Je vais te tuer, Harold !
+Palace_MainQuest5_76 = Je v-
+Palace_MainQuest5_77 = AH ! NOOOOOOOOOOOOOOOOOOOOOOOONNNN !
+Palace_MainQuest5_78 = Qu-
+Palace_MainQuest5_79 = Rickey a trébuché sur la rembarde du balcon et est tombé tête la première sur le sol.
+Palace_MainQuest5_80 = ..... Uhm....
+Palace_MainQuest5_81 = Il est... mort ?
+Palace_MainQuest5_82 = Oh....... Oops ?
+Palace_MainQuest5_83 = Je... Je suppose que ça veut dire que je peux reprendre le grimoire ?
+Palace_MainQuest5_84 = Je cherche le corps de Rickey. Et bien sur, je trouve le grimoire.
+Palace_MainQuest5_85 = J'ai l'impression de faire quelque chose de mal...
+Palace_MainQuest5_86 = Qu'est ce que je fais ? Je pourais finir en prison pour ça.
+Palace_MainQuest5_87 = Qu'est ce qu'il se passe ici ?
+Palace_MainQuest5_88 = Waldo ! Je.. Je veux dire... Le PDG...
+Palace_MainQuest5_89 = Oh... Oh non.
+Palace_MainQuest5_90 = Bien... Je suppose que je vais devoir prendre les rennes de RickeyLand pour le moment.
+Palace_MainQuest5_91 = Je suppose que c'était un accident ? Ca ne me surprend pas, honnêtement.
+Palace_MainQuest5_92 = .. Il m'a cru...
+Palace_MainQuest5_93 = Vous avez obtenu ce que vous vouliez ?
+Palace_MainQuest5_94 = Oui. J'ai trouvé le livre que voulais Harold.
+Palace_MainQuest5_95 = Bien. Vous devriez aller le lui donner.
+Palace_MainQuest5_96 = Je suis sur qu'il vous attend.
+Palace_MainQuest5_97 = Oui. Je suis désolé d'avoir causé autant de problèmes...
+Palace_MainQuest5_98 = Meh, pas d'inquiétudes. Je m'était un peu préparé à ça.
+Palace_MainQuest5_99 = Rickey a toujours été arrogant. C'était juste une question de temps.
+Palace_MainQuest5_100 = Malheureusement, je vais devoir vous demander de partir. Je vais fermer le parc pour le moment.
+Palace_MainQuest5_101 = Je dois nettoyer ce bazar. Et redorer l'image du parc.
+Palace_MainQuest5_102 = Je vais peut être changer le nom ? On vera.
+Palace_MainQuest5_103 = Très bien, je vais m'en aller alors. C'était un plaisir de vous recontrer.
+Palace_MainQuest5_104 = De même.
+Palace_MainQuest5_105 = Je dis au revoir, plus je quite le palais.
+Palace_MainQuest5_106 = Une fois dehors, je quite le parc.
+Palace_MainQuest5_107 = C'est enfin fini...
+Palace_MainQuest5_108 = Je dois encore donner le livre à Harold. Et ensuite, il me renvera chez moi.
+Palace_MainQuest5_109 = Allons-y !
+
 # ---------------------------------------------------------
 # ------------------- Marais ------------------------------
 # ---------------------------------------------------------
