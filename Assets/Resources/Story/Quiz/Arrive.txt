@@ -3,6 +3,7 @@ if(mainQuest = 5) playMusic(Exploration2_Rickey)
 
 removeAllCharacters()
 setBackground(RickeyLandWaldoQuiz)
+if(rain = 1) changeSkybox(Cloud)
 
 if(mainQuest > 4) load(Quiz/Interaction)
 
