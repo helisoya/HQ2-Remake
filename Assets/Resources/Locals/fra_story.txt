@@ -268,6 +268,30 @@ ChezHarold_Harold_MainQuest1_3 = Vous allez devoir improviser. Peut être que qu
 
 ChezHarold_Harold_Default = [MC] ! Avez-vous besoin d'aide ?
 
+ChezHarold_Harold_MainQuest6_1 = [MC] ! Vous avez réussit !
+ChezHarold_Harold_MainQuest6_2 = Oui... J'ai obtenu votre grimoire.
+ChezHarold_Harold_MainQuest6_3 = Avez-vous eu des problèmes pour le récupérer ?
+ChezHarold_Harold_MainQuest6_4 = Euh... Pas vraiment.
+ChezHarold_Harold_MainQuest6_5 = C'est bon à savoir !
+ChezHarold_Harold_MainQuest6_6 = Si Rickey avait compris son potentiel, nous aurions tous été en danger.
+ChezHarold_Harold_MainQuest6_7 = Mais je suis heureux de savoir que vous avez sauvé mon grimoire.
+ChezHarold_Harold_MainQuest6_8 = Bien sur, je suis aussi content de savoir que vous allez bien !
+ChezHarold_Harold_MainQuest6_9 = Merci.
+ChezHarold_Harold_MainQuest6_10 = Bien... J'ai fini ce que j'avais à faire.
+ChezHarold_Harold_MainQuest6_11 = Je suppose que c'est le moment ou vous me renvoyez dans mon monde ?
+ChezHarold_Harold_MainQuest6_12 = ............
+ChezHarold_Harold_MainQuest6_13 = Eh Eh Eh !
+ChezHarold_Harold_MainQuest6_14 = Hein ?
+ChezHarold_Harold_MainQuest6_15 = Vous voulez que je vous renvoie dans votre monde ?
+ChezHarold_Harold_MainQuest6_16 = Avez-vous la moindre idée de ce que vous venez de faire ?
+ChezHarold_Harold_MainQuest6_17 = Euh... Harold ?
+ChezHarold_Harold_MainQuest6_18 = Vous m'êtes toujours utile, [MC]. Vous ne repartirez pas.
+ChezHarold_Harold_MainQuest6_19 = Quoi ?! Harold me menace avec une arme ?
+ChezHarold_Harold_MainQuest6_20 = Attendez, attendez ! Qu'est c-
+ChezHarold_Harold_MainQuest6_21 = Harold me frappe avec son arme. Je tombe dans l'inconscience immédiatement.
+ChezHarold_Harold_MainQuest6_22 = ............
+
+
 # ---------------------------------------------------------
 # ------------------- Vlatyr ------------------------------
 # ---------------------------------------------------------
@@ -922,3 +946,104 @@ Fortress_GUARDQuest0_28 = Je suis les traces jusqu'au pont. Mais elles s'arrête
 Fortress_GUARDQuest0_29 = ... Peut-être que la personne a soigné sa blessure ?
 Fortress_GUARDQuest0_30 = Et bien, je vais devoir m'arrêter là. Je devrais retourner voir GARDE.
 Fortress_GUARDQuest0_31 = Il devrait déjà être content avec le collier que j'ai trouvé.
+
+
+# ---------------------------------------------------------
+# ---------------------- End ------------------------------
+# ---------------------------------------------------------
+
+
+End_Part1_1 = .............
+End_Part1_2 = J'ouvre les yeux. Ou suis-je ?
+End_Part1_3 = Ce n'est définitivement pas la maison d'Harold.
+End_Part1_4 = En parlant de lui... Il m'a trahit...
+End_Part1_5 = Mais pourquoi ? Il veut me forcer à travailler pour lui à jamais ?
+End_Part1_6 = Je veux dire. Il a déjà brisé sa promesse une fois... Et il m'a menti dans le passé, donc...
+End_Part1_7 = ...
+End_Part1_8 = Je peux entendre quelqu'un venir.
+End_Part1_9 = Oh ! Vous êtes réveillé, [MC].
+End_Part1_10 = Harold ! Mais pourquoi ?
+End_Part1_11 = Eh Eh Eh ! Vous ne pouvez pas comprendre.
+End_Part1_12 = Vous venez de me donner la dernière pièce pour démarer mon plan.
+End_Part1_13 = Quel plan ? Quelle pièce ?
+End_Part1_14 = Eh Eh Eh ! Comprenez-vous seulement la puissance contenu dans le grimoire ?
+End_Part1_15 = ........
+End_Part1_16 = Eh ! Vous comprenez maintenant ?
+End_Part1_17 = Notre culte des invocateurs est dans un sale état, vous voyez.
+End_Part1_18 = Ce stupide Kalien et son acolyte étrange nous ont vaincu à la forteresse.
+End_Part1_19 = Ils l'ont même fait exploser ! Mon culte tout entier à disparu en un jour !
+End_Part1_20 = Est-ce que vous savez combien de temps ça m'a pris pour le batir ?
+End_Part1_21 = Un empire dans l'ombre, s'étendant jusqu'au ports distants de Kalia.
+End_Part1_22 = Tout cela au nom de notre maitre. Le très grand Seigneur Cerf.
+End_Part1_23 = Dans tout les cas. Quand la forteresse a été détruite, j'ai perdu tout mon matériel d'invocation.
+End_Part1_24 = J'ai même perdu cet autre gamin que j'ai manipulé après votre départ.
+End_Part1_25 = Je n'ai plus rien, à part quelques sbires. Pas assez pour le géniallisime plan de notre maître.
+End_Part1_26 = Pour cela, j'ai décidé de lancer une nouvelle opération : Récupérer le grimoire que Rickey m'avait volé.
+End_Part1_27 = C'est le dernier livre en état, décrivant les arts anciens de l'invocation.
+End_Part1_28 = Avec lui, je peux invoquer de nouveaux pions pour concevoir un nouvel empire !
+End_Part1_29 = Et quand nous serons prêt. J'invoquerait le Seigneur Cerf dans ce monde.
+End_Part1_30 = Il le détruira, et le culte regnera en maître.
+End_Part1_31 = C'est de la folie !
+End_Part1_32 = Eh Eh Eh ! Et vous venez de m'aider à mettre tout cela en place !
+End_Part1_33 = Vous étiez suffisament naif pour m'aider. C'était simple.
+End_Part1_34 = Oui, vous n'êtes pas aussi idiot que l'autre gamin. Mais je ferais de vous le cultiste parfait un jour.
+End_Part1_35 = Je n'accepterais jamais.
+End_Part1_36 = Eh ! Vous n'avez pas le choix, [MC].
+End_Part1_37 = Bien, je dois y aller. J'ai un empire à reconstruire.
+End_Part1_38 = ............
+End_Part1_39 = Harold était le chef d'un culte ? Depuis le début ?
+End_Part1_40 = Je suppose que tuer le dragon n'était qu'un test alors.
+End_Part1_41 = Il voulait savoir s'il pouvait faire de moi son pion.
+End_Part1_42 = Mais je n'accepterais jamais ça !
+End_Part1_43 = Je vais m'évader. Je vais vaincre Harold !
+End_Part1_44 = Peut importe si je ne retrouve jamais mon mond originel. Je peux mourrir, ici.
+End_Part1_45 = Et je ne peux pas juste m'enfuir. Harold est trop puissant pour que je le laisse en liberté.
+End_Part1_46 = ..... Mais comment m'évader ?
+End_Part1_47 = J'examine la porte de la cellule. Peut être que je peux trouver un moyen de l'ouvrir de l'intérieur.
+End_Part1_48 = ......
+End_Part1_49 = La porte... est ouverte ?
+End_Part1_50 = Je veux dire... Harold est toujours Harold. Même s'il est maléfique, il est toujours un peu bête.
+End_Part1_51 = Très bien. Il est temps de trouver mon viel ami et de lui donner une bonne leçon.
+End_Part1_52 = Je m'aventure dans cet endroit étrange à la recherche d'Harold.
+End_Part1_53 = L'endroit est immense. On dirais une sorte de forteresse, mais différente de celle du dragon.
+End_Part1_54 = Maintenant que j'y pense. Suis-je toujours à Vlatyr ?
+End_Part1_55 = Je pourrais être n'importe ou, du sous sol secret d'Harold à une forteresse dans les cieux.
+End_Part1_56 = .....
+End_Part1_57 = Après quelques minutes, j'entend une faible voix venir d'une salle voisine.
+End_Part1_58 = Mais qui invoquer en premier ?
+End_Part1_59 = Felix ? Non... Je dois toujours trouver une chef capable de faire des burgers avant ça.
+End_Part1_60 = Axel ? Hmm.... Peut être ? ..... En y repensant, peut être pas.
+End_Part1_61 = Harold à l'air d'essayer de trouver le pion parfait on dirait.
+End_Part1_62 = Il est l'heure d'en finir.
+End_Part1_63 = J'entre dans la salle. Harold regarde à la fenêtre en marmonant dans sa barbe.
+End_Part1_64 = Et Juno ? .... Non, le changement de paysage serait trop brutal.
+End_Part1_65 = Harold !
+End_Part1_66 = Hein ?! Qu- ! Comment ?!
+End_Part1_67 = Comment êtes-vous sorti de votre cellule ?!
+End_Part1_68 = Elle était ouverte...
+End_Part1_69 = Oh...
+End_Part1_70 = Je veux dire, d'habitude, ce sont mes sbires qui le font pour moi, donc...
+End_Part1_71 = Dans tout les cas ! Ca n'a pas d'importance ! Vous ne pouvez pas me battre !
+End_Part1_72 = Oh vraiment ? Vous n'êtes qu'il simple viellard.
+End_Part1_73 = J'ai tué un dragon, vous vous souvenez ?
+End_Part1_74 = Eh Eh Eh ! Idiot !
+End_Part1_75 = Je ne suis pas n'importe quel viellard, [MC] !
+End_Part1_76 = Waldo ne vous a pas parlé du temps ou nous étions parternaires ?
+End_Part1_77 = Hein ?
+End_Part1_78 = Il n'y a pas si longtemps, je me battait contre des ennemies puissants dans la province de Runan.
+End_Part1_79 = Le Chevalier de Runan, l'autre clown, le foutu chef ! Je les ai tous vaincu !
+End_Part1_80 = J'aurais pu vaincre le dragon à n'importe quel moment. Mais j'ai choisi de ne pas le faire.
+End_Part1_81 = Je voulais vous tester. Voir si vous étiez suffisament fort pour devenir mon pion.
+End_Part1_82 = Vous avez réussit. Mais à mes yeux, vous êtes toujours un apprenti.
+End_Part1_83 = Ah ! J'aimerai vous y voir !
+End_Part1_84 = Vous m'avez déjà menti dans le passé. C'est surement un de vos tours.
+End_Part1_85 = Eh Eh Eh ! Très bien !
+End_Part1_86 = PREPAREZ-VOUS !
+End_Part1_87 = POUR !
+End_Part1_88 = LE !
+End_Part1_89 = PLUS GRAND DANCEUR DU MONDE !
+End_Part1_90 = Qu'est ce-
+End_Part1_91 = Eh Eh Eh ! Vous ne le saviez pas, mais je porte toujours mes habits de combat sous mes vetements.
+End_Part1_92 = Je vais vous faire mordre la poussière !
+End_Part1_93 = Et une fois cela fait, vous comprendrez enfin qui est le véritable maître, ici.
+End_Part1_94 = Harold se prépare. C'est la fin.

@@ -263,6 +263,29 @@ ChezHarold_Harold_MainQuest1_3 = You'll have to improvise. Maybe someone can giv
 
 ChezHarold_Harold_Default = [MC] ! Do you need help with anything ?
 
+ChezHarold_Harold_MainQuest6_1 = [MC] ! You did it !
+ChezHarold_Harold_MainQuest6_2 = Yes... I got your grimoire back.
+ChezHarold_Harold_MainQuest6_3 = Did you have any problems while retrieving it ?
+ChezHarold_Harold_MainQuest6_4 = Uhm... Not really.
+ChezHarold_Harold_MainQuest6_5 = That's good to hear !
+ChezHarold_Harold_MainQuest6_6 = If Rickey understood his potential, we would have been in trouble.
+ChezHarold_Harold_MainQuest6_7 = But I'm glad to hear you succeed in saving my grimoire.
+ChezHarold_Harold_MainQuest6_8 = I'm also glad you are alright, of course !
+ChezHarold_Harold_MainQuest6_9 = Thanks.
+ChezHarold_Harold_MainQuest6_10 = Well... I guess I'm about done here.
+ChezHarold_Harold_MainQuest6_11 = I guess this this the part where you send me back to my world ?
+ChezHarold_Harold_MainQuest6_12 = ............
+ChezHarold_Harold_MainQuest6_13 = Eh Eh Eh !
+ChezHarold_Harold_MainQuest6_14 = Uh ?
+ChezHarold_Harold_MainQuest6_15 = You want me to send you back to your world ?
+ChezHarold_Harold_MainQuest6_16 = Do you have any idea what you just did ?
+ChezHarold_Harold_MainQuest6_17 = Uhm... Harold ?
+ChezHarold_Harold_MainQuest6_18 = I still have some use for you, [MC]. You are not going back.
+ChezHarold_Harold_MainQuest6_19 = Uh ?! Harold pulled a gun on me ?
+ChezHarold_Harold_MainQuest6_20 = Wait, wait ! What ar-
+ChezHarold_Harold_MainQuest6_21 = Harold punches me with his gun. I lose cousciousness immediatly.
+ChezHarold_Harold_MainQuest6_22 = ............
+
 # ---------------------------------------------------------
 # ------------------- Vlatyr ------------------------------
 # ---------------------------------------------------------
@@ -919,3 +942,104 @@ Fortress_GUARDQuest0_28 = I follow the trail back to the bridge, but it stops su
 Fortress_GUARDQuest0_29 = ... Maybe the person treated his injury ?
 Fortress_GUARDQuest0_30 = Well, I can't continue to tail them. I should report back to GUARD.
 Fortress_GUARDQuest0_31 = He should be happy enough with the necklace I found.
+
+
+
+# ---------------------------------------------------------
+# ---------------------- End ------------------------------
+# ---------------------------------------------------------
+
+End_Part1_1 = .............
+End_Part1_2 = I open my eyes. Where am I ?
+End_Part1_3 = This is definitly not Harold's house.
+End_Part1_4 = Speaking of which... He betrayed me...
+End_Part1_5 = But why ? Is he plotting to force me to work for him forever ?
+End_Part1_6 = I mean. He already broke his word once... And he lied to me in the past, so...
+End_Part1_7 = ...
+End_Part1_8 = I can hear someone coming this way.
+End_Part1_9 = Oh ! You woke up, [MC].
+End_Part1_10 = Harold ! But why ?
+End_Part1_11 = Eh Eh Eh ! You wouldn't understand.
+End_Part1_12 = You just gave me the final piece to complete my grand plan.
+End_Part1_13 = What grand plan ? What piece ?
+End_Part1_14 = Eh Eh Eh ! Do you have any idea of the power contained in the grimoire ?
+End_Part1_15 = ........
+End_Part1_16 = Eh ! Finally catching on, uh ?
+End_Part1_17 = Our cult of the Summoners is in a dire state, you see.
+End_Part1_18 = That stupid Kalian and his weird sidekick defeated us at the fortress.
+End_Part1_19 = They even blew it up ! My entire cult, gone in a day !
+End_Part1_20 = Do you even know how much time it took me to built it ?
+End_Part1_21 = A shadow empire, stretching as far as the distant ports of Kalia.
+End_Part1_22 = All in the name of our lord. The Great Lord Elk.
+End_Part1_23 = Anyway. When the fortress was destroyed, I lost all my summoning materials.
+End_Part1_24 = I even lost that other kid I manipulated after you left.
+End_Part1_25 = I had nothing left, but a few of my henchmens. Not enough for our master's grand plan !
+End_Part1_26 = For this purpose, I decided to launch a new operation : Retrieving the grimoire Rickey stole from me.
+End_Part1_27 = It is the only remaining book describing the ancient arts of summoning.
+End_Part1_28 = With it, I can summon new pawns to build a new empire !
+End_Part1_29 = And when we'll be ready, I'll summon back Lord Elk into this world.
+End_Part1_30 = He will destroy this world, and the cult will reign supreme.
+End_Part1_31 = This is insane !
+End_Part1_32 = Eh Eh Eh ! And you just helped me kick start it all !
+End_Part1_33 = You were naive enough to help me, so it was a piece of cake.
+End_Part1_34 = Yes, you might not be as idiotic as the other kid. But with enough time, I'll reshape you into the perfect cultist.
+End_Part1_35 = I won't stand for this.
+End_Part1_36 = Eh ! You won't have a choice, [MC].
+End_Part1_37 = Well, I need to go now. I have an empire to rebuild.
+End_Part1_38 = ............
+End_Part1_39 = Harold was the leader of a cult ? Since the beginning ?
+End_Part1_40 = I guess slaying the dragon was some sort of test then.
+End_Part1_41 = He wanted to know if he could make a good pawn of me. 
+End_Part1_42 = But I won't stand for this !
+End_Part1_43 = I'll break out, I'll defeat Harold !
+End_Part1_44 = Doesn't matter if I never see my home world again. I could die here.
+End_Part1_45 = And I can't just run away. Harold is too powerful to be left alone.
+End_Part1_46 = ..... But how do I get out ?
+End_Part1_47 = I examine the cell's door. Maybe there is a way for me to open it from the inside.
+End_Part1_48 = ......
+End_Part1_49 = The... The door is unlocked ?
+End_Part1_50 = I mean... I guess Harold is still Harold. Even if he's evil, he's still quite stupid.
+End_Part1_51 = Alright, time to find our old friend and teach him a lesson.
+End_Part1_52 = I roam around this weird place in search of Harold.
+End_Part1_53 = This place is huge. It seems to be some sort of fortress, not unlike the dragon's fortress.
+End_Part1_54 = Now that I think about it. Am I even still in Vlatyr ?
+End_Part1_55 = We could be anywhere, from Harold's secret basement to a fortress in the skies.
+End_Part1_56 = .....
+End_Part1_57 = After walking for a few minutes. I can hear a faint voice coming from a nearby room.
+End_Part1_58 = But who do I summon first ?
+End_Part1_59 = Felix ? No... I still need to find a chef capable of cooking burgers before that.
+End_Part1_60 = Axel ? Hmm.... Maybe ? ..... On second thoughts, maybe not.
+End_Part1_61 = Harold seems to be trying to find the perfect pawn, or so it seems.
+End_Part1_62 = Time to crash his party.
+End_Part1_63 = I enter the room, Harold is looking at the window, muttering nonsense.
+End_Part1_64 = But what about Juno ? .... No, the landscape change would be too brutal for them.
+End_Part1_65 = Harold !
+End_Part1_66 = Uh ?! What the ! How ?!
+End_Part1_67 = How did you get out from your cell ?!
+End_Part1_68 = It was left unlocked...
+End_Part1_69 = Oh...
+End_Part1_70 = I mean, usually, I have henchmens to do this for me, so...
+End_Part1_71 = Anyway ! It doesn't matter ! You can't defeat me !
+End_Part1_72 = Oh please, you're just an old guy.
+End_Part1_73 = I slayed a dragon, remember ?
+End_Part1_74 = Eh Eh Eh ! You fool !
+End_Part1_75 = I am not any old man, [MC] !
+End_Part1_76 = Didn't Waldo tell you about our time together ?
+End_Part1_77 = Uh ?
+End_Part1_78 = Not too long ago, I was in Runan defeating powerful ennemies after powerful ennemies.
+End_Part1_79 = The Knight of Runan, that Clown, the damn chef ! I defeated them all !
+End_Part1_80 = I could have defeated the dragon anytime. But I chose not to.
+End_Part1_81 = I chose instead to test you. To see if you had what it takes to be my pawn.
+End_Part1_82 = You passed, but you are still an apprentice to me.
+End_Part1_83 = Right ! I'd like to see you fight !
+End_Part1_84 = You lied to me a lot in the past. This could be another one of your tricks.
+End_Part1_85 = Eh Eh Eh ! Fine !
+End_Part1_86 = GET READY !
+End_Part1_87 = FOR !
+End_Part1_88 = THE !
+End_Part1_89 = GREATEST DANCER IN THE WORLD !
+End_Part1_90 = What th-
+End_Part1_91 = Eh Eh Eh ! You never knew it, but I always have my combat clothes underneath my civilian clothes !
+End_Part1_92 = I'll wipe the floor with you, you'll see !
+End_Part1_93 = And then you'll understand who the true master is.
+End_Part1_94 = Harold prepares himself. It's the final showdown.
