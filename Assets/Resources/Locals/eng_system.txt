@@ -85,17 +85,21 @@ rules_QW_controls = Click on the correct anwser.
 rules_HR_goal = Finish the race in the first position.
 rules_HR_controls = Left/Right : Alternate to move<br>Space : Jump
 
-rules_HH_goal = Find exit in the maze.
+rules_HH_goal = Find exit in the haunted house.
 rules_HH_controls = Right / Left : Turn<br>Up / Down : Move
 
 rules_STS_goal = Score at least 300 points. You gain points by not hiting the salesman.
 rules_STS_controls = Click to shoot a knife
 
-rules_QTG_goal = Prevent the guard from killing you
+rules_QTG_goal = Prevent the guard from killing you.
 rules_QTG_controls = Click on the target to win
 
-rules_BRR_goal = Disrupt Rickey's rap
+rules_BRR_goal = Disrupt Rickey's rap.
 rules_BRR_controls = Space : Yell
+
+rules_JDH_goal = Defeat Harold by pressing the required key when it's in the green circle.
+rules_JDH_controls = Arrow keys : Dance
+
 
 
 game_life = HP : 

@@ -165,4 +165,4 @@ dialog(Harold;HaroldKimono;false;End_Part1_92)
 dialog(Harold;HaroldKimono;false;End_Part1_93)
 dialog(narrator;_;false;End_Part1_94)
 
-load(JDH)
+loadScene(JDH)

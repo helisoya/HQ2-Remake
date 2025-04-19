@@ -113,7 +113,7 @@ public class Character : MonoBehaviour
 
         speaking = value;
 
-        mouthAnimator.SetBool("Speak", speaking);
+        if (mouthAnimator) mouthAnimator.SetBool("Speak", speaking);
         bodyAnimator.SetBool("Speak", speaking);
     }
 

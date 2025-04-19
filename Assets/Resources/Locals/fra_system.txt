@@ -81,17 +81,21 @@ rules_Qw_controls = Cliquez sur la réponse correcte.
 rules_HR_goal = Finissez la course en première position.
 rules_HR_controls = Gauche/Droite : Alterner pour avancer<br>Espace : Sauter
 
-rules_HH_goal = Trouvez la sortie dans la mine
+rules_HH_goal = Trouvez la sortie dans la maison hantée.
 rules_HH_controls = Droite / Gauche : Tourner<br>Haut / Bas : Se déplacer
 
 rules_STS_goal = Obtenez au moins 300 points. Vous gagnez des points en ne touchant pas le marchand.
 rules_STS_controls = Cliquez pour jeter un couteau.
 
-rules_QTG_goal = Empechez le garde de vous tirer dessus
+rules_QTG_goal = Empechez le garde de vous tirer dessus.
 rules_QTG_controls = Cliquez sur la cible pour gagner
 
-rules_BRR_goal = Dérangez le rap de Rickey
+rules_BRR_goal = Dérangez le rap de Rickey.
 rules_BRR_controls = Espace : Crier
+
+rules_JDH_goal = Battez Harold en appuyant sur la touche affichée à l'écran quand elle arrive dans le cercle vert.
+rules_JDH_controls = Flèches : Dancer
+
 
 game_life = HP : 
 game_player = Joueur :

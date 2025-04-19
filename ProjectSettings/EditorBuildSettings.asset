@@ -32,4 +32,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MG/HQ2/BRR.unity
     guid: 973e7aa6a4b474945b33ac85bd884a02
+  - enabled: 1
+    path: Assets/Scenes/MG/HQ2/JDH.unity
+    guid: a8db68e1ffc10cf498b60f07ec76ee96
   m_configObjects: {}
