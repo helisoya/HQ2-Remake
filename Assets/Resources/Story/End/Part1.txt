@@ -20,6 +20,7 @@ setCharacterBody(Harold;Smug;true)
 setCharacterPosition(Harold;Bars)
 setCharacterRotation(Harold;Bars)
 setCharacterAlpha(Harold;1;false)
+playMusic(Summoners)
 
 dialog(Harold;Harold;false;End_Part1_9)
 
@@ -61,6 +62,7 @@ dialog([MC];_;false;End_Part1_35)
 dialog(Harold;Harold;false;End_Part1_36)
 dialog(Harold;Harold;false;End_Part1_37)
 
+playMusic(null)
 setCharacterAlpha(Harold;0;false)
 
 dialog(narrator;_;false;End_Part1_38)
@@ -124,6 +126,7 @@ dialog(Harold;Harold;false;End_Part1_70)
 
 setCharacterBody(Harold;Smug;false)
 setCharacterEye(Harold;Mad)
+playMusic(Summoners)
 dialog(Harold;Harold;false;End_Part1_71)
 
 dialog([MC];_;false;End_Part1_72)

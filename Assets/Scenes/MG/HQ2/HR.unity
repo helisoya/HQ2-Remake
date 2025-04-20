@@ -568,7 +568,7 @@ Animator:
   m_GameObject: {fileID: 90142633}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 7a75a8f69a6d62b408bafe5e32d5f7c3, type: 2}
+  m_Controller: {fileID: 9100000, guid: 92d495a2d2f4bdd479b5dda1a2b74620, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -12056,7 +12056,7 @@ Animator:
   m_GameObject: {fileID: 1119658363}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 7a75a8f69a6d62b408bafe5e32d5f7c3, type: 2}
+  m_Controller: {fileID: 9100000, guid: 92d495a2d2f4bdd479b5dda1a2b74620, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -19313,17 +19313,9 @@ MonoBehaviour:
   m_Mesh: {fileID: 408484770}
   m_VersionIndex: 21910
   m_IsSelectable: 1
-  m_SelectedFaces: 3e000000
-  m_SelectedEdges:
-  - a: 248
-    b: 249
-  - a: 250
-    b: 248
-  - a: 249
-    b: 251
-  - a: 251
-    b: 250
-  m_SelectedVertices: f8000000f9000000fa000000fb000000
+  m_SelectedFaces: 
+  m_SelectedEdges: []
+  m_SelectedVertices: 
 --- !u!4 &1668875025
 Transform:
   m_ObjectHideFlags: 0
@@ -22422,7 +22414,7 @@ Animator:
   m_GameObject: {fileID: 1773109837}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 7a75a8f69a6d62b408bafe5e32d5f7c3, type: 2}
+  m_Controller: {fileID: 9100000, guid: 92d495a2d2f4bdd479b5dda1a2b74620, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -23865,7 +23857,7 @@ Animator:
   m_GameObject: {fileID: 2020755720}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 7a75a8f69a6d62b408bafe5e32d5f7c3, type: 2}
+  m_Controller: {fileID: 9100000, guid: 92d495a2d2f4bdd479b5dda1a2b74620, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -25247,7 +25239,7 @@ Animator:
   m_GameObject: {fileID: 5862701195376173026}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 7a75a8f69a6d62b408bafe5e32d5f7c3, type: 2}
+  m_Controller: {fileID: 9100000, guid: 92d495a2d2f4bdd479b5dda1a2b74620, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0

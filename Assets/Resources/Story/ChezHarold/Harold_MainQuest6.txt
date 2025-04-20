@@ -29,6 +29,7 @@ dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest6_16)
 
 dialog([MC];_;false;ChezHarold_Harold_MainQuest6_17)
 
+playSound(Degaine)
 setCharacterBody(Harold;Gun;false)
 dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest6_18)
 

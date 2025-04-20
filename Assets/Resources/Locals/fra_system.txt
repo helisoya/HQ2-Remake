@@ -142,7 +142,7 @@ WQ_Question3_2 = Me
 WQ_Question3_3 = Rickey
 WQ_Question3_4 = Harold
 
-WQ_Question4 = Combient y a-t'il d'attractions au parc ? 
+WQ_Question4 = Combien y a-t-il d'attractions au parc ?
 WQ_Question4_1 = 4
 WQ_Question4_2 = 10
 WQ_Question4_3 = 7
@@ -162,7 +162,7 @@ WQ_Question6_4 = Un livre
 
 
 BRR_0 = Je suis le plus grand PDG !
-BRR_1 = Beau, cool, et bien sur, riche !
+BRR_1 = Beau, cool, et bien sûr, riche !
 BRR_2 = Contrairement à toi, j'ai un superbe parc !
 
 BRR_3 = Magnifique, Magnifique RickeyLand !
@@ -172,7 +172,7 @@ BRR_6 = Je vais devenir riche en un rien de temps, regarde !
 
 BRR_7 = Première étape vers la richesse : Les coupes.
 BRR_8 = Vires tout le monde ! C'est moins cher !
-BRR_9 = Natasha, dégages ! Je n'ai besoin que de Waldo de toute façon.
+BRR_9 = Natasha, dégage ! Je n'ai besoin que de Waldo de toute façon.
 BRR_10 = Besoin de bras ? Utilise les gardes !
 BRR_11 = Ce sont les seuls êtres importants de ce parc !
 BRR_12 = Mon plan est parfait. Je deviens déjà plus riche !
@@ -184,9 +184,9 @@ BRR_16 = Je vais devenir riche en un rien de temps, regarde !
 
 BRR_17 = Deuxième étape : Des prix.
 BRR_18 = Les gens ne veulent pas venir ?
-BRR_19 = Ton parc est dis "a éviter" ?
-BRR_20 = Promet une récompence s'ils viennent !
-BRR_21 = Regardes les, venir courrir juste pour un vieux bouquin !
+BRR_19 = Ton parc est dis "à éviter" ?
+BRR_20 = Promet une récompense s'ils viennent !
+BRR_21 = Regardes les, venir courir juste pour un vieux bouquin !
 BRR_22 = Je suis un génie ! Un génie riche !
 
 BRR_23 = Magnifique, Magnifique RickeyLand !
@@ -197,7 +197,7 @@ BRR_26 = Je vais devenir riche en un rien de temps, regarde !
 BRR_27 = Troisième étape : Les panzers !
 BRR_28 = Soyons sérieux deux minutes. Ils sont trop cool !
 BRR_29 = Non seulement on peut conduire vite, mais on peut aussi tirer !
-BRR_30 = Plus de détracteurs ! Ils sont tous mort !
+BRR_30 = Plus de détracteurs ! Ils sont tous morts !
 BRR_31 = Et sans détracteurs, je deviens plus riche !
 
 BRR_32 = Magnifique, Magnifique RickeyLand !

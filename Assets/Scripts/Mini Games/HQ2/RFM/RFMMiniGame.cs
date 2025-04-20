@@ -30,6 +30,10 @@ public class RFMMiniGame : MiniGame
     [SerializeField] private Transform bulletPrefab;
     [SerializeField] private float fireCooldown;
     [SerializeField] private float fireLengthCooldown;
+
+    [Header("Sounds")]
+    [SerializeField] private AudioClip fireClip;
+    [SerializeField] private AudioClip damageClip;
     private float currentScopeCooldown;
     private int scopeState = 0;
 
@@ -69,6 +73,7 @@ public class RFMMiniGame : MiniGame
     public void TakeDamage()
     {
         SetBarFill(Mathf.Clamp(barFillAmount - 0.1f, 0f, 1f));
+        AudioManager.instance.PlaySFX(damageClip);
     }
 
     /// <summary>
@@ -142,7 +147,7 @@ public class RFMMiniGame : MiniGame
                 {
                     Vector3 direction = (scope.position - Camera.main.transform.position).normalized;
                     Instantiate(bulletPrefab, Camera.main.transform.position, Quaternion.identity).up = direction;
-                    // Play SFX
+                    AudioManager.instance.PlaySFX(fireClip);
 
                     scopeState = 0;
                     currentScopeCooldown = fireLengthCooldown;

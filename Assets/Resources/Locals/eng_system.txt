@@ -79,8 +79,8 @@ rules_BW_controls = Arrow keys : Move in the arrow's direction
 rules_RFM_goal = Survive for 60 seconds. Jump over the logs, and dodge the bullets.
 rules_RFM_controls = Arrow keys : Move in the arrow's direction<br>Space : Jump
 
-rules_QW_goal = Anwser the questions.
-rules_QW_controls = Click on the correct anwser.
+rules_QW_goal = Answer the questions.
+rules_QW_controls = Click on the correct answer.
 
 rules_HR_goal = Finish the race in the first position.
 rules_HR_controls = Left/Right : Alternate to move<br>Space : Jump
@@ -88,7 +88,7 @@ rules_HR_controls = Left/Right : Alternate to move<br>Space : Jump
 rules_HH_goal = Find exit in the haunted house.
 rules_HH_controls = Right / Left : Turn<br>Up / Down : Move
 
-rules_STS_goal = Score at least 300 points. You gain points by not hiting the salesman.
+rules_STS_goal = Score at least 300 points. You gain points by not hitting the salesman.
 rules_STS_controls = Click to shoot a knife
 
 rules_QTG_goal = Prevent the guard from killing you.

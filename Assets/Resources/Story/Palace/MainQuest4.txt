@@ -1,6 +1,7 @@
 playMusic(null)
 
 fadeBg(1;true)
+removeAllCharacters()
 
 dialog(narrator;_;false;Palace_MainQuest4_1)
 dialog(narrator;_;false;Palace_MainQuest4_2)
